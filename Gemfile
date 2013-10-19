@@ -43,3 +43,25 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+gem "haml-rails"
+gem "omniauth"
+group :development, :test do
+  gem "erb2haml"
+  gem "fuubar"
+  gem "guard-cucumber"
+  gem "guard-rspec"
+  gem "byebug"
+  gem "pry-rails"
+  gem "rspec-rails"
+  gem "tapp"
+end
+
+group :test do
+  gem "capybara"
+  gem "cucumber-rails", require: false
+  gem "faclet"
+  gem "factory_girl_rails"
+  gem "spring"
+  gem "database_cleaner"
+end

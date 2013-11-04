@@ -1,5 +1,10 @@
-- @parties.each do |party|
-  %ol
-    - party.pokemons.each do |pokemon|
-      %li= pokemon.name
-
+%table.table.table-striped.table-bordered
+  %tr
+    %th #
+    - 6.times do |i|
+      %th= "ポケモン#{i + 1}"
+  - @parties.each do |party|
+    %tr
+      %td= link_to party.id, party
+      - party.pokemons.each do |pokemon|
+        %td= pokemon.name

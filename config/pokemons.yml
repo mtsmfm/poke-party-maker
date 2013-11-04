@@ -1,0 +1,2681 @@
+---
+- :id: '001'
+  :name: フシギダネ
+  :type1: grass
+  :type2: poison
+- :id: '002'
+  :name: フシギソウ
+  :type1: grass
+  :type2: poison
+- :id: '003'
+  :name: フシギバナ
+  :type1: grass
+  :type2: poison
+- :id: '004'
+  :name: ヒトカゲ
+  :type1: fire
+  :type2:
+- :id: '005'
+  :name: リザード
+  :type1: fire
+  :type2:
+- :id: '006'
+  :name: リザードン
+  :type1: fire
+  :type2: flying
+- :id: '007'
+  :name: ゼニガメ
+  :type1: water
+  :type2:
+- :id: '008'
+  :name: カメール
+  :type1: water
+  :type2:
+- :id: '009'
+  :name: カメックス
+  :type1: water
+  :type2:
+- :id: '010'
+  :name: キャタピー
+  :type1: bug
+  :type2:
+- :id: '011'
+  :name: トランセル
+  :type1: bug
+  :type2:
+- :id: '012'
+  :name: バタフリー
+  :type1: bug
+  :type2: flying
+- :id: '013'
+  :name: ビードル
+  :type1: bug
+  :type2: poison
+- :id: '014'
+  :name: コクーン
+  :type1: bug
+  :type2: poison
+- :id: '015'
+  :name: スピアー
+  :type1: bug
+  :type2: poison
+- :id: '016'
+  :name: ポッポ
+  :type1: normal
+  :type2: flying
+- :id: '017'
+  :name: ピジョン
+  :type1: normal
+  :type2: flying
+- :id: 018
+  :name: ピジョット
+  :type1: normal
+  :type2: flying
+- :id: 019
+  :name: コラッタ
+  :type1: normal
+  :type2:
+- :id: '020'
+  :name: ラッタ
+  :type1: normal
+  :type2:
+- :id: '021'
+  :name: オニスズメ
+  :type1: normal
+  :type2: flying
+- :id: '022'
+  :name: オニドリル
+  :type1: normal
+  :type2: flying
+- :id: '023'
+  :name: アーボ
+  :type1: poison
+  :type2:
+- :id: '024'
+  :name: アーボック
+  :type1: poison
+  :type2:
+- :id: '025'
+  :name: ピカチュウ
+  :type1: electric
+  :type2:
+- :id: '026'
+  :name: ライチュウ
+  :type1: electric
+  :type2:
+- :id: '027'
+  :name: サンド
+  :type1: ground
+  :type2:
+- :id: 028
+  :name: サンドパン
+  :type1: ground
+  :type2:
+- :id: 029
+  :name: ニドラン♀
+  :type1: poison
+  :type2:
+- :id: '030'
+  :name: ニドリーナ
+  :type1: poison
+  :type2:
+- :id: '031'
+  :name: ニドクイン
+  :type1: poison
+  :type2: ground
+- :id: '032'
+  :name: ニドラン♂
+  :type1: poison
+  :type2:
+- :id: '033'
+  :name: ニドリーノ
+  :type1: poison
+  :type2:
+- :id: '034'
+  :name: ニドキング
+  :type1: poison
+  :type2: ground
+- :id: '035'
+  :name: ピッピ
+  :type1: normal
+  :type2:
+- :id: '036'
+  :name: ピクシー
+  :type1: normal
+  :type2:
+- :id: '037'
+  :name: ロコン
+  :type1: fire
+  :type2:
+- :id: 038
+  :name: キュウコン
+  :type1: fire
+  :type2:
+- :id: 039
+  :name: プリン
+  :type1: normal
+  :type2:
+- :id: '040'
+  :name: プクリン
+  :type1: normal
+  :type2:
+- :id: '041'
+  :name: ズバット
+  :type1: poison
+  :type2: flying
+- :id: '042'
+  :name: ゴルバット
+  :type1: poison
+  :type2: flying
+- :id: '043'
+  :name: ナゾノクサ
+  :type1: grass
+  :type2: poison
+- :id: '044'
+  :name: クサイハナ
+  :type1: grass
+  :type2: poison
+- :id: '045'
+  :name: ラフレシア
+  :type1: grass
+  :type2: poison
+- :id: '046'
+  :name: パラス
+  :type1: bug
+  :type2: grass
+- :id: '047'
+  :name: パラセクト
+  :type1: bug
+  :type2: grass
+- :id: 048
+  :name: コンパン
+  :type1: bug
+  :type2: poison
+- :id: 049
+  :name: モルフォン
+  :type1: bug
+  :type2: poison
+- :id: '050'
+  :name: ディグダ
+  :type1: ground
+  :type2:
+- :id: '051'
+  :name: ダグトリオ
+  :type1: ground
+  :type2:
+- :id: '052'
+  :name: ニャース
+  :type1: normal
+  :type2:
+- :id: '053'
+  :name: ペルシアン
+  :type1: normal
+  :type2:
+- :id: '054'
+  :name: コダック
+  :type1: water
+  :type2:
+- :id: '055'
+  :name: ゴルダック
+  :type1: water
+  :type2:
+- :id: '056'
+  :name: マンキー
+  :type1: fighting
+  :type2:
+- :id: '057'
+  :name: オコリザル
+  :type1: fighting
+  :type2:
+- :id: 058
+  :name: ガーディ
+  :type1: fire
+  :type2:
+- :id: 059
+  :name: ウインディ
+  :type1: fire
+  :type2:
+- :id: '060'
+  :name: ニョロモ
+  :type1: water
+  :type2:
+- :id: '061'
+  :name: ニョロゾ
+  :type1: water
+  :type2:
+- :id: '062'
+  :name: ニョロボン
+  :type1: water
+  :type2: fighting
+- :id: '063'
+  :name: ケーシィ
+  :type1: psychic
+  :type2:
+- :id: '064'
+  :name: ユンゲラー
+  :type1: psychic
+  :type2:
+- :id: '065'
+  :name: フーディン
+  :type1: psychic
+  :type2:
+- :id: '066'
+  :name: ワンリキー
+  :type1: fighting
+  :type2:
+- :id: '067'
+  :name: ゴーリキー
+  :type1: fighting
+  :type2:
+- :id: 068
+  :name: カイリキー
+  :type1: fighting
+  :type2:
+- :id: 069
+  :name: マダツボミ
+  :type1: grass
+  :type2: poison
+- :id: '070'
+  :name: ウツドン
+  :type1: grass
+  :type2: poison
+- :id: '071'
+  :name: ウツボット
+  :type1: grass
+  :type2: poison
+- :id: '072'
+  :name: メノクラゲ
+  :type1: water
+  :type2: poison
+- :id: '073'
+  :name: ドククラゲ
+  :type1: water
+  :type2: poison
+- :id: '074'
+  :name: イシツブテ
+  :type1: rock
+  :type2: ground
+- :id: '075'
+  :name: ゴローン
+  :type1: rock
+  :type2: ground
+- :id: '076'
+  :name: ゴローニャ
+  :type1: rock
+  :type2: ground
+- :id: '077'
+  :name: ポニータ
+  :type1: fire
+  :type2:
+- :id: 078
+  :name: ギャロップ
+  :type1: fire
+  :type2:
+- :id: 079
+  :name: ヤドン
+  :type1: water
+  :type2: psychic
+- :id: 080
+  :name: ヤドラン
+  :type1: water
+  :type2: psychic
+- :id: 081
+  :name: コイル
+  :type1: electric
+  :type2: steel
+- :id: 082
+  :name: レアコイル
+  :type1: electric
+  :type2: steel
+- :id: 083
+  :name: カモネギ
+  :type1: normal
+  :type2: flying
+- :id: 084
+  :name: ドードー
+  :type1: normal
+  :type2: flying
+- :id: 085
+  :name: ドードリオ
+  :type1: normal
+  :type2: flying
+- :id: 086
+  :name: パウワウ
+  :type1: water
+  :type2:
+- :id: 087
+  :name: ジュゴン
+  :type1: water
+  :type2: ice
+- :id: 088
+  :name: ベトベター
+  :type1: poison
+  :type2:
+- :id: 089
+  :name: ベトベトン
+  :type1: poison
+  :type2:
+- :id: 090
+  :name: シェルダー
+  :type1: water
+  :type2:
+- :id: 091
+  :name: パルシェン
+  :type1: water
+  :type2: ice
+- :id: 092
+  :name: ゴース
+  :type1: ghost
+  :type2: poison
+- :id: 093
+  :name: ghost
+  :type1: ghost
+  :type2: poison
+- :id: 094
+  :name: ゲンガー
+  :type1: ghost
+  :type2: poison
+- :id: 095
+  :name: イワーク
+  :type1: rock
+  :type2: ground
+- :id: 096
+  :name: スリープ
+  :type1: psychic
+  :type2:
+- :id: 097
+  :name: スリーパー
+  :type1: psychic
+  :type2:
+- :id: 098
+  :name: クラブ
+  :type1: water
+  :type2:
+- :id: 099
+  :name: キングラー
+  :type1: water
+  :type2:
+- :id: '100'
+  :name: ビリリダマ
+  :type1: electric
+  :type2:
+- :id: '101'
+  :name: マルマイン
+  :type1: electric
+  :type2:
+- :id: '102'
+  :name: タマタマ
+  :type1: grass
+  :type2: psychic
+- :id: '103'
+  :name: ナッシー
+  :type1: grass
+  :type2: psychic
+- :id: '104'
+  :name: カラカラ
+  :type1: ground
+  :type2:
+- :id: '105'
+  :name: ガラガラ
+  :type1: ground
+  :type2:
+- :id: '106'
+  :name: サワムラー
+  :type1: fighting
+  :type2:
+- :id: '107'
+  :name: エビワラー
+  :type1: fighting
+  :type2:
+- :id: '108'
+  :name: ベロリンガ
+  :type1: normal
+  :type2:
+- :id: '109'
+  :name: ドガース
+  :type1: poison
+  :type2:
+- :id: '110'
+  :name: マタドガス
+  :type1: poison
+  :type2:
+- :id: '111'
+  :name: サイホーン
+  :type1: ground
+  :type2: rock
+- :id: '112'
+  :name: サイドン
+  :type1: ground
+  :type2: rock
+- :id: '113'
+  :name: ラッキー
+  :type1: normal
+  :type2:
+- :id: '114'
+  :name: モンジャラ
+  :type1: grass
+  :type2:
+- :id: '115'
+  :name: ガルーラ
+  :type1: normal
+  :type2:
+- :id: '116'
+  :name: タッツー
+  :type1: water
+  :type2:
+- :id: '117'
+  :name: シードラ
+  :type1: water
+  :type2:
+- :id: '118'
+  :name: トサキント
+  :type1: water
+  :type2:
+- :id: '119'
+  :name: アズマオウ
+  :type1: water
+  :type2:
+- :id: '120'
+  :name: ヒトデマン
+  :type1: water
+  :type2:
+- :id: '121'
+  :name: スターミー
+  :type1: water
+  :type2: psychic
+- :id: '122'
+  :name: バリヤード
+  :type1: psychic
+  :type2:
+- :id: '123'
+  :name: ストライク
+  :type1: bug
+  :type2: flying
+- :id: '124'
+  :name: ルージュラ
+  :type1: ice
+  :type2: psychic
+- :id: '125'
+  :name: エレブー
+  :type1: electric
+  :type2:
+- :id: '126'
+  :name: ブーバー
+  :type1: fire
+  :type2:
+- :id: '127'
+  :name: カイロス
+  :type1: bug
+  :type2:
+- :id: '128'
+  :name: ケンタロス
+  :type1: normal
+  :type2:
+- :id: '129'
+  :name: コイキング
+  :type1: water
+  :type2:
+- :id: '130'
+  :name: ギャラドス
+  :type1: water
+  :type2: flying
+- :id: '131'
+  :name: ラプラス
+  :type1: water
+  :type2: ice
+- :id: '132'
+  :name: メタモン
+  :type1: normal
+  :type2:
+- :id: '133'
+  :name: イーブイ
+  :type1: normal
+  :type2:
+- :id: '134'
+  :name: シャワーズ
+  :type1: water
+  :type2:
+- :id: '135'
+  :name: サンダース
+  :type1: electric
+  :type2:
+- :id: '136'
+  :name: ブースター
+  :type1: fire
+  :type2:
+- :id: '137'
+  :name: ポリゴン
+  :type1: normal
+  :type2:
+- :id: '138'
+  :name: オムナイト
+  :type1: rock
+  :type2: water
+- :id: '139'
+  :name: オムスター
+  :type1: rock
+  :type2: water
+- :id: '140'
+  :name: カブト
+  :type1: rock
+  :type2: water
+- :id: '141'
+  :name: カブトプス
+  :type1: rock
+  :type2: water
+- :id: '142'
+  :name: プテラ
+  :type1: rock
+  :type2: flying
+- :id: '143'
+  :name: カビゴン
+  :type1: normal
+  :type2:
+- :id: '144'
+  :name: フリーザー
+  :type1: ice
+  :type2: flying
+- :id: '145'
+  :name: サンダー
+  :type1: electric
+  :type2: flying
+- :id: '146'
+  :name: ファイヤー
+  :type1: fire
+  :type2: flying
+- :id: '147'
+  :name: ミニリュウ
+  :type1: dragon
+  :type2:
+- :id: '148'
+  :name: ハクリュー
+  :type1: dragon
+  :type2:
+- :id: '149'
+  :name: カイリュー
+  :type1: dragon
+  :type2: flying
+- :id: '150'
+  :name: ミュウツー
+  :type1: psychic
+  :type2:
+- :id: '151'
+  :name: ミュウ
+  :type1: psychic
+  :type2:
+- :id: '152'
+  :name: チコリータ
+  :type1: grass
+  :type2:
+- :id: '153'
+  :name: ベイリーフ
+  :type1: grass
+  :type2:
+- :id: '154'
+  :name: メガニウム
+  :type1: grass
+  :type2:
+- :id: '155'
+  :name: ヒノアラシ
+  :type1: fire
+  :type2:
+- :id: '156'
+  :name: マグマラシ
+  :type1: fire
+  :type2:
+- :id: '157'
+  :name: バクフーン
+  :type1: fire
+  :type2:
+- :id: '158'
+  :name: ワニノコ
+  :type1: water
+  :type2:
+- :id: '159'
+  :name: アリゲイツ
+  :type1: water
+  :type2:
+- :id: '160'
+  :name: オーダイル
+  :type1: water
+  :type2:
+- :id: '161'
+  :name: オタチ
+  :type1: normal
+  :type2:
+- :id: '162'
+  :name: オオタチ
+  :type1: normal
+  :type2:
+- :id: '163'
+  :name: ホーホー
+  :type1: normal
+  :type2: flying
+- :id: '164'
+  :name: ヨルノズク
+  :type1: normal
+  :type2: flying
+- :id: '165'
+  :name: レディバ
+  :type1: bug
+  :type2: flying
+- :id: '166'
+  :name: レディアン
+  :type1: bug
+  :type2: flying
+- :id: '167'
+  :name: イトマル
+  :type1: bug
+  :type2: poison
+- :id: '168'
+  :name: アリアドス
+  :type1: bug
+  :type2: poison
+- :id: '169'
+  :name: クロバット
+  :type1: poison
+  :type2: flying
+- :id: '170'
+  :name: チョンチー
+  :type1: water
+  :type2: electric
+- :id: '171'
+  :name: ランターン
+  :type1: water
+  :type2: electric
+- :id: '172'
+  :name: ピチュー
+  :type1: electric
+  :type2:
+- :id: '173'
+  :name: ピィ
+  :type1: normal
+  :type2:
+- :id: '174'
+  :name: ププリン
+  :type1: normal
+  :type2:
+- :id: '175'
+  :name: トゲピー
+  :type1: normal
+  :type2:
+- :id: '176'
+  :name: トゲチック
+  :type1: normal
+  :type2: flying
+- :id: '177'
+  :name: ネイティ
+  :type1: psychic
+  :type2: flying
+- :id: '178'
+  :name: ネイティオ
+  :type1: psychic
+  :type2: flying
+- :id: '179'
+  :name: メリープ
+  :type1: electric
+  :type2:
+- :id: '180'
+  :name: モココ
+  :type1: electric
+  :type2:
+- :id: '181'
+  :name: デンリュウ
+  :type1: electric
+  :type2:
+- :id: '182'
+  :name: キレイハナ
+  :type1: grass
+  :type2:
+- :id: '183'
+  :name: マリル
+  :type1: water
+  :type2:
+- :id: '184'
+  :name: マリルリ
+  :type1: water
+  :type2:
+- :id: '185'
+  :name: ウソッキー
+  :type1: rock
+  :type2:
+- :id: '186'
+  :name: ニョロトノ
+  :type1: water
+  :type2:
+- :id: '187'
+  :name: ハネッコ
+  :type1: grass
+  :type2: flying
+- :id: '188'
+  :name: ポポッコ
+  :type1: grass
+  :type2: flying
+- :id: '189'
+  :name: ワタッコ
+  :type1: grass
+  :type2: flying
+- :id: '190'
+  :name: エイパム
+  :type1: normal
+  :type2:
+- :id: '191'
+  :name: ヒマナッツ
+  :type1: grass
+  :type2:
+- :id: '192'
+  :name: キマワリ
+  :type1: grass
+  :type2:
+- :id: '193'
+  :name: ヤンヤンマ
+  :type1: bug
+  :type2: flying
+- :id: '194'
+  :name: ウパー
+  :type1: water
+  :type2: ground
+- :id: '195'
+  :name: ヌオー
+  :type1: water
+  :type2: ground
+- :id: '196'
+  :name: エーフィ
+  :type1: psychic
+  :type2:
+- :id: '197'
+  :name: ブラッキー
+  :type1: dark
+  :type2:
+- :id: '198'
+  :name: ヤミカラス
+  :type1: dark
+  :type2: flying
+- :id: '199'
+  :name: ヤドキング
+  :type1: water
+  :type2: psychic
+- :id: '200'
+  :name: ムウマ
+  :type1: ghost
+  :type2:
+- :id: '201'
+  :name: アンノーン
+  :type1: psychic
+  :type2:
+- :id: '202'
+  :name: ソーナンス
+  :type1: psychic
+  :type2:
+- :id: '203'
+  :name: キリンリキ
+  :type1: normal
+  :type2: psychic
+- :id: '204'
+  :name: クヌギダマ
+  :type1: bug
+  :type2:
+- :id: '205'
+  :name: フォレトス
+  :type1: bug
+  :type2: steel
+- :id: '206'
+  :name: ノコッチ
+  :type1: normal
+  :type2:
+- :id: '207'
+  :name: グライガー
+  :type1: ground
+  :type2: flying
+- :id: '208'
+  :name: ハガネール
+  :type1: steel
+  :type2: ground
+- :id: '209'
+  :name: ブルー
+  :type1: normal
+  :type2:
+- :id: '210'
+  :name: グランブル
+  :type1: normal
+  :type2:
+- :id: '211'
+  :name: ハリーセン
+  :type1: water
+  :type2: poison
+- :id: '212'
+  :name: ハッサム
+  :type1: bug
+  :type2: steel
+- :id: '213'
+  :name: ツボツボ
+  :type1: bug
+  :type2: rock
+- :id: '214'
+  :name: ヘラクロス
+  :type1: bug
+  :type2: fighting
+- :id: '215'
+  :name: ニューラ
+  :type1: dark
+  :type2: ice
+- :id: '216'
+  :name: ヒメグマ
+  :type1: normal
+  :type2:
+- :id: '217'
+  :name: リングマ
+  :type1: normal
+  :type2:
+- :id: '218'
+  :name: マグマッグ
+  :type1: fire
+  :type2:
+- :id: '219'
+  :name: マグカルゴ
+  :type1: fire
+  :type2: rock
+- :id: '220'
+  :name: ウリムー
+  :type1: ice
+  :type2: ground
+- :id: '221'
+  :name: イノムー
+  :type1: ice
+  :type2: ground
+- :id: '222'
+  :name: サニーゴ
+  :type1: water
+  :type2: rock
+- :id: '223'
+  :name: テッポウオ
+  :type1: water
+  :type2:
+- :id: '224'
+  :name: オクタン
+  :type1: water
+  :type2:
+- :id: '225'
+  :name: デリバード
+  :type1: ice
+  :type2: flying
+- :id: '226'
+  :name: マンタイン
+  :type1: water
+  :type2: flying
+- :id: '227'
+  :name: エアームド
+  :type1: steel
+  :type2: flying
+- :id: '228'
+  :name: デルビル
+  :type1: dark
+  :type2: fire
+- :id: '229'
+  :name: ヘルガー
+  :type1: dark
+  :type2: fire
+- :id: '230'
+  :name: キングドラ
+  :type1: water
+  :type2: dragon
+- :id: '231'
+  :name: ゴマゾウ
+  :type1: ground
+  :type2:
+- :id: '232'
+  :name: ドンファン
+  :type1: ground
+  :type2:
+- :id: '233'
+  :name: ポリゴン2
+  :type1: normal
+  :type2:
+- :id: '234'
+  :name: オドシシ
+  :type1: normal
+  :type2:
+- :id: '235'
+  :name: ドーブル
+  :type1: normal
+  :type2:
+- :id: '236'
+  :name: バルキー
+  :type1: fighting
+  :type2:
+- :id: '237'
+  :name: カポエラー
+  :type1: fighting
+  :type2:
+- :id: '238'
+  :name: ムチュール
+  :type1: ice
+  :type2: psychic
+- :id: '239'
+  :name: エレキッド
+  :type1: electric
+  :type2:
+- :id: '240'
+  :name: ブビィ
+  :type1: fire
+  :type2:
+- :id: '241'
+  :name: ミルタンク
+  :type1: normal
+  :type2:
+- :id: '242'
+  :name: ハピナス
+  :type1: normal
+  :type2:
+- :id: '243'
+  :name: ライコウ
+  :type1: electric
+  :type2:
+- :id: '244'
+  :name: エンテイ
+  :type1: fire
+  :type2:
+- :id: '245'
+  :name: スイクン
+  :type1: water
+  :type2:
+- :id: '246'
+  :name: ヨーギラス
+  :type1: rock
+  :type2: ground
+- :id: '247'
+  :name: サナギラス
+  :type1: rock
+  :type2: ground
+- :id: '248'
+  :name: バンギラス
+  :type1: rock
+  :type2: dark
+- :id: '249'
+  :name: ルギア
+  :type1: psychic
+  :type2: flying
+- :id: '250'
+  :name: ホウオウ
+  :type1: fire
+  :type2: flying
+- :id: '251'
+  :name: セレビィ
+  :type1: psychic
+  :type2: grass
+- :id: '252'
+  :name: キモリ
+  :type1: grass
+  :type2:
+- :id: '253'
+  :name: ジュプトル
+  :type1: grass
+  :type2:
+- :id: '254'
+  :name: ジュカイン
+  :type1: grass
+  :type2:
+- :id: '255'
+  :name: アチャモ
+  :type1: fire
+  :type2:
+- :id: '256'
+  :name: ワカシャモ
+  :type1: fire
+  :type2: fighting
+- :id: '257'
+  :name: バシャーモ
+  :type1: fire
+  :type2: fighting
+- :id: '258'
+  :name: ミズゴロウ
+  :type1: water
+  :type2:
+- :id: '259'
+  :name: ヌマクロー
+  :type1: water
+  :type2: ground
+- :id: '260'
+  :name: ラグラージ
+  :type1: water
+  :type2: ground
+- :id: '261'
+  :name: ポチエナ
+  :type1: dark
+  :type2:
+- :id: '262'
+  :name: グラエナ
+  :type1: dark
+  :type2:
+- :id: '263'
+  :name: ジグザグマ
+  :type1: normal
+  :type2:
+- :id: '264'
+  :name: マッスグマ
+  :type1: normal
+  :type2:
+- :id: '265'
+  :name: ケムッソ
+  :type1: bug
+  :type2:
+- :id: '266'
+  :name: カラサリス
+  :type1: bug
+  :type2:
+- :id: '267'
+  :name: アゲハント
+  :type1: bug
+  :type2: flying
+- :id: '268'
+  :name: マユルド
+  :type1: bug
+  :type2:
+- :id: '269'
+  :name: ドクケイル
+  :type1: bug
+  :type2: poison
+- :id: '270'
+  :name: ハスボー
+  :type1: water
+  :type2: grass
+- :id: '271'
+  :name: ハスブレロ
+  :type1: water
+  :type2: grass
+- :id: '272'
+  :name: ルンパッパ
+  :type1: water
+  :type2: grass
+- :id: '273'
+  :name: タネボー
+  :type1: grass
+  :type2:
+- :id: '274'
+  :name: コノハナ
+  :type1: grass
+  :type2: dark
+- :id: '275'
+  :name: ダーテング
+  :type1: grass
+  :type2: dark
+- :id: '276'
+  :name: スバメ
+  :type1: normal
+  :type2: flying
+- :id: '277'
+  :name: オオスバメ
+  :type1: normal
+  :type2: flying
+- :id: '278'
+  :name: キャモメ
+  :type1: water
+  :type2: flying
+- :id: '279'
+  :name: ペリッパー
+  :type1: water
+  :type2: flying
+- :id: '280'
+  :name: ラルトス
+  :type1: psychic
+  :type2:
+- :id: '281'
+  :name: キルリア
+  :type1: psychic
+  :type2:
+- :id: '282'
+  :name: サーナイト
+  :type1: psychic
+  :type2:
+- :id: '283'
+  :name: アメタマ
+  :type1: bug
+  :type2: water
+- :id: '284'
+  :name: アメモース
+  :type1: bug
+  :type2: flying
+- :id: '285'
+  :name: キノココ
+  :type1: grass
+  :type2:
+- :id: '286'
+  :name: キノガッサ
+  :type1: grass
+  :type2: fighting
+- :id: '287'
+  :name: ナマケロ
+  :type1: normal
+  :type2:
+- :id: '288'
+  :name: ヤルキモノ
+  :type1: normal
+  :type2:
+- :id: '289'
+  :name: ケッキング
+  :type1: normal
+  :type2:
+- :id: '290'
+  :name: ツチニン
+  :type1: bug
+  :type2: ground
+- :id: '291'
+  :name: テッカニン
+  :type1: bug
+  :type2: flying
+- :id: '292'
+  :name: ヌケニン
+  :type1: bug
+  :type2: ghost
+- :id: '293'
+  :name: ゴニョニョ
+  :type1: normal
+  :type2:
+- :id: '294'
+  :name: ドゴーム
+  :type1: normal
+  :type2:
+- :id: '295'
+  :name: バクオング
+  :type1: normal
+  :type2:
+- :id: '296'
+  :name: マクノシタ
+  :type1: fighting
+  :type2:
+- :id: '297'
+  :name: ハリテヤマ
+  :type1: fighting
+  :type2:
+- :id: '298'
+  :name: ルリリ
+  :type1: normal
+  :type2:
+- :id: '299'
+  :name: ノズパス
+  :type1: rock
+  :type2:
+- :id: '300'
+  :name: エネコ
+  :type1: normal
+  :type2:
+- :id: '301'
+  :name: エネコロロ
+  :type1: normal
+  :type2:
+- :id: '302'
+  :name: ヤミラミ
+  :type1: dark
+  :type2: ghost
+- :id: '303'
+  :name: クチート
+  :type1: steel
+  :type2:
+- :id: '304'
+  :name: ココドラ
+  :type1: steel
+  :type2: rock
+- :id: '305'
+  :name: コドラ
+  :type1: steel
+  :type2: rock
+- :id: '306'
+  :name: ボスゴドラ
+  :type1: steel
+  :type2: rock
+- :id: '307'
+  :name: アサナン
+  :type1: fighting
+  :type2: psychic
+- :id: '308'
+  :name: チャーレム
+  :type1: fighting
+  :type2: psychic
+- :id: '309'
+  :name: ラクライ
+  :type1: electric
+  :type2:
+- :id: '310'
+  :name: ライボルト
+  :type1: electric
+  :type2:
+- :id: '311'
+  :name: プラスル
+  :type1: electric
+  :type2:
+- :id: '312'
+  :name: マイナン
+  :type1: electric
+  :type2:
+- :id: '313'
+  :name: バルビート
+  :type1: bug
+  :type2:
+- :id: '314'
+  :name: イルミーゼ
+  :type1: bug
+  :type2:
+- :id: '315'
+  :name: ロゼリア
+  :type1: grass
+  :type2: poison
+- :id: '316'
+  :name: ゴクリン
+  :type1: poison
+  :type2:
+- :id: '317'
+  :name: マルノーム
+  :type1: poison
+  :type2:
+- :id: '318'
+  :name: キバニア
+  :type1: water
+  :type2: dark
+- :id: '319'
+  :name: サメハダー
+  :type1: water
+  :type2: dark
+- :id: '320'
+  :name: ホエルコ
+  :type1: water
+  :type2:
+- :id: '321'
+  :name: ホエルオー
+  :type1: water
+  :type2:
+- :id: '322'
+  :name: ドンメル
+  :type1: fire
+  :type2: ground
+- :id: '323'
+  :name: バクーダ
+  :type1: fire
+  :type2: ground
+- :id: '324'
+  :name: コータス
+  :type1: fire
+  :type2:
+- :id: '325'
+  :name: バネブー
+  :type1: psychic
+  :type2:
+- :id: '326'
+  :name: ブーピッグ
+  :type1: psychic
+  :type2:
+- :id: '327'
+  :name: パッチール
+  :type1: normal
+  :type2:
+- :id: '328'
+  :name: ナックラー
+  :type1: ground
+  :type2:
+- :id: '329'
+  :name: ビブラーバ
+  :type1: ground
+  :type2: dragon
+- :id: '330'
+  :name: フライゴン
+  :type1: ground
+  :type2: dragon
+- :id: '331'
+  :name: サボネア
+  :type1: grass
+  :type2:
+- :id: '332'
+  :name: ノクタス
+  :type1: grass
+  :type2: dark
+- :id: '333'
+  :name: チルット
+  :type1: normal
+  :type2: flying
+- :id: '334'
+  :name: チルタリス
+  :type1: dragon
+  :type2: flying
+- :id: '335'
+  :name: ザングース
+  :type1: normal
+  :type2:
+- :id: '336'
+  :name: ハブネーク
+  :type1: poison
+  :type2:
+- :id: '337'
+  :name: ルナトーン
+  :type1: rock
+  :type2: psychic
+- :id: '338'
+  :name: ソルロック
+  :type1: rock
+  :type2: psychic
+- :id: '339'
+  :name: ドジョッチ
+  :type1: water
+  :type2: ground
+- :id: '340'
+  :name: ナマズン
+  :type1: water
+  :type2: ground
+- :id: '341'
+  :name: ヘイガニ
+  :type1: water
+  :type2:
+- :id: '342'
+  :name: シザリガー
+  :type1: water
+  :type2: dark
+- :id: '343'
+  :name: ヤジロン
+  :type1: ground
+  :type2: psychic
+- :id: '344'
+  :name: ネンドール
+  :type1: ground
+  :type2: psychic
+- :id: '345'
+  :name: リリーラ
+  :type1: rock
+  :type2: grass
+- :id: '346'
+  :name: ユレイドル
+  :type1: rock
+  :type2: grass
+- :id: '347'
+  :name: アノプス
+  :type1: rock
+  :type2: bug
+- :id: '348'
+  :name: アーマルド
+  :type1: rock
+  :type2: bug
+- :id: '349'
+  :name: ヒンバス
+  :type1: water
+  :type2:
+- :id: '350'
+  :name: ミロカロス
+  :type1: water
+  :type2:
+- :id: '351'
+  :name: ポワルン
+  :type1: normal
+  :type2:
+- :id: '352'
+  :name: カクレオン
+  :type1: normal
+  :type2:
+- :id: '353'
+  :name: カゲボウズ
+  :type1: ghost
+  :type2:
+- :id: '354'
+  :name: ジュペッタ
+  :type1: ghost
+  :type2:
+- :id: '355'
+  :name: ヨマワル
+  :type1: ghost
+  :type2:
+- :id: '356'
+  :name: サマヨール
+  :type1: ghost
+  :type2:
+- :id: '357'
+  :name: トロピウス
+  :type1: grass
+  :type2: flying
+- :id: '358'
+  :name: チリーン
+  :type1: psychic
+  :type2:
+- :id: '359'
+  :name: アブソル
+  :type1: dark
+  :type2:
+- :id: '360'
+  :name: ソーナノ
+  :type1: psychic
+  :type2:
+- :id: '361'
+  :name: ユキワラシ
+  :type1: ice
+  :type2:
+- :id: '362'
+  :name: オニゴーリ
+  :type1: ice
+  :type2:
+- :id: '363'
+  :name: タマザラシ
+  :type1: ice
+  :type2: water
+- :id: '364'
+  :name: トドグラー
+  :type1: ice
+  :type2: water
+- :id: '365'
+  :name: トドゼルガ
+  :type1: ice
+  :type2: water
+- :id: '366'
+  :name: パールル
+  :type1: water
+  :type2:
+- :id: '367'
+  :name: ハンテール
+  :type1: water
+  :type2:
+- :id: '368'
+  :name: サクラビス
+  :type1: water
+  :type2:
+- :id: '369'
+  :name: ジーランス
+  :type1: water
+  :type2: rock
+- :id: '370'
+  :name: ラブカス
+  :type1: water
+  :type2:
+- :id: '371'
+  :name: タツベイ
+  :type1: dragon
+  :type2:
+- :id: '372'
+  :name: コモルー
+  :type1: dragon
+  :type2:
+- :id: '373'
+  :name: ボーマンダ
+  :type1: dragon
+  :type2: flying
+- :id: '374'
+  :name: ダンバル
+  :type1: steel
+  :type2: psychic
+- :id: '375'
+  :name: メタング
+  :type1: steel
+  :type2: psychic
+- :id: '376'
+  :name: メタグロス
+  :type1: steel
+  :type2: psychic
+- :id: '377'
+  :name: レジロック
+  :type1: rock
+  :type2:
+- :id: '378'
+  :name: レジアイス
+  :type1: ice
+  :type2:
+- :id: '379'
+  :name: レジスチル
+  :type1: steel
+  :type2:
+- :id: '380'
+  :name: ラティアス
+  :type1: dragon
+  :type2: psychic
+- :id: '381'
+  :name: ラティオス
+  :type1: dragon
+  :type2: psychic
+- :id: '382'
+  :name: カイオーガ
+  :type1: water
+  :type2:
+- :id: '383'
+  :name: グラードン
+  :type1: ground
+  :type2:
+- :id: '384'
+  :name: レックウザ
+  :type1: dragon
+  :type2: flying
+- :id: '385'
+  :name: ジラーチ
+  :type1: steel
+  :type2: psychic
+- :id: '386'
+  :name: デオキシス(normalフォルム)
+  :type1: psychic
+  :type2:
+- :id: '386'
+  :name: デオキシス(アタックフォルム)
+  :type1: psychic
+  :type2:
+- :id: '386'
+  :name: デオキシス(ディフェンスフォルム)
+  :type1: psychic
+  :type2:
+- :id: '386'
+  :name: デオキシス(スピードフォルム)
+  :type1: psychic
+  :type2:
+- :id: '387'
+  :name: ナエトル
+  :type1: grass
+  :type2:
+- :id: '388'
+  :name: ハヤシガメ
+  :type1: grass
+  :type2:
+- :id: '389'
+  :name: ドダイトス
+  :type1: grass
+  :type2: ground
+- :id: '390'
+  :name: ヒコザル
+  :type1: fire
+  :type2:
+- :id: '391'
+  :name: モウカザル
+  :type1: fire
+  :type2: fighting
+- :id: '392'
+  :name: ゴウカザル
+  :type1: fire
+  :type2: fighting
+- :id: '393'
+  :name: ポッチャマ
+  :type1: water
+  :type2:
+- :id: '394'
+  :name: ポッタイシ
+  :type1: water
+  :type2:
+- :id: '395'
+  :name: エンペルト
+  :type1: water
+  :type2: steel
+- :id: '396'
+  :name: ムックル
+  :type1: normal
+  :type2: flying
+- :id: '397'
+  :name: ムクバード
+  :type1: normal
+  :type2: flying
+- :id: '398'
+  :name: ムクホーク
+  :type1: normal
+  :type2: flying
+- :id: '399'
+  :name: ビッパ
+  :type1: normal
+  :type2:
+- :id: '400'
+  :name: ビーダル
+  :type1: normal
+  :type2: water
+- :id: '401'
+  :name: コロボーシ
+  :type1: bug
+  :type2:
+- :id: '402'
+  :name: コロトック
+  :type1: bug
+  :type2:
+- :id: '403'
+  :name: コリンク
+  :type1: electric
+  :type2:
+- :id: '404'
+  :name: ルクシオ
+  :type1: electric
+  :type2:
+- :id: '405'
+  :name: レントラー
+  :type1: electric
+  :type2:
+- :id: '406'
+  :name: スボミー
+  :type1: grass
+  :type2: poison
+- :id: '407'
+  :name: ロズレイド
+  :type1: grass
+  :type2: poison
+- :id: '408'
+  :name: ズガイドス
+  :type1: rock
+  :type2:
+- :id: '409'
+  :name: ラムパルド
+  :type1: rock
+  :type2:
+- :id: '410'
+  :name: タテトプス
+  :type1: rock
+  :type2: steel
+- :id: '411'
+  :name: トリデプス
+  :type1: rock
+  :type2: steel
+- :id: '412'
+  :name: ミノムッチ
+  :type1: bug
+  :type2:
+- :id: '413'
+  :name: ミノマダム(grassきのミノ)
+  :type1: bug
+  :type2: grass
+- :id: '413'
+  :name: ミノマダム(すなちのミノ)
+  :type1: bug
+  :type2: ground
+- :id: '413'
+  :name: ミノマダム(ゴミのミノ)
+  :type1: bug
+  :type2: steel
+- :id: '414'
+  :name: ガーメイル
+  :type1: bug
+  :type2: flying
+- :id: '415'
+  :name: ミツハニー
+  :type1: bug
+  :type2: flying
+- :id: '416'
+  :name: ビークイン
+  :type1: bug
+  :type2: flying
+- :id: '417'
+  :name: パチリス
+  :type1: electric
+  :type2:
+- :id: '418'
+  :name: ブイゼル
+  :type1: water
+  :type2:
+- :id: '419'
+  :name: フローゼル
+  :type1: water
+  :type2:
+- :id: '420'
+  :name: チェリンボ
+  :type1: grass
+  :type2:
+- :id: '421'
+  :name: チェリム
+  :type1: grass
+  :type2:
+- :id: '422'
+  :name: カラナクシ
+  :type1: water
+  :type2:
+- :id: '423'
+  :name: トリトドン
+  :type1: water
+  :type2: ground
+- :id: '424'
+  :name: エテボース
+  :type1: normal
+  :type2:
+- :id: '425'
+  :name: フワンテ
+  :type1: ghost
+  :type2: flying
+- :id: '426'
+  :name: フワライド
+  :type1: ghost
+  :type2: flying
+- :id: '427'
+  :name: ミミロル
+  :type1: normal
+  :type2:
+- :id: '428'
+  :name: ミミロップ
+  :type1: normal
+  :type2:
+- :id: '429'
+  :name: ムウマージ
+  :type1: ghost
+  :type2:
+- :id: '430'
+  :name: ドンカラス
+  :type1: dark
+  :type2: flying
+- :id: '431'
+  :name: ニャルマー
+  :type1: normal
+  :type2:
+- :id: '432'
+  :name: ブニャット
+  :type1: normal
+  :type2:
+- :id: '433'
+  :name: リーシャン
+  :type1: psychic
+  :type2:
+- :id: '434'
+  :name: スカンプー
+  :type1: poison
+  :type2: dark
+- :id: '435'
+  :name: スカタンク
+  :type1: poison
+  :type2: dark
+- :id: '436'
+  :name: ドーミラー
+  :type1: steel
+  :type2: psychic
+- :id: '437'
+  :name: ドータクン
+  :type1: steel
+  :type2: psychic
+- :id: '438'
+  :name: ウソハチ
+  :type1: rock
+  :type2:
+- :id: '439'
+  :name: マネネ
+  :type1: psychic
+  :type2:
+- :id: '440'
+  :name: ピンプク
+  :type1: normal
+  :type2:
+- :id: '441'
+  :name: ペラップ
+  :type1: normal
+  :type2: flying
+- :id: '442'
+  :name: ミカルゲ
+  :type1: ghost
+  :type2: dark
+- :id: '443'
+  :name: フカマル
+  :type1: dragon
+  :type2: ground
+- :id: '444'
+  :name: ガバイト
+  :type1: dragon
+  :type2: ground
+- :id: '445'
+  :name: ガブリアス
+  :type1: dragon
+  :type2: ground
+- :id: '446'
+  :name: ゴンベ
+  :type1: normal
+  :type2:
+- :id: '447'
+  :name: リオル
+  :type1: fighting
+  :type2:
+- :id: '448'
+  :name: ルカリオ
+  :type1: fighting
+  :type2: steel
+- :id: '449'
+  :name: ヒポポタス
+  :type1: ground
+  :type2:
+- :id: '450'
+  :name: カバルドン
+  :type1: ground
+  :type2:
+- :id: '451'
+  :name: スコルピ
+  :type1: poison
+  :type2: bug
+- :id: '452'
+  :name: ドラピオン
+  :type1: poison
+  :type2: dark
+- :id: '453'
+  :name: グレッグル
+  :type1: poison
+  :type2: fighting
+- :id: '454'
+  :name: ドクロッグ
+  :type1: poison
+  :type2: fighting
+- :id: '455'
+  :name: マスキッパ
+  :type1: grass
+  :type2:
+- :id: '456'
+  :name: ケイコウオ
+  :type1: water
+  :type2:
+- :id: '457'
+  :name: ネオラント
+  :type1: water
+  :type2:
+- :id: '458'
+  :name: タマンタ
+  :type1: water
+  :type2: flying
+- :id: '459'
+  :name: ユキカブリ
+  :type1: grass
+  :type2: ice
+- :id: '460'
+  :name: ユキノオー
+  :type1: grass
+  :type2: ice
+- :id: '461'
+  :name: マニューラ
+  :type1: dark
+  :type2: ice
+- :id: '462'
+  :name: ジバコイル
+  :type1: electric
+  :type2: steel
+- :id: '463'
+  :name: ベロベルト
+  :type1: normal
+  :type2:
+- :id: '464'
+  :name: ドサイドン
+  :type1: ground
+  :type2: rock
+- :id: '465'
+  :name: モジャンボ
+  :type1: grass
+  :type2:
+- :id: '466'
+  :name: エレキブル
+  :type1: electric
+  :type2:
+- :id: '467'
+  :name: ブーバーン
+  :type1: fire
+  :type2:
+- :id: '468'
+  :name: トゲキッス
+  :type1: normal
+  :type2: flying
+- :id: '469'
+  :name: メガヤンマ
+  :type1: bug
+  :type2: flying
+- :id: '470'
+  :name: リーフィア
+  :type1: grass
+  :type2:
+- :id: '471'
+  :name: グレイシア
+  :type1: ice
+  :type2:
+- :id: '472'
+  :name: グライオン
+  :type1: ground
+  :type2: flying
+- :id: '473'
+  :name: マンムー
+  :type1: ice
+  :type2: ground
+- :id: '474'
+  :name: ポリゴンZ
+  :type1: normal
+  :type2:
+- :id: '475'
+  :name: エルレイド
+  :type1: psychic
+  :type2: fighting
+- :id: '476'
+  :name: ダイノーズ
+  :type1: rock
+  :type2: steel
+- :id: '477'
+  :name: ヨノワール
+  :type1: ghost
+  :type2:
+- :id: '478'
+  :name: ユキメノコ
+  :type1: ice
+  :type2: ghost
+- :id: '479'
+  :name: ロトム(基本ロトム)
+  :type1: electric
+  :type2: ghost
+- :id: '479'
+  :name: ロトム(ヒートロトム)
+  :type1: electric
+  :type2: fire
+- :id: '479'
+  :name: ロトム(ウォッシュロトム)
+  :type1: electric
+  :type2: water
+- :id: '479'
+  :name: ロトム(フロストロトム )
+  :type1: electric
+  :type2: ice
+- :id: '479'
+  :name: ロトム(スピンロトム)
+  :type1: electric
+  :type2: flying
+- :id: '479'
+  :name: ロトム(カットロトム)
+  :type1: electric
+  :type2: grass
+- :id: '480'
+  :name: ユクシー
+  :type1: psychic
+  :type2:
+- :id: '481'
+  :name: エムリット
+  :type1: psychic
+  :type2:
+- :id: '482'
+  :name: アグノム
+  :type1: psychic
+  :type2:
+- :id: '483'
+  :name: ディアルガ
+  :type1: steel
+  :type2: dragon
+- :id: '484'
+  :name: パルキア
+  :type1: water
+  :type2: dragon
+- :id: '485'
+  :name: ヒードラン
+  :type1: fire
+  :type2: steel
+- :id: '486'
+  :name: レジギガス
+  :type1: normal
+  :type2:
+- :id: '487'
+  :name: ギラティナ(アナザーフォルム)
+  :type1: ghost
+  :type2: dragon
+- :id: '487'
+  :name: ギラティナ(オリジンフォルム)
+  :type1: ghost
+  :type2: dragon
+- :id: '488'
+  :name: クレセリア
+  :type1: psychic
+  :type2:
+- :id: '489'
+  :name: フィオネ
+  :type1: water
+  :type2:
+- :id: '490'
+  :name: マナフィ
+  :type1: water
+  :type2:
+- :id: '491'
+  :name: ダークライ
+  :type1: dark
+  :type2:
+- :id: '492'
+  :name: シェイミ(ランドフォルム)
+  :type1: grass
+  :type2:
+- :id: '492'
+  :name: シェイミ(スカイフォルム)
+  :type1: grass
+  :type2: flying
+- :id: '493'
+  :name: アルセウス
+  :type1: normal
+  :type2:
+- :id: '494'
+  :name: ビクティニ
+  :type1: psychic
+  :type2: fire
+- :id: '495'
+  :name: ツタージャ
+  :type1: grass
+  :type2:
+- :id: '496'
+  :name: ジャノビー
+  :type1: grass
+  :type2:
+- :id: '497'
+  :name: ジャローダ
+  :type1: grass
+  :type2:
+- :id: '498'
+  :name: ポカブ
+  :type1: fire
+  :type2:
+- :id: '499'
+  :name: チャオブー
+  :type1: fire
+  :type2: fighting
+- :id: '500'
+  :name: エンブオー
+  :type1: fire
+  :type2: fighting
+- :id: '501'
+  :name: ミジュマル
+  :type1: water
+  :type2:
+- :id: '502'
+  :name: フタチマル
+  :type1: water
+  :type2:
+- :id: '503'
+  :name: ダイケンキ
+  :type1: water
+  :type2:
+- :id: '504'
+  :name: ミネズミ
+  :type1: normal
+  :type2:
+- :id: '505'
+  :name: ミルホッグ
+  :type1: normal
+  :type2:
+- :id: '506'
+  :name: ヨーテリー
+  :type1: normal
+  :type2:
+- :id: '507'
+  :name: ハーデリア
+  :type1: normal
+  :type2:
+- :id: '508'
+  :name: ムーランド
+  :type1: normal
+  :type2:
+- :id: '509'
+  :name: チョロネコ
+  :type1: dark
+  :type2:
+- :id: '510'
+  :name: レパルダス
+  :type1: dark
+  :type2:
+- :id: '511'
+  :name: ヤナップ
+  :type1: grass
+  :type2:
+- :id: '512'
+  :name: ヤナッキー
+  :type1: grass
+  :type2:
+- :id: '513'
+  :name: バオップ
+  :type1: fire
+  :type2:
+- :id: '514'
+  :name: バオッキー
+  :type1: fire
+  :type2:
+- :id: '515'
+  :name: ヒヤップ
+  :type1: water
+  :type2:
+- :id: '516'
+  :name: ヒヤッキー
+  :type1: water
+  :type2:
+- :id: '517'
+  :name: ムンナ
+  :type1: psychic
+  :type2:
+- :id: '518'
+  :name: ムシャーナ
+  :type1: psychic
+  :type2:
+- :id: '519'
+  :name: マメパト
+  :type1: normal
+  :type2: flying
+- :id: '520'
+  :name: ハトーボー
+  :type1: normal
+  :type2: flying
+- :id: '521'
+  :name: ケンホロウ
+  :type1: normal
+  :type2: flying
+- :id: '522'
+  :name: シママ
+  :type1: electric
+  :type2:
+- :id: '523'
+  :name: ゼブライカ
+  :type1: electric
+  :type2:
+- :id: '524'
+  :name: ダンゴロ
+  :type1: rock
+  :type2:
+- :id: '525'
+  :name: ガントル
+  :type1: rock
+  :type2:
+- :id: '526'
+  :name: ギガイアス
+  :type1: rock
+  :type2:
+- :id: '527'
+  :name: コロモリ
+  :type1: psychic
+  :type2: flying
+- :id: '528'
+  :name: ココロモリ
+  :type1: psychic
+  :type2: flying
+- :id: '529'
+  :name: モグリュー
+  :type1: ground
+  :type2:
+- :id: '530'
+  :name: ドリュウズ
+  :type1: ground
+  :type2: steel
+- :id: '531'
+  :name: タブンネ
+  :type1: normal
+  :type2:
+- :id: '532'
+  :name: ドッコラー
+  :type1: fighting
+  :type2:
+- :id: '533'
+  :name: ドテッコツ
+  :type1: fighting
+  :type2:
+- :id: '534'
+  :name: ローブシン
+  :type1: fighting
+  :type2:
+- :id: '535'
+  :name: オタマロ
+  :type1: water
+  :type2:
+- :id: '536'
+  :name: ガマガル
+  :type1: water
+  :type2: ground
+- :id: '537'
+  :name: ガマゲロゲ
+  :type1: water
+  :type2: ground
+- :id: '538'
+  :name: ナゲキ
+  :type1: fighting
+  :type2:
+- :id: '539'
+  :name: ダゲキ
+  :type1: fighting
+  :type2:
+- :id: '540'
+  :name: クルミル
+  :type1: bug
+  :type2: grass
+- :id: '541'
+  :name: クルマユ
+  :type1: bug
+  :type2: grass
+- :id: '542'
+  :name: ハハコモリ
+  :type1: bug
+  :type2: grass
+- :id: '543'
+  :name: フシデ
+  :type1: bug
+  :type2: poison
+- :id: '544'
+  :name: ホイーガ
+  :type1: bug
+  :type2: poison
+- :id: '545'
+  :name: ペンドラー
+  :type1: bug
+  :type2: poison
+- :id: '546'
+  :name: モンメン
+  :type1: grass
+  :type2:
+- :id: '547'
+  :name: エルフーン
+  :type1: grass
+  :type2:
+- :id: '548'
+  :name: チュリネ
+  :type1: grass
+  :type2:
+- :id: '549'
+  :name: ドレディア
+  :type1: grass
+  :type2:
+- :id: '550'
+  :name: バスラオ(あかすじ)
+  :type1: water
+  :type2:
+- :id: '550'
+  :name: バスラオ(あおすじ)
+  :type1: water
+  :type2:
+- :id: '551'
+  :name: メグロコ
+  :type1: ground
+  :type2: dark
+- :id: '552'
+  :name: ワルビル
+  :type1: ground
+  :type2: dark
+- :id: '553'
+  :name: ワルビアル
+  :type1: ground
+  :type2: dark
+- :id: '554'
+  :name: ダルマッカ
+  :type1: fire
+  :type2:
+- :id: '555'
+  :name: ヒヒダルマ(normalモード)
+  :type1: fire
+  :type2:
+- :id: '555'
+  :name: ヒヒダルマ(ダルマモード)
+  :type1: fire
+  :type2: psychic
+- :id: '556'
+  :name: マラカッチ
+  :type1: grass
+  :type2:
+- :id: '557'
+  :name: イシズマイ
+  :type1: bug
+  :type2: rock
+- :id: '558'
+  :name: イワパレス
+  :type1: bug
+  :type2: rock
+- :id: '559'
+  :name: ズルッグ
+  :type1: dark
+  :type2: fighting
+- :id: '560'
+  :name: ズルズキン
+  :type1: dark
+  :type2: fighting
+- :id: '561'
+  :name: シンボラー
+  :type1: psychic
+  :type2: flying
+- :id: '562'
+  :name: デスマス
+  :type1: ghost
+  :type2:
+- :id: '563'
+  :name: デスカーン
+  :type1: ghost
+  :type2:
+- :id: '564'
+  :name: プロトーガ
+  :type1: water
+  :type2: rock
+- :id: '565'
+  :name: アバゴーラ
+  :type1: water
+  :type2: rock
+- :id: '566'
+  :name: アーケン
+  :type1: rock
+  :type2: flying
+- :id: '567'
+  :name: アーケオス
+  :type1: rock
+  :type2: flying
+- :id: '568'
+  :name: ヤブクロン
+  :type1: poison
+  :type2:
+- :id: '569'
+  :name: ダストダス
+  :type1: poison
+  :type2:
+- :id: '570'
+  :name: ゾロア
+  :type1: dark
+  :type2:
+- :id: '571'
+  :name: ゾロアーク
+  :type1: dark
+  :type2:
+- :id: '572'
+  :name: チラーミィ
+  :type1: normal
+  :type2:
+- :id: '573'
+  :name: チラチーノ
+  :type1: normal
+  :type2:
+- :id: '574'
+  :name: ゴチム
+  :type1: psychic
+  :type2:
+- :id: '575'
+  :name: ゴチミル
+  :type1: psychic
+  :type2:
+- :id: '576'
+  :name: ゴチルゼル
+  :type1: psychic
+  :type2:
+- :id: '577'
+  :name: ユニラン
+  :type1: psychic
+  :type2:
+- :id: '578'
+  :name: ダブラン
+  :type1: psychic
+  :type2:
+- :id: '579'
+  :name: ランクルス
+  :type1: psychic
+  :type2:
+- :id: '580'
+  :name: コアルヒー
+  :type1: water
+  :type2: flying
+- :id: '581'
+  :name: スワンナ
+  :type1: water
+  :type2: flying
+- :id: '582'
+  :name: バニプッチ
+  :type1: ice
+  :type2:
+- :id: '583'
+  :name: バニリッチ
+  :type1: ice
+  :type2:
+- :id: '584'
+  :name: バイバニラ
+  :type1: ice
+  :type2:
+- :id: '585'
+  :name: シキジカ
+  :type1: normal
+  :type2: grass
+- :id: '586'
+  :name: メブキジカ
+  :type1: normal
+  :type2: grass
+- :id: '587'
+  :name: エモンガ
+  :type1: electric
+  :type2: flying
+- :id: '588'
+  :name: カブルモ
+  :type1: bug
+  :type2:
+- :id: '589'
+  :name: シュバルゴ
+  :type1: bug
+  :type2: steel
+- :id: '590'
+  :name: タマゲタケ
+  :type1: grass
+  :type2: poison
+- :id: '591'
+  :name: モロバレル
+  :type1: grass
+  :type2: poison
+- :id: '592'
+  :name: プルリル
+  :type1: water
+  :type2: ghost
+- :id: '593'
+  :name: ブルンゲル
+  :type1: water
+  :type2: ghost
+- :id: '594'
+  :name: ママンボウ
+  :type1: water
+  :type2:
+- :id: '595'
+  :name: バチュル
+  :type1: bug
+  :type2: electric
+- :id: '596'
+  :name: デンチュラ
+  :type1: bug
+  :type2: electric
+- :id: '597'
+  :name: テッシード
+  :type1: grass
+  :type2: steel
+- :id: '598'
+  :name: ナットレイ
+  :type1: grass
+  :type2: steel
+- :id: '599'
+  :name: ギアル
+  :type1: steel
+  :type2:
+- :id: '600'
+  :name: ギギアル
+  :type1: steel
+  :type2:
+- :id: '601'
+  :name: ギギギアル
+  :type1: steel
+  :type2:
+- :id: '602'
+  :name: シビシラス
+  :type1: electric
+  :type2:
+- :id: '603'
+  :name: シビビール
+  :type1: electric
+  :type2:
+- :id: '604'
+  :name: シビルドン
+  :type1: electric
+  :type2:
+- :id: '605'
+  :name: リグレー
+  :type1: psychic
+  :type2:
+- :id: '606'
+  :name: オーベム
+  :type1: psychic
+  :type2:
+- :id: '607'
+  :name: ヒトモシ
+  :type1: ghost
+  :type2: fire
+- :id: '608'
+  :name: ランプラー
+  :type1: ghost
+  :type2: fire
+- :id: '609'
+  :name: シャンデラ
+  :type1: ghost
+  :type2: fire
+- :id: '610'
+  :name: キバゴ
+  :type1: dragon
+  :type2:
+- :id: '611'
+  :name: オノンド
+  :type1: dragon
+  :type2:
+- :id: '612'
+  :name: オノノクス
+  :type1: dragon
+  :type2:
+- :id: '613'
+  :name: クマシュン
+  :type1: ice
+  :type2:
+- :id: '614'
+  :name: ツンベアー
+  :type1: ice
+  :type2:
+- :id: '615'
+  :name: フリージオ
+  :type1: ice
+  :type2:
+- :id: '616'
+  :name: チョボマキ
+  :type1: bug
+  :type2:
+- :id: '617'
+  :name: アギルダー
+  :type1: bug
+  :type2:
+- :id: '618'
+  :name: マッギョ
+  :type1: ground
+  :type2: electric
+- :id: '619'
+  :name: コジョフー
+  :type1: fighting
+  :type2:
+- :id: '620'
+  :name: コジョンド
+  :type1: fighting
+  :type2:
+- :id: '621'
+  :name: クリムガン
+  :type1: dragon
+  :type2:
+- :id: '622'
+  :name: ゴビット
+  :type1: ground
+  :type2: ghost
+- :id: '623'
+  :name: ゴルーグ
+  :type1: ground
+  :type2: ghost
+- :id: '624'
+  :name: コマタナ
+  :type1: dark
+  :type2: steel
+- :id: '625'
+  :name: キリキザン
+  :type1: dark
+  :type2: steel
+- :id: '626'
+  :name: バッフロン
+  :type1: normal
+  :type2:
+- :id: '627'
+  :name: ワシボン
+  :type1: normal
+  :type2: flying
+- :id: '628'
+  :name: ウォーグル
+  :type1: normal
+  :type2: flying
+- :id: '629'
+  :name: バルチャイ
+  :type1: dark
+  :type2: flying
+- :id: '630'
+  :name: バルジーナ
+  :type1: dark
+  :type2: flying
+- :id: '631'
+  :name: クイタラン
+  :type1: fire
+  :type2:
+- :id: '632'
+  :name: アイアント
+  :type1: bug
+  :type2: steel
+- :id: '633'
+  :name: モノズ
+  :type1: dark
+  :type2: dragon
+- :id: '634'
+  :name: ジヘッド
+  :type1: dark
+  :type2: dragon
+- :id: '635'
+  :name: サザンドラ
+  :type1: dark
+  :type2: dragon
+- :id: '636'
+  :name: メラルバ
+  :type1: bug
+  :type2: fire
+- :id: '637'
+  :name: ウルガモス
+  :type1: bug
+  :type2: fire
+- :id: '638'
+  :name: コバルオン
+  :type1: steel
+  :type2: fighting
+- :id: '639'
+  :name: テラキオン
+  :type1: rock
+  :type2: fighting
+- :id: '640'
+  :name: ビリジオン
+  :type1: grass
+  :type2: fighting
+- :id: '641'
+  :name: トルネロス
+  :type1: flying
+  :type2:
+- :id: '641'
+  :name: トルネロス(れいじゅうフォルム)
+  :type1: flying
+  :type2:
+- :id: '642'
+  :name: ボルトロス
+  :type1: electric
+  :type2: flying
+- :id: '642'
+  :name: ボルトロス(れいじゅうフォルム)
+  :type1: electric
+  :type2: flying
+- :id: '643'
+  :name: レシラム
+  :type1: dragon
+  :type2: fire
+- :id: '644'
+  :name: ゼクロム
+  :type1: dragon
+  :type2: electric
+- :id: '645'
+  :name: ランドロス
+  :type1: ground
+  :type2: flying
+- :id: '645'
+  :name: ランドロス(れいじゅうフォルム)
+  :type1: ground
+  :type2: flying
+- :id: '646'
+  :name: キュレム
+  :type1: dragon
+  :type2: ice
+- :id: '646'
+  :name: キュレム(ホワイトキュレム)
+  :type1: dragon
+  :type2: ice
+- :id: '646'
+  :name: キュレム(ブラックキュレム)
+  :type1: dragon
+  :type2: ice
+- :id: '647'
+  :name: ケルディオ(いつものすがた)
+  :type1: water
+  :type2: fighting
+- :id: '647'
+  :name: ケルディオ(かくごのすがた)
+  :type1: water
+  :type2: fighting
+- :id: '648'
+  :name: メロエッタ(ボイスフォルム)
+  :type1: normal
+  :type2: psychic
+- :id: '648'
+  :name: メロエッタ(ステップフォルム)
+  :type1: normal
+  :type2: fighting
+- :id: '649'
+  :name: ゲノセクト
+  :type1: bug
+  :type2: steel

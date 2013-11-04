@@ -1,0 +1,5 @@
+= form_for @trial_party do |f|
+  - @trial_party.names.each_with_index do |name, i|
+    = f.label "names[#{i}]", "ポケモン#{i + 1}"
+    = f.text_field "names[#{i}]", name: "#{f.object_name}[names][]", value: name
+  = submit_tag '決定'

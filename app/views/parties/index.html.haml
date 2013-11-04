@@ -1,0 +1,5 @@
+- @parties.each do |party|
+  %ol
+    - party.pokemons.each do |pokemon|
+      %li= pokemon.name
+

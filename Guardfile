@@ -1,7 +1,7 @@
 # A sample Guardfile
 # More info at https://github.com/guard/guard#readme
 
-guard :rspec, spring: true, all_on_start: false, all_after_pass: false do
+guard :rspec, cmd: './bin/rspec', all_on_start: false, all_after_pass: false do
   watch(%r{^spec/.+_spec\.rb$})
   watch(%r{^lib/(.+)\.rb$})     { |m| "spec/lib/#{m[1]}_spec.rb" }
   watch('spec/spec_helper.rb')  { "spec" }
@@ -23,7 +23,7 @@ guard :rspec, spring: true, all_on_start: false, all_after_pass: false do
 end
 
 
-guard 'cucumber', spring: true, cli: "--no-profile --format pretty --tags @wip --wip" do
+guard 'cucumber', cmd: './bin/cucumber', cli: "--no-profile --format pretty --tags @wip --wip" do
   watch(%r{^features/.+\.feature$})
   watch(%r{^features/support/.+$})          { 'features' }
   watch(%r{^features/step_definitions/(.+)_steps\.rb$}) { |m| Dir[File.join("**/#{m[1]}.feature")][0] || 'features' }

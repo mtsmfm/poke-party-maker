@@ -44,8 +44,11 @@ end
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+gem "virtus"
 gem "haml-rails"
 gem "omniauth"
+gem "enumerize"
+gem "bootstrap-sass"
 group :development, :test do
   gem "erb2haml"
   gem "fuubar"
@@ -55,13 +58,14 @@ group :development, :test do
   gem "pry-rails"
   gem "rspec-rails"
   gem "tapp"
+  gem "spring-commands-rspec", require: false
+  gem "spring-commands-cucumber", require: false
 end
 
 group :test do
   gem "capybara"
-  gem "cucumber-rails", require: false
+  gem 'cucumber-rails', require: false, git: 'https://github.com/cucumber/cucumber-rails.git'
   gem "faclet"
   gem "factory_girl_rails"
-  gem "spring"
   gem "database_cleaner"
 end

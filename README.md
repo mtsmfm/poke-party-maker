@@ -1,4 +1,4 @@
-- Rails 4.0.0
+- Rails 4.0.1
 - Ruby 2.1.0
 - postgres
 

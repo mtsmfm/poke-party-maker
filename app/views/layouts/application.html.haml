@@ -6,4 +6,12 @@
     = javascript_include_tag "application", "data-turbolinks-track" => true
     = csrf_meta_tags
   %body
-    = yield
+    %nav.navbar.navbar-default{role: "navigation"}
+      .navbar-header= link_to 'PokePartyMaker', root_path, class: 'navbar-brand'
+      .collapse.navbar-collapse
+        %ul.nav.navbar-nav
+          = nav_li_link_to '一覧', root_path
+        %ul.nav.navbar-nav
+          = nav_li_link_to '作る', new_trial_party_path
+    .container
+      = yield

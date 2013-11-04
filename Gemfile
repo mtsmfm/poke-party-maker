@@ -50,7 +50,7 @@ gem "virtus"
 gem "haml-rails"
 gem "omniauth"
 gem "enumerize"
-gem "bootstrap-sass"
+gem 'bootstrap-sass', '~> 3.0.1.0.rc'
 group :development, :test do
   gem "erb2haml"
   gem "fuubar"

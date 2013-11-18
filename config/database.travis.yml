@@ -1,0 +1,10 @@
+test: &test
+  adapter: postgresql
+  encoding: unicode
+  database: poke_party_maker_test
+  pool: 5
+  username: postgres
+  password:
+
+cucumber:
+  <<: *test

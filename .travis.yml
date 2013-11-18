@@ -1,0 +1,14 @@
+language: ruby
+before_script:
+  - cp config/database.travis.yml config/database.yml
+  - RAILS_ENV=test bundle exec rake db:create
+  - RAILS_ENV=test bundle exec rake test:prepare
+script:
+  - bundle exec rake spec
+  - bundle exec rake cucumber
+bundler_args: --without development
+rvm:
+  - 2.1.0-preview1
+notifications:
+  webhooks:
+    - https://idobata.io/hook/adf3e7b7-6908-4579-b5d8-2ba3a866c314

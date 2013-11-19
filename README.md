@@ -1,6 +1,7 @@
 # poke-party-maker
 
 [![Build Status](https://secure.travis-ci.org/mtsmfm/poke-party-maker.png?branch=master)](http://travis-ci.org/mtsmfm/poke-party-maker)
+[![Code Climate](https://codeclimate.com/github/mtsmfm/poke-party-maker.png)](https://codeclimate.com/github/mtsmfm/poke-party-maker)
 
 # requirements
 

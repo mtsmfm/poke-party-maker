@@ -70,4 +70,5 @@ group :test do
   gem "faclet"
   gem "factory_girl_rails"
   gem "database_cleaner"
+  gem "coveralls", require: false
 end

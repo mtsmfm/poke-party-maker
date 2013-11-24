@@ -31,7 +31,7 @@ class TrialParty
       @party.pokemons << Pokemon.new(poke_datum: poke_datum)
     end
 
-    available = PokeDatum.where.not(name: names).map {|poke_datum|
+    available = PokeDatum.where.not(name: names).available_in_rating.final.map {|poke_datum|
       Pokemon.new(poke_datum: poke_datum)
     }
 

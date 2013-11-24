@@ -9,7 +9,9 @@ end
     create :poke_datum,
       name: row['名前'],
       poke_type1: ja_type_to_symbol(row['タイプ1']),
-      poke_type2: ja_type_to_symbol(row['タイプ2'])
+      poke_type2: ja_type_to_symbol(row['タイプ2']),
+      available_in_rating: row['種別'] != '禁止',
+      final: row['最終進化'] == 'o'
   end
 end
 
@@ -30,6 +32,12 @@ end
 
 もし(/^"(.*?)"ボタンをクリックする$/) do |button|
   click_button button
+end
+
+もし(/^以下のポケモンを入力する:$/) do |table|
+  table.raw.each.with_index(1) do |raw, i|
+    fill_in "ポケモン#{i}", with: raw.first
+  end
 end
 
 ならば(/^以下のポケモンがパーティに含まれていること:$/) do |table|

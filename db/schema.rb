@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20131022142500) do
+ActiveRecord::Schema.define(version: 20131124122956) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -22,11 +22,14 @@ ActiveRecord::Schema.define(version: 20131022142500) do
   end
 
   create_table "poke_data", force: true do |t|
-    t.string   "name",       null: false
-    t.string   "poke_type1", null: false
+    t.string   "name",                null: false
+    t.string   "poke_type1",          null: false
     t.string   "poke_type2"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.boolean  "available_in_rating", null: false
+    t.integer  "poke_id",             null: false
+    t.boolean  "final",               null: false
   end
 
   create_table "pokemons", force: true do |t|

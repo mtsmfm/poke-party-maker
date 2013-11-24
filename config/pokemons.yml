@@ -19,6 +19,7 @@
   - 2
   - 3
   :final: false
+  :available_in_rating: true
 - :id: 2
   :name: "フシギソウ"
   :params:
@@ -39,6 +40,7 @@
   - 2
   - 3
   :final: false
+  :available_in_rating: true
 - :id: 3
   :name: "フシギバナ"
   :params:
@@ -59,6 +61,7 @@
   - 2
   - 3
   :final: true
+  :available_in_rating: true
 - :id: 3
   :name: "メガフシギバナ"
   :params:
@@ -78,6 +81,7 @@
   - 2
   - 3
   :final: true
+  :available_in_rating: true
 - :id: 4
   :name: "ヒトカゲ"
   :params:
@@ -97,6 +101,7 @@
   - 5
   - 6
   :final: false
+  :available_in_rating: true
 - :id: 5
   :name: "リザード"
   :params:
@@ -116,6 +121,7 @@
   - 5
   - 6
   :final: false
+  :available_in_rating: true
 - :id: 6
   :name: "リザードン"
   :params:
@@ -136,6 +142,7 @@
   - 5
   - 6
   :final: true
+  :available_in_rating: true
 - :id: 6
   :name: "メガリザードンX"
   :params:
@@ -155,6 +162,7 @@
   - 5
   - 6
   :final: true
+  :available_in_rating: true
 - :id: 6
   :name: "メガリザードンY"
   :params:
@@ -174,6 +182,7 @@
   - 5
   - 6
   :final: true
+  :available_in_rating: true
 - :id: 7
   :name: "ゼニガメ"
   :params:
@@ -193,6 +202,7 @@
   - 8
   - 9
   :final: false
+  :available_in_rating: true
 - :id: 8
   :name: "カメール"
   :params:
@@ -212,6 +222,7 @@
   - 8
   - 9
   :final: false
+  :available_in_rating: true
 - :id: 9
   :name: "カメックス"
   :params:
@@ -231,6 +242,7 @@
   - 8
   - 9
   :final: true
+  :available_in_rating: true
 - :id: 9
   :name: "メガカメックス"
   :params:
@@ -249,6 +261,7 @@
   - 8
   - 9
   :final: true
+  :available_in_rating: true
 - :id: 10
   :name: "キャタピー"
   :params:
@@ -268,6 +281,7 @@
   - 11
   - 12
   :final: false
+  :available_in_rating: true
 - :id: 11
   :name: "トランセル"
   :params:
@@ -286,6 +300,7 @@
   - 11
   - 12
   :final: false
+  :available_in_rating: true
 - :id: 12
   :name: "バタフリー"
   :params:
@@ -306,6 +321,7 @@
   - 11
   - 12
   :final: true
+  :available_in_rating: true
 - :id: 13
   :name: "ビードル"
   :params:
@@ -326,6 +342,7 @@
   - 14
   - 15
   :final: false
+  :available_in_rating: true
 - :id: 14
   :name: "コクーン"
   :params:
@@ -345,6 +362,7 @@
   - 14
   - 15
   :final: false
+  :available_in_rating: true
 - :id: 15
   :name: "スピアー"
   :params:
@@ -365,6 +383,7 @@
   - 14
   - 15
   :final: true
+  :available_in_rating: true
 - :id: 16
   :name: "ポッポ"
   :params:
@@ -386,6 +405,7 @@
   - 17
   - 18
   :final: false
+  :available_in_rating: true
 - :id: 17
   :name: "ピジョン"
   :params:
@@ -407,6 +427,7 @@
   - 17
   - 18
   :final: false
+  :available_in_rating: true
 - :id: 18
   :name: "ピジョット"
   :params:
@@ -428,6 +449,7 @@
   - 17
   - 18
   :final: true
+  :available_in_rating: true
 - :id: 19
   :name: "コラッタ"
   :params:
@@ -447,6 +469,7 @@
   - 19
   - 20
   :final: false
+  :available_in_rating: true
 - :id: 20
   :name: "ラッタ"
   :params:
@@ -466,6 +489,7 @@
   - 19
   - 20
   :final: true
+  :available_in_rating: true
 - :id: 21
   :name: "オニスズメ"
   :params:
@@ -485,6 +509,7 @@
   - 21
   - 22
   :final: false
+  :available_in_rating: true
 - :id: 22
   :name: "オニドリル"
   :params:
@@ -504,6 +529,7 @@
   - 21
   - 22
   :final: true
+  :available_in_rating: true
 - :id: 23
   :name: "アーボ"
   :params:
@@ -523,6 +549,7 @@
   - 23
   - 24
   :final: false
+  :available_in_rating: true
 - :id: 24
   :name: "アーボック"
   :params:
@@ -542,6 +569,7 @@
   - 23
   - 24
   :final: true
+  :available_in_rating: true
 - :id: 25
   :name: "ピカチュウ"
   :params:
@@ -561,6 +589,7 @@
   - 25
   - 26
   :final: false
+  :available_in_rating: true
 - :id: 26
   :name: "ライチュウ"
   :params:
@@ -580,6 +609,7 @@
   - 25
   - 26
   :final: true
+  :available_in_rating: true
 - :id: 27
   :name: "サンド"
   :params:
@@ -598,6 +628,7 @@
   - 27
   - 28
   :final: false
+  :available_in_rating: true
 - :id: 28
   :name: "サンドパン"
   :params:
@@ -616,6 +647,7 @@
   - 27
   - 28
   :final: true
+  :available_in_rating: true
 - :id: 29
   :name: "ニドラン♀"
   :params:
@@ -636,6 +668,7 @@
   - 30
   - 31
   :final: false
+  :available_in_rating: true
 - :id: 30
   :name: "ニドリーナ"
   :params:
@@ -656,6 +689,7 @@
   - 30
   - 31
   :final: false
+  :available_in_rating: true
 - :id: 31
   :name: "ニドクイン"
   :params:
@@ -677,6 +711,7 @@
   - 30
   - 31
   :final: true
+  :available_in_rating: true
 - :id: 32
   :name: "ニドラン♂"
   :params:
@@ -697,6 +732,7 @@
   - 33
   - 34
   :final: false
+  :available_in_rating: true
 - :id: 33
   :name: "ニドリーノ"
   :params:
@@ -717,6 +753,7 @@
   - 33
   - 34
   :final: false
+  :available_in_rating: true
 - :id: 34
   :name: "ニドキング"
   :params:
@@ -738,6 +775,7 @@
   - 33
   - 34
   :final: true
+  :available_in_rating: true
 - :id: 35
   :name: "ピッピ"
   :params:
@@ -758,6 +796,7 @@
   - 35
   - 36
   :final: false
+  :available_in_rating: true
 - :id: 36
   :name: "ピクシー"
   :params:
@@ -778,6 +817,7 @@
   - 35
   - 36
   :final: true
+  :available_in_rating: true
 - :id: 37
   :name: "ロコン"
   :params:
@@ -796,6 +836,7 @@
   - 37
   - 38
   :final: false
+  :available_in_rating: true
 - :id: 38
   :name: "キュウコン"
   :params:
@@ -814,6 +855,7 @@
   - 37
   - 38
   :final: true
+  :available_in_rating: true
 - :id: 39
   :name: "プリン"
   :params:
@@ -835,6 +877,7 @@
   - 39
   - 40
   :final: false
+  :available_in_rating: true
 - :id: 40
   :name: "プクリン"
   :params:
@@ -856,6 +899,7 @@
   - 39
   - 40
   :final: true
+  :available_in_rating: true
 - :id: 41
   :name: "ズバット"
   :params:
@@ -876,6 +920,7 @@
   - 42
   - 169
   :final: false
+  :available_in_rating: true
 - :id: 42
   :name: "ゴルバット"
   :params:
@@ -896,6 +941,7 @@
   - 42
   - 169
   :final: false
+  :available_in_rating: true
 - :id: 43
   :name: "ナゾノクサ"
   :params:
@@ -917,6 +963,7 @@
   - - 45
     - 182
   :final: false
+  :available_in_rating: true
 - :id: 44
   :name: "クサイハナ"
   :params:
@@ -938,6 +985,7 @@
   - - 45
     - 182
   :final: false
+  :available_in_rating: true
 - :id: 45
   :name: "ラフレシア"
   :params:
@@ -959,6 +1007,7 @@
   - - 45
     - 182
   :final: true
+  :available_in_rating: true
 - :id: 46
   :name: "パラス"
   :params:
@@ -979,6 +1028,7 @@
   - 46
   - 47
   :final: false
+  :available_in_rating: true
 - :id: 47
   :name: "パラセクト"
   :params:
@@ -999,6 +1049,7 @@
   - 46
   - 47
   :final: true
+  :available_in_rating: true
 - :id: 48
   :name: "コンパン"
   :params:
@@ -1019,6 +1070,7 @@
   - 48
   - 49
   :final: false
+  :available_in_rating: true
 - :id: 49
   :name: "モルフォン"
   :params:
@@ -1039,6 +1091,7 @@
   - 48
   - 49
   :final: true
+  :available_in_rating: true
 - :id: 50
   :name: "ディグダ"
   :params:
@@ -1058,6 +1111,7 @@
   - 50
   - 51
   :final: false
+  :available_in_rating: true
 - :id: 51
   :name: "ダグトリオ"
   :params:
@@ -1077,6 +1131,7 @@
   - 50
   - 51
   :final: true
+  :available_in_rating: true
 - :id: 52
   :name: "ニャース"
   :params:
@@ -1096,6 +1151,7 @@
   - 52
   - 53
   :final: false
+  :available_in_rating: true
 - :id: 53
   :name: "ペルシアン"
   :params:
@@ -1115,6 +1171,7 @@
   - 52
   - 53
   :final: true
+  :available_in_rating: true
 - :id: 54
   :name: "コダック"
   :params:
@@ -1134,6 +1191,7 @@
   - 54
   - 55
   :final: false
+  :available_in_rating: true
 - :id: 55
   :name: "ゴルダック"
   :params:
@@ -1153,6 +1211,7 @@
   - 54
   - 55
   :final: true
+  :available_in_rating: true
 - :id: 56
   :name: "マンキー"
   :params:
@@ -1172,6 +1231,7 @@
   - 56
   - 57
   :final: false
+  :available_in_rating: true
 - :id: 57
   :name: "オコリザル"
   :params:
@@ -1191,6 +1251,7 @@
   - 56
   - 57
   :final: true
+  :available_in_rating: true
 - :id: 58
   :name: "ガーディ"
   :params:
@@ -1210,6 +1271,7 @@
   - 58
   - 59
   :final: false
+  :available_in_rating: true
 - :id: 59
   :name: "ウインディ"
   :params:
@@ -1229,6 +1291,7 @@
   - 58
   - 59
   :final: true
+  :available_in_rating: true
 - :id: 60
   :name: "ニョロモ"
   :params:
@@ -1250,6 +1313,7 @@
   - - 62
     - 186
   :final: false
+  :available_in_rating: true
 - :id: 61
   :name: "ニョロゾ"
   :params:
@@ -1271,6 +1335,7 @@
   - - 62
     - 186
   :final: false
+  :available_in_rating: true
 - :id: 62
   :name: "ニョロボン"
   :params:
@@ -1293,6 +1358,7 @@
   - - 62
     - 186
   :final: true
+  :available_in_rating: true
 - :id: 63
   :name: "ケーシィ"
   :params:
@@ -1313,6 +1379,7 @@
   - 64
   - 65
   :final: false
+  :available_in_rating: true
 - :id: 64
   :name: "ユンゲラー"
   :params:
@@ -1333,6 +1400,7 @@
   - 64
   - 65
   :final: false
+  :available_in_rating: true
 - :id: 65
   :name: "フーディン"
   :params:
@@ -1353,6 +1421,7 @@
   - 64
   - 65
   :final: true
+  :available_in_rating: true
 - :id: 65
   :name: "メガフーディン"
   :params:
@@ -1371,6 +1440,7 @@
   - 64
   - 65
   :final: true
+  :available_in_rating: true
 - :id: 66
   :name: "ワンリキー"
   :params:
@@ -1391,6 +1461,7 @@
   - 67
   - 68
   :final: false
+  :available_in_rating: true
 - :id: 67
   :name: "ゴーリキー"
   :params:
@@ -1411,6 +1482,7 @@
   - 67
   - 68
   :final: false
+  :available_in_rating: true
 - :id: 68
   :name: "カイリキー"
   :params:
@@ -1431,6 +1503,7 @@
   - 67
   - 68
   :final: true
+  :available_in_rating: true
 - :id: 69
   :name: "マダツボミ"
   :params:
@@ -1451,6 +1524,7 @@
   - 70
   - 71
   :final: false
+  :available_in_rating: true
 - :id: 70
   :name: "ウツドン"
   :params:
@@ -1471,6 +1545,7 @@
   - 70
   - 71
   :final: false
+  :available_in_rating: true
 - :id: 71
   :name: "ウツボット"
   :params:
@@ -1491,6 +1566,7 @@
   - 70
   - 71
   :final: true
+  :available_in_rating: true
 - :id: 72
   :name: "メノクラゲ"
   :params:
@@ -1511,6 +1587,7 @@
   - 72
   - 73
   :final: false
+  :available_in_rating: true
 - :id: 73
   :name: "ドククラゲ"
   :params:
@@ -1531,6 +1608,7 @@
   - 72
   - 73
   :final: true
+  :available_in_rating: true
 - :id: 74
   :name: "イシツブテ"
   :params:
@@ -1552,6 +1630,7 @@
   - 75
   - 76
   :final: false
+  :available_in_rating: true
 - :id: 75
   :name: "ゴローン"
   :params:
@@ -1573,6 +1652,7 @@
   - 75
   - 76
   :final: false
+  :available_in_rating: true
 - :id: 76
   :name: "ゴローニャ"
   :params:
@@ -1594,6 +1674,7 @@
   - 75
   - 76
   :final: true
+  :available_in_rating: true
 - :id: 77
   :name: "ポニータ"
   :params:
@@ -1613,6 +1694,7 @@
   - 77
   - 78
   :final: false
+  :available_in_rating: true
 - :id: 78
   :name: "ギャロップ"
   :params:
@@ -1632,6 +1714,7 @@
   - 77
   - 78
   :final: true
+  :available_in_rating: true
 - :id: 79
   :name: "ヤドン"
   :params:
@@ -1653,6 +1736,7 @@
   - - 80
     - 199
   :final: false
+  :available_in_rating: true
 - :id: 80
   :name: "ヤドラン"
   :params:
@@ -1674,6 +1758,7 @@
   - - 80
     - 199
   :final: true
+  :available_in_rating: true
 - :id: 81
   :name: "コイル"
   :params:
@@ -1695,6 +1780,7 @@
   - 82
   - 462
   :final: false
+  :available_in_rating: true
 - :id: 82
   :name: "レアコイル"
   :params:
@@ -1716,6 +1802,7 @@
   - 82
   - 462
   :final: false
+  :available_in_rating: true
 - :id: 83
   :name: "カモネギ"
   :params:
@@ -1735,6 +1822,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 84
   :name: "ドードー"
   :params:
@@ -1755,6 +1843,7 @@
   - 84
   - 85
   :final: false
+  :available_in_rating: true
 - :id: 85
   :name: "ドードリオ"
   :params:
@@ -1775,6 +1864,7 @@
   - 84
   - 85
   :final: true
+  :available_in_rating: true
 - :id: 86
   :name: "パウワウ"
   :params:
@@ -1794,6 +1884,7 @@
   - 86
   - 87
   :final: false
+  :available_in_rating: true
 - :id: 87
   :name: "ジュゴン"
   :params:
@@ -1814,6 +1905,7 @@
   - 86
   - 87
   :final: true
+  :available_in_rating: true
 - :id: 88
   :name: "ベトベター"
   :params:
@@ -1833,6 +1925,7 @@
   - 88
   - 89
   :final: false
+  :available_in_rating: true
 - :id: 89
   :name: "ベトベトン"
   :params:
@@ -1852,6 +1945,7 @@
   - 88
   - 89
   :final: true
+  :available_in_rating: true
 - :id: 90
   :name: "シェルダー"
   :params:
@@ -1871,6 +1965,7 @@
   - 90
   - 91
   :final: false
+  :available_in_rating: true
 - :id: 91
   :name: "パルシェン"
   :params:
@@ -1891,6 +1986,7 @@
   - 90
   - 91
   :final: true
+  :available_in_rating: true
 - :id: 92
   :name: "ゴース"
   :params:
@@ -1910,6 +2006,7 @@
   - 93
   - 94
   :final: false
+  :available_in_rating: true
 - :id: 93
   :name: "ゴースト"
   :params:
@@ -1929,6 +2026,7 @@
   - 93
   - 94
   :final: false
+  :available_in_rating: true
 - :id: 94
   :name: "ゲンガー"
   :params:
@@ -1948,6 +2046,7 @@
   - 93
   - 94
   :final: true
+  :available_in_rating: true
 - :id: 94
   :name: "メガゲンガー"
   :params:
@@ -1967,6 +2066,7 @@
   - 93
   - 94
   :final: true
+  :available_in_rating: true
 - :id: 95
   :name: "イワーク"
   :params:
@@ -1987,6 +2087,7 @@
   - 95
   - 208
   :final: false
+  :available_in_rating: true
 - :id: 96
   :name: "スリープ"
   :params:
@@ -2006,6 +2107,7 @@
   - 96
   - 97
   :final: false
+  :available_in_rating: true
 - :id: 97
   :name: "スリーパー"
   :params:
@@ -2025,6 +2127,7 @@
   - 96
   - 97
   :final: true
+  :available_in_rating: true
 - :id: 98
   :name: "クラブ"
   :params:
@@ -2044,6 +2147,7 @@
   - 98
   - 99
   :final: false
+  :available_in_rating: true
 - :id: 99
   :name: "キングラー"
   :params:
@@ -2063,6 +2167,7 @@
   - 98
   - 99
   :final: true
+  :available_in_rating: true
 - :id: 100
   :name: "ビリリダマ"
   :params:
@@ -2082,6 +2187,7 @@
   - 100
   - 101
   :final: false
+  :available_in_rating: true
 - :id: 101
   :name: "マルマイン"
   :params:
@@ -2101,6 +2207,7 @@
   - 100
   - 101
   :final: true
+  :available_in_rating: true
 - :id: 102
   :name: "タマタマ"
   :params:
@@ -2120,6 +2227,7 @@
   - 102
   - 103
   :final: false
+  :available_in_rating: true
 - :id: 103
   :name: "ナッシー"
   :params:
@@ -2139,6 +2247,7 @@
   - 102
   - 103
   :final: true
+  :available_in_rating: true
 - :id: 104
   :name: "カラカラ"
   :params:
@@ -2158,6 +2267,7 @@
   - 104
   - 105
   :final: false
+  :available_in_rating: true
 - :id: 105
   :name: "ガラガラ"
   :params:
@@ -2177,6 +2287,7 @@
   - 104
   - 105
   :final: true
+  :available_in_rating: true
 - :id: 106
   :name: "サワムラー"
   :params:
@@ -2198,6 +2309,7 @@
     - 107
     - 237
   :final: true
+  :available_in_rating: true
 - :id: 107
   :name: "エビワラー"
   :params:
@@ -2219,6 +2331,7 @@
     - 107
     - 237
   :final: true
+  :available_in_rating: true
 - :id: 108
   :name: "ベロリンガ"
   :params:
@@ -2238,6 +2351,7 @@
   - 108
   - 463
   :final: false
+  :available_in_rating: true
 - :id: 109
   :name: "ドガース"
   :params:
@@ -2255,6 +2369,7 @@
   - 109
   - 110
   :final: false
+  :available_in_rating: true
 - :id: 110
   :name: "マタドガス"
   :params:
@@ -2272,6 +2387,7 @@
   - 109
   - 110
   :final: true
+  :available_in_rating: true
 - :id: 111
   :name: "サイホーン"
   :params:
@@ -2293,6 +2409,7 @@
   - 112
   - 464
   :final: false
+  :available_in_rating: true
 - :id: 112
   :name: "サイドン"
   :params:
@@ -2314,6 +2431,7 @@
   - 112
   - 464
   :final: false
+  :available_in_rating: true
 - :id: 113
   :name: "ラッキー"
   :params:
@@ -2334,6 +2452,7 @@
   - 113
   - 242
   :final: false
+  :available_in_rating: true
 - :id: 114
   :name: "モンジャラ"
   :params:
@@ -2353,6 +2472,7 @@
   - 114
   - 465
   :final: false
+  :available_in_rating: true
 - :id: 115
   :name: "ガルーラ"
   :params:
@@ -2371,6 +2491,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 115
   :name: "メガガルーラ"
   :params:
@@ -2387,6 +2508,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 116
   :name: "タッツー"
   :params:
@@ -2407,6 +2529,7 @@
   - 117
   - 230
   :final: false
+  :available_in_rating: true
 - :id: 117
   :name: "シードラ"
   :params:
@@ -2427,6 +2550,7 @@
   - 117
   - 230
   :final: false
+  :available_in_rating: true
 - :id: 118
   :name: "トサキント"
   :params:
@@ -2446,6 +2570,7 @@
   - 118
   - 119
   :final: false
+  :available_in_rating: true
 - :id: 119
   :name: "アズマオウ"
   :params:
@@ -2465,6 +2590,7 @@
   - 118
   - 119
   :final: true
+  :available_in_rating: true
 - :id: 120
   :name: "ヒトデマン"
   :params:
@@ -2484,6 +2610,7 @@
   - 120
   - 121
   :final: false
+  :available_in_rating: true
 - :id: 121
   :name: "スターミー"
   :params:
@@ -2504,6 +2631,7 @@
   - 120
   - 121
   :final: true
+  :available_in_rating: true
 - :id: 122
   :name: "バリヤード"
   :params:
@@ -2524,6 +2652,7 @@
   - 439
   - 122
   :final: true
+  :available_in_rating: true
 - :id: 123
   :name: "ストライク"
   :params:
@@ -2544,6 +2673,7 @@
   - 123
   - 212
   :final: false
+  :available_in_rating: true
 - :id: 124
   :name: "ルージュラ"
   :params:
@@ -2564,6 +2694,7 @@
   - 238
   - 124
   :final: true
+  :available_in_rating: true
 - :id: 125
   :name: "エレブー"
   :params:
@@ -2583,6 +2714,7 @@
   - 125
   - 466
   :final: false
+  :available_in_rating: true
 - :id: 126
   :name: "ブーバー"
   :params:
@@ -2602,6 +2734,7 @@
   - 126
   - 467
   :final: false
+  :available_in_rating: true
 - :id: 127
   :name: "カイロス"
   :params:
@@ -2620,6 +2753,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 127
   :name: "メガカイロス"
   :params:
@@ -2637,6 +2771,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 128
   :name: "ケンタロス"
   :params:
@@ -2655,6 +2790,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 129
   :name: "コイキング"
   :params:
@@ -2673,6 +2809,7 @@
   - 129
   - 130
   :final: false
+  :available_in_rating: true
 - :id: 130
   :name: "ギャラドス"
   :params:
@@ -2692,6 +2829,7 @@
   - 129
   - 130
   :final: true
+  :available_in_rating: true
 - :id: 130
   :name: "メガギャラドス"
   :params:
@@ -2710,6 +2848,7 @@
   - 129
   - 130
   :final: true
+  :available_in_rating: true
 - :id: 131
   :name: "ラプラス"
   :params:
@@ -2729,6 +2868,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 132
   :name: "メタモン"
   :params:
@@ -2746,6 +2886,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 133
   :name: "イーブイ"
   :params:
@@ -2772,6 +2913,7 @@
     - 471
     - 700
   :final: false
+  :available_in_rating: true
 - :id: 134
   :name: "シャワーズ"
   :params:
@@ -2797,6 +2939,7 @@
     - 471
     - 700
   :final: true
+  :available_in_rating: true
 - :id: 135
   :name: "サンダース"
   :params:
@@ -2822,6 +2965,7 @@
     - 471
     - 700
   :final: true
+  :available_in_rating: true
 - :id: 136
   :name: "ブースター"
   :params:
@@ -2847,6 +2991,7 @@
     - 471
     - 700
   :final: true
+  :available_in_rating: true
 - :id: 137
   :name: "ポリゴン"
   :params:
@@ -2867,6 +3012,7 @@
   - 233
   - 474
   :final: false
+  :available_in_rating: true
 - :id: 138
   :name: "オムナイト"
   :params:
@@ -2887,6 +3033,7 @@
   - 138
   - 139
   :final: false
+  :available_in_rating: true
 - :id: 139
   :name: "オムスター"
   :params:
@@ -2907,6 +3054,7 @@
   - 138
   - 139
   :final: true
+  :available_in_rating: true
 - :id: 140
   :name: "カブト"
   :params:
@@ -2927,6 +3075,7 @@
   - 140
   - 141
   :final: false
+  :available_in_rating: true
 - :id: 141
   :name: "カブトプス"
   :params:
@@ -2947,6 +3096,7 @@
   - 140
   - 141
   :final: true
+  :available_in_rating: true
 - :id: 142
   :name: "プテラ"
   :params:
@@ -2966,6 +3116,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 142
   :name: "メガプテラ"
   :params:
@@ -2983,6 +3134,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 143
   :name: "カビゴン"
   :params:
@@ -3002,6 +3154,7 @@
   - 446
   - 143
   :final: true
+  :available_in_rating: true
 - :id: 144
   :name: "フリーザー"
   :params:
@@ -3020,6 +3173,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 145
   :name: "サンダー"
   :params:
@@ -3038,6 +3192,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 146
   :name: "ファイヤー"
   :params:
@@ -3056,6 +3211,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 147
   :name: "ミニリュウ"
   :params:
@@ -3075,6 +3231,7 @@
   - 148
   - 149
   :final: false
+  :available_in_rating: true
 - :id: 148
   :name: "ハクリュー"
   :params:
@@ -3094,6 +3251,7 @@
   - 148
   - 149
   :final: false
+  :available_in_rating: true
 - :id: 149
   :name: "カイリュー"
   :params:
@@ -3114,6 +3272,7 @@
   - 148
   - 149
   :final: true
+  :available_in_rating: true
 - :id: 150
   :name: "ミュウツー"
   :params:
@@ -3131,6 +3290,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: false
 - :id: 150
   :name: "メガミュウツーX"
   :params:
@@ -3148,6 +3308,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: false
 - :id: 150
   :name: "メガミュウツーY"
   :params:
@@ -3164,6 +3325,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: false
 - :id: 151
   :name: "ミュウ"
   :params:
@@ -3180,6 +3342,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: false
 - :id: 152
   :name: "チコリータ"
   :params:
@@ -3199,6 +3362,7 @@
   - 153
   - 154
   :final: false
+  :available_in_rating: true
 - :id: 153
   :name: "ベイリーフ"
   :params:
@@ -3218,6 +3382,7 @@
   - 153
   - 154
   :final: false
+  :available_in_rating: true
 - :id: 154
   :name: "メガニウム"
   :params:
@@ -3237,6 +3402,7 @@
   - 153
   - 154
   :final: true
+  :available_in_rating: true
 - :id: 155
   :name: "ヒノアラシ"
   :params:
@@ -3256,6 +3422,7 @@
   - 156
   - 157
   :final: false
+  :available_in_rating: true
 - :id: 156
   :name: "マグマラシ"
   :params:
@@ -3275,6 +3442,7 @@
   - 156
   - 157
   :final: false
+  :available_in_rating: true
 - :id: 157
   :name: "バクフーン"
   :params:
@@ -3294,6 +3462,7 @@
   - 156
   - 157
   :final: true
+  :available_in_rating: true
 - :id: 158
   :name: "ワニノコ"
   :params:
@@ -3313,6 +3482,7 @@
   - 159
   - 160
   :final: false
+  :available_in_rating: true
 - :id: 159
   :name: "アリゲイツ"
   :params:
@@ -3332,6 +3502,7 @@
   - 159
   - 160
   :final: false
+  :available_in_rating: true
 - :id: 160
   :name: "オーダイル"
   :params:
@@ -3351,6 +3522,7 @@
   - 159
   - 160
   :final: true
+  :available_in_rating: true
 - :id: 161
   :name: "オタチ"
   :params:
@@ -3370,6 +3542,7 @@
   - 161
   - 162
   :final: false
+  :available_in_rating: true
 - :id: 162
   :name: "オオタチ"
   :params:
@@ -3389,6 +3562,7 @@
   - 161
   - 162
   :final: true
+  :available_in_rating: true
 - :id: 163
   :name: "ホーホー"
   :params:
@@ -3409,6 +3583,7 @@
   - 163
   - 164
   :final: false
+  :available_in_rating: true
 - :id: 164
   :name: "ヨルノズク"
   :params:
@@ -3429,6 +3604,7 @@
   - 163
   - 164
   :final: true
+  :available_in_rating: true
 - :id: 165
   :name: "レディバ"
   :params:
@@ -3449,6 +3625,7 @@
   - 165
   - 166
   :final: false
+  :available_in_rating: true
 - :id: 166
   :name: "レディアン"
   :params:
@@ -3469,6 +3646,7 @@
   - 165
   - 166
   :final: true
+  :available_in_rating: true
 - :id: 167
   :name: "イトマル"
   :params:
@@ -3489,6 +3667,7 @@
   - 167
   - 168
   :final: false
+  :available_in_rating: true
 - :id: 168
   :name: "アリアドス"
   :params:
@@ -3509,6 +3688,7 @@
   - 167
   - 168
   :final: true
+  :available_in_rating: true
 - :id: 169
   :name: "クロバット"
   :params:
@@ -3529,6 +3709,7 @@
   - 42
   - 169
   :final: true
+  :available_in_rating: true
 - :id: 170
   :name: "チョンチー"
   :params:
@@ -3549,6 +3730,7 @@
   - 170
   - 171
   :final: false
+  :available_in_rating: true
 - :id: 171
   :name: "ランターン"
   :params:
@@ -3569,6 +3751,7 @@
   - 170
   - 171
   :final: true
+  :available_in_rating: true
 - :id: 172
   :name: "ピチュー"
   :params:
@@ -3588,6 +3771,7 @@
   - 25
   - 26
   :final: false
+  :available_in_rating: true
 - :id: 173
   :name: "ピィ"
   :params:
@@ -3608,6 +3792,7 @@
   - 35
   - 36
   :final: false
+  :available_in_rating: true
 - :id: 174
   :name: "ププリン"
   :params:
@@ -3627,6 +3812,7 @@
   - 39
   - 40
   :final: false
+  :available_in_rating: true
 - :id: 175
   :name: "トゲピー"
   :params:
@@ -3647,6 +3833,7 @@
   - 176
   - 468
   :final: false
+  :available_in_rating: true
 - :id: 176
   :name: "トゲチック"
   :params:
@@ -3668,6 +3855,7 @@
   - 176
   - 468
   :final: false
+  :available_in_rating: true
 - :id: 177
   :name: "ネイティ"
   :params:
@@ -3688,6 +3876,7 @@
   - 177
   - 178
   :final: false
+  :available_in_rating: true
 - :id: 178
   :name: "ネイティオ"
   :params:
@@ -3708,6 +3897,7 @@
   - 177
   - 178
   :final: true
+  :available_in_rating: true
 - :id: 179
   :name: "メリープ"
   :params:
@@ -3727,6 +3917,7 @@
   - 180
   - 181
   :final: false
+  :available_in_rating: true
 - :id: 180
   :name: "モココ"
   :params:
@@ -3746,6 +3937,7 @@
   - 180
   - 181
   :final: false
+  :available_in_rating: true
 - :id: 181
   :name: "デンリュウ"
   :params:
@@ -3765,6 +3957,7 @@
   - 180
   - 181
   :final: true
+  :available_in_rating: true
 - :id: 181
   :name: "メガデンリュウ"
   :params:
@@ -3784,6 +3977,7 @@
   - 180
   - 181
   :final: true
+  :available_in_rating: true
 - :id: 182
   :name: "キレイハナ"
   :params:
@@ -3804,6 +3998,7 @@
   - - 45
     - 182
   :final: true
+  :available_in_rating: true
 - :id: 183
   :name: "マリル"
   :params:
@@ -3825,6 +4020,7 @@
   - 183
   - 184
   :final: false
+  :available_in_rating: true
 - :id: 184
   :name: "マリルリ"
   :params:
@@ -3846,6 +4042,7 @@
   - 183
   - 184
   :final: true
+  :available_in_rating: true
 - :id: 185
   :name: "ウソッキー"
   :params:
@@ -3865,6 +4062,7 @@
   - 438
   - 185
   :final: true
+  :available_in_rating: true
 - :id: 186
   :name: "ニョロトノ"
   :params:
@@ -3886,6 +4084,7 @@
   - - 62
     - 186
   :final: true
+  :available_in_rating: true
 - :id: 187
   :name: "ハネッコ"
   :params:
@@ -3907,6 +4106,7 @@
   - 188
   - 189
   :final: false
+  :available_in_rating: true
 - :id: 188
   :name: "ポポッコ"
   :params:
@@ -3928,6 +4128,7 @@
   - 188
   - 189
   :final: false
+  :available_in_rating: true
 - :id: 189
   :name: "ワタッコ"
   :params:
@@ -3949,6 +4150,7 @@
   - 188
   - 189
   :final: true
+  :available_in_rating: true
 - :id: 190
   :name: "エイパム"
   :params:
@@ -3968,6 +4170,7 @@
   - 190
   - 424
   :final: false
+  :available_in_rating: true
 - :id: 191
   :name: "ヒマナッツ"
   :params:
@@ -3987,6 +4190,7 @@
   - 191
   - 192
   :final: false
+  :available_in_rating: true
 - :id: 192
   :name: "キマワリ"
   :params:
@@ -4006,6 +4210,7 @@
   - 191
   - 192
   :final: true
+  :available_in_rating: true
 - :id: 193
   :name: "ヤンヤンマ"
   :params:
@@ -4026,6 +4231,7 @@
   - 193
   - 469
   :final: false
+  :available_in_rating: true
 - :id: 194
   :name: "ウパー"
   :params:
@@ -4046,6 +4252,7 @@
   - 194
   - 195
   :final: false
+  :available_in_rating: true
 - :id: 195
   :name: "ヌオー"
   :params:
@@ -4066,6 +4273,7 @@
   - 194
   - 195
   :final: true
+  :available_in_rating: true
 - :id: 196
   :name: "エーフィ"
   :params:
@@ -4091,6 +4299,7 @@
     - 471
     - 700
   :final: true
+  :available_in_rating: true
 - :id: 197
   :name: "ブラッキー"
   :params:
@@ -4116,6 +4325,7 @@
     - 471
     - 700
   :final: true
+  :available_in_rating: true
 - :id: 198
   :name: "ヤミカラス"
   :params:
@@ -4136,6 +4346,7 @@
   - 198
   - 430
   :final: false
+  :available_in_rating: true
 - :id: 199
   :name: "ヤドキング"
   :params:
@@ -4157,6 +4368,7 @@
   - - 80
     - 199
   :final: true
+  :available_in_rating: true
 - :id: 200
   :name: "ムウマ"
   :params:
@@ -4174,6 +4386,7 @@
   - 200
   - 429
   :final: false
+  :available_in_rating: true
 - :id: 201
   :name: "アンノーン"
   :params:
@@ -4190,6 +4403,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 202
   :name: "ソーナンス"
   :params:
@@ -4208,6 +4422,7 @@
   - 360
   - 202
   :final: true
+  :available_in_rating: true
 - :id: 203
   :name: "キリンリキ"
   :params:
@@ -4227,6 +4442,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 204
   :name: "クヌギダマ"
   :params:
@@ -4245,6 +4461,7 @@
   - 204
   - 205
   :final: false
+  :available_in_rating: true
 - :id: 205
   :name: "フォレトス"
   :params:
@@ -4264,6 +4481,7 @@
   - 204
   - 205
   :final: true
+  :available_in_rating: true
 - :id: 206
   :name: "ノコッチ"
   :params:
@@ -4282,6 +4500,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 207
   :name: "グライガー"
   :params:
@@ -4302,6 +4521,7 @@
   - 207
   - 472
   :final: false
+  :available_in_rating: true
 - :id: 208
   :name: "ハガネール"
   :params:
@@ -4322,6 +4542,7 @@
   - 95
   - 208
   :final: true
+  :available_in_rating: true
 - :id: 209
   :name: "ブルー"
   :params:
@@ -4341,6 +4562,7 @@
   - 209
   - 210
   :final: false
+  :available_in_rating: true
 - :id: 210
   :name: "グランブル"
   :params:
@@ -4360,6 +4582,7 @@
   - 209
   - 210
   :final: true
+  :available_in_rating: true
 - :id: 211
   :name: "ハリーセン"
   :params:
@@ -4379,6 +4602,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 212
   :name: "ハッサム"
   :params:
@@ -4399,6 +4623,7 @@
   - 123
   - 212
   :final: true
+  :available_in_rating: true
 - :id: 212
   :name: "メガハッサム"
   :params:
@@ -4417,6 +4642,7 @@
   - 123
   - 212
   :final: true
+  :available_in_rating: true
 - :id: 213
   :name: "ツボツボ"
   :params:
@@ -4436,6 +4662,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 214
   :name: "ヘラクロス"
   :params:
@@ -4455,6 +4682,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 214
   :name: "メガヘラクロス"
   :params:
@@ -4472,6 +4700,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 215
   :name: "ニューラ"
   :params:
@@ -4492,6 +4721,7 @@
   - 215
   - 461
   :final: false
+  :available_in_rating: true
 - :id: 216
   :name: "ヒメグマ"
   :params:
@@ -4511,6 +4741,7 @@
   - 216
   - 217
   :final: false
+  :available_in_rating: true
 - :id: 217
   :name: "リングマ"
   :params:
@@ -4530,6 +4761,7 @@
   - 216
   - 217
   :final: true
+  :available_in_rating: true
 - :id: 218
   :name: "マグマッグ"
   :params:
@@ -4549,6 +4781,7 @@
   - 218
   - 219
   :final: false
+  :available_in_rating: true
 - :id: 219
   :name: "マグカルゴ"
   :params:
@@ -4569,6 +4802,7 @@
   - 218
   - 219
   :final: true
+  :available_in_rating: true
 - :id: 220
   :name: "ウリムー"
   :params:
@@ -4590,6 +4824,7 @@
   - 221
   - 473
   :final: false
+  :available_in_rating: true
 - :id: 221
   :name: "イノムー"
   :params:
@@ -4611,6 +4846,7 @@
   - 221
   - 473
   :final: false
+  :available_in_rating: true
 - :id: 222
   :name: "サニーゴ"
   :params:
@@ -4630,6 +4866,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 223
   :name: "テッポウオ"
   :params:
@@ -4649,6 +4886,7 @@
   - 223
   - 224
   :final: false
+  :available_in_rating: true
 - :id: 224
   :name: "オクタン"
   :params:
@@ -4668,6 +4906,7 @@
   - 223
   - 224
   :final: true
+  :available_in_rating: true
 - :id: 225
   :name: "デリバード"
   :params:
@@ -4687,6 +4926,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 226
   :name: "マンタイン"
   :params:
@@ -4707,6 +4947,7 @@
   - 458
   - 226
   :final: true
+  :available_in_rating: true
 - :id: 227
   :name: "エアームド"
   :params:
@@ -4726,6 +4967,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 228
   :name: "デルビル"
   :params:
@@ -4746,6 +4988,7 @@
   - 228
   - 229
   :final: false
+  :available_in_rating: true
 - :id: 229
   :name: "ヘルガー"
   :params:
@@ -4766,6 +5009,7 @@
   - 228
   - 229
   :final: true
+  :available_in_rating: true
 - :id: 229
   :name: "メガヘルガー"
   :params:
@@ -4784,6 +5028,7 @@
   - 228
   - 229
   :final: true
+  :available_in_rating: true
 - :id: 230
   :name: "キングドラ"
   :params:
@@ -4805,6 +5050,7 @@
   - 117
   - 230
   :final: true
+  :available_in_rating: true
 - :id: 231
   :name: "ゴマゾウ"
   :params:
@@ -4823,6 +5069,7 @@
   - 231
   - 232
   :final: false
+  :available_in_rating: true
 - :id: 232
   :name: "ドンファン"
   :params:
@@ -4841,6 +5088,7 @@
   - 231
   - 232
   :final: true
+  :available_in_rating: true
 - :id: 233
   :name: "ポリゴン2"
   :params:
@@ -4861,6 +5109,7 @@
   - 233
   - 474
   :final: false
+  :available_in_rating: true
 - :id: 234
   :name: "オドシシ"
   :params:
@@ -4879,6 +5128,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 235
   :name: "ドーブル"
   :params:
@@ -4897,6 +5147,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 236
   :name: "バルキー"
   :params:
@@ -4918,6 +5169,7 @@
     - 107
     - 237
   :final: false
+  :available_in_rating: true
 - :id: 237
   :name: "カポエラー"
   :params:
@@ -4939,6 +5191,7 @@
     - 107
     - 237
   :final: true
+  :available_in_rating: true
 - :id: 238
   :name: "ムチュール"
   :params:
@@ -4959,6 +5212,7 @@
   - 238
   - 124
   :final: false
+  :available_in_rating: true
 - :id: 239
   :name: "エレキッド"
   :params:
@@ -4978,6 +5232,7 @@
   - 125
   - 466
   :final: false
+  :available_in_rating: true
 - :id: 240
   :name: "ブビィ"
   :params:
@@ -4997,6 +5252,7 @@
   - 126
   - 467
   :final: false
+  :available_in_rating: true
 - :id: 241
   :name: "ミルタンク"
   :params:
@@ -5015,6 +5271,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 242
   :name: "ハピナス"
   :params:
@@ -5035,6 +5292,7 @@
   - 113
   - 242
   :final: true
+  :available_in_rating: true
 - :id: 243
   :name: "ライコウ"
   :params:
@@ -5052,6 +5310,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 244
   :name: "エンテイ"
   :params:
@@ -5069,6 +5328,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 245
   :name: "スイクン"
   :params:
@@ -5086,6 +5346,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 246
   :name: "ヨーギラス"
   :params:
@@ -5106,6 +5367,7 @@
   - 247
   - 248
   :final: false
+  :available_in_rating: true
 - :id: 247
   :name: "サナギラス"
   :params:
@@ -5125,6 +5387,7 @@
   - 247
   - 248
   :final: false
+  :available_in_rating: true
 - :id: 248
   :name: "バンギラス"
   :params:
@@ -5145,6 +5408,7 @@
   - 247
   - 248
   :final: true
+  :available_in_rating: true
 - :id: 248
   :name: "メガバンギラス"
   :params:
@@ -5164,6 +5428,7 @@
   - 247
   - 248
   :final: true
+  :available_in_rating: true
 - :id: 249
   :name: "ルギア"
   :params:
@@ -5182,6 +5447,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: false
 - :id: 250
   :name: "ホウオウ"
   :params:
@@ -5200,6 +5466,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: false
 - :id: 251
   :name: "セレビィ"
   :params:
@@ -5217,6 +5484,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: false
 - :id: 252
   :name: "キモリ"
   :params:
@@ -5236,6 +5504,7 @@
   - 253
   - 254
   :final: false
+  :available_in_rating: true
 - :id: 253
   :name: "ジュプトル"
   :params:
@@ -5255,6 +5524,7 @@
   - 253
   - 254
   :final: false
+  :available_in_rating: true
 - :id: 254
   :name: "ジュカイン"
   :params:
@@ -5274,6 +5544,7 @@
   - 253
   - 254
   :final: true
+  :available_in_rating: true
 - :id: 255
   :name: "アチャモ"
   :params:
@@ -5293,6 +5564,7 @@
   - 256
   - 257
   :final: false
+  :available_in_rating: true
 - :id: 256
   :name: "ワカシャモ"
   :params:
@@ -5313,6 +5585,7 @@
   - 256
   - 257
   :final: false
+  :available_in_rating: true
 - :id: 257
   :name: "バシャーモ"
   :params:
@@ -5333,6 +5606,7 @@
   - 256
   - 257
   :final: true
+  :available_in_rating: true
 - :id: 257
   :name: "メガバシャーモ"
   :params:
@@ -5352,6 +5626,7 @@
   - 256
   - 257
   :final: true
+  :available_in_rating: true
 - :id: 258
   :name: "ミズゴロウ"
   :params:
@@ -5371,6 +5646,7 @@
   - 259
   - 260
   :final: false
+  :available_in_rating: true
 - :id: 259
   :name: "ヌマクロー"
   :params:
@@ -5391,6 +5667,7 @@
   - 259
   - 260
   :final: false
+  :available_in_rating: true
 - :id: 260
   :name: "ラグラージ"
   :params:
@@ -5411,6 +5688,7 @@
   - 259
   - 260
   :final: true
+  :available_in_rating: true
 - :id: 261
   :name: "ポチエナ"
   :params:
@@ -5430,6 +5708,7 @@
   - 261
   - 262
   :final: false
+  :available_in_rating: true
 - :id: 262
   :name: "グラエナ"
   :params:
@@ -5449,6 +5728,7 @@
   - 261
   - 262
   :final: true
+  :available_in_rating: true
 - :id: 263
   :name: "ジグザグマ"
   :params:
@@ -5468,6 +5748,7 @@
   - 263
   - 264
   :final: false
+  :available_in_rating: true
 - :id: 264
   :name: "マッスグマ"
   :params:
@@ -5487,6 +5768,7 @@
   - 263
   - 264
   :final: true
+  :available_in_rating: true
 - :id: 265
   :name: "ケムッソ"
   :params:
@@ -5508,6 +5790,7 @@
   - - 267
     - 269
   :final: false
+  :available_in_rating: true
 - :id: 266
   :name: "カラサリス"
   :params:
@@ -5528,6 +5811,7 @@
   - - 267
     - 269
   :final: false
+  :available_in_rating: true
 - :id: 267
   :name: "アゲハント"
   :params:
@@ -5550,6 +5834,7 @@
   - - 267
     - 269
   :final: true
+  :available_in_rating: true
 - :id: 268
   :name: "マユルド"
   :params:
@@ -5570,6 +5855,7 @@
   - - 267
     - 269
   :final: false
+  :available_in_rating: true
 - :id: 269
   :name: "ドクケイル"
   :params:
@@ -5592,6 +5878,7 @@
   - - 267
     - 269
   :final: true
+  :available_in_rating: true
 - :id: 270
   :name: "ハスボー"
   :params:
@@ -5613,6 +5900,7 @@
   - 271
   - 272
   :final: false
+  :available_in_rating: true
 - :id: 271
   :name: "ハスブレロ"
   :params:
@@ -5634,6 +5922,7 @@
   - 271
   - 272
   :final: false
+  :available_in_rating: true
 - :id: 272
   :name: "ルンパッパ"
   :params:
@@ -5655,6 +5944,7 @@
   - 271
   - 272
   :final: true
+  :available_in_rating: true
 - :id: 273
   :name: "タネボー"
   :params:
@@ -5675,6 +5965,7 @@
   - 274
   - 275
   :final: false
+  :available_in_rating: true
 - :id: 274
   :name: "コノハナ"
   :params:
@@ -5696,6 +5987,7 @@
   - 274
   - 275
   :final: false
+  :available_in_rating: true
 - :id: 275
   :name: "ダーテング"
   :params:
@@ -5717,6 +6009,7 @@
   - 274
   - 275
   :final: true
+  :available_in_rating: true
 - :id: 276
   :name: "スバメ"
   :params:
@@ -5736,6 +6029,7 @@
   - 276
   - 277
   :final: false
+  :available_in_rating: true
 - :id: 277
   :name: "オオスバメ"
   :params:
@@ -5755,6 +6049,7 @@
   - 276
   - 277
   :final: true
+  :available_in_rating: true
 - :id: 278
   :name: "キャモメ"
   :params:
@@ -5774,6 +6069,7 @@
   - 278
   - 279
   :final: false
+  :available_in_rating: true
 - :id: 279
   :name: "ペリッパー"
   :params:
@@ -5793,6 +6089,7 @@
   - 278
   - 279
   :final: true
+  :available_in_rating: true
 - :id: 280
   :name: "ラルトス"
   :params:
@@ -5815,6 +6112,7 @@
   - - 282
     - 475
   :final: false
+  :available_in_rating: true
 - :id: 281
   :name: "キルリア"
   :params:
@@ -5837,6 +6135,7 @@
   - - 282
     - 475
   :final: false
+  :available_in_rating: true
 - :id: 282
   :name: "サーナイト"
   :params:
@@ -5859,6 +6158,7 @@
   - - 282
     - 475
   :final: true
+  :available_in_rating: true
 - :id: 282
   :name: "メガサーナイト"
   :params:
@@ -5879,6 +6179,7 @@
   - - 282
     - 475
   :final: true
+  :available_in_rating: true
 - :id: 283
   :name: "アメタマ"
   :params:
@@ -5898,6 +6199,7 @@
   - 283
   - 284
   :final: false
+  :available_in_rating: true
 - :id: 284
   :name: "アメモース"
   :params:
@@ -5917,6 +6219,7 @@
   - 283
   - 284
   :final: true
+  :available_in_rating: true
 - :id: 285
   :name: "キノココ"
   :params:
@@ -5936,6 +6239,7 @@
   - 285
   - 286
   :final: false
+  :available_in_rating: true
 - :id: 286
   :name: "キノガッサ"
   :params:
@@ -5956,6 +6260,7 @@
   - 285
   - 286
   :final: true
+  :available_in_rating: true
 - :id: 287
   :name: "ナマケロ"
   :params:
@@ -5974,6 +6279,7 @@
   - 288
   - 289
   :final: false
+  :available_in_rating: true
 - :id: 288
   :name: "ヤルキモノ"
   :params:
@@ -5992,6 +6298,7 @@
   - 288
   - 289
   :final: false
+  :available_in_rating: true
 - :id: 289
   :name: "ケッキング"
   :params:
@@ -6010,6 +6317,7 @@
   - 288
   - 289
   :final: true
+  :available_in_rating: true
 - :id: 290
   :name: "ツチニン"
   :params:
@@ -6030,6 +6338,7 @@
   - - 291
     - 292
   :final: false
+  :available_in_rating: true
 - :id: 291
   :name: "テッカニン"
   :params:
@@ -6050,6 +6359,7 @@
   - - 291
     - 292
   :final: true
+  :available_in_rating: true
 - :id: 292
   :name: "ヌケニン"
   :params:
@@ -6069,6 +6379,7 @@
   - - 291
     - 292
   :final: true
+  :available_in_rating: true
 - :id: 293
   :name: "ゴニョニョ"
   :params:
@@ -6088,6 +6399,7 @@
   - 294
   - 295
   :final: false
+  :available_in_rating: true
 - :id: 294
   :name: "ドゴーム"
   :params:
@@ -6107,6 +6419,7 @@
   - 294
   - 295
   :final: false
+  :available_in_rating: true
 - :id: 295
   :name: "バクオング"
   :params:
@@ -6126,6 +6439,7 @@
   - 294
   - 295
   :final: true
+  :available_in_rating: true
 - :id: 296
   :name: "マクノシタ"
   :params:
@@ -6145,6 +6459,7 @@
   - 296
   - 297
   :final: false
+  :available_in_rating: true
 - :id: 297
   :name: "ハリテヤマ"
   :params:
@@ -6164,6 +6479,7 @@
   - 296
   - 297
   :final: true
+  :available_in_rating: true
 - :id: 298
   :name: "ルリリ"
   :params:
@@ -6185,6 +6501,7 @@
   - 183
   - 184
   :final: false
+  :available_in_rating: true
 - :id: 299
   :name: "ノズパス"
   :params:
@@ -6204,6 +6521,7 @@
   - 299
   - 476
   :final: false
+  :available_in_rating: true
 - :id: 300
   :name: "エネコ"
   :params:
@@ -6223,6 +6541,7 @@
   - 300
   - 301
   :final: false
+  :available_in_rating: true
 - :id: 301
   :name: "エネコロロ"
   :params:
@@ -6242,6 +6561,7 @@
   - 300
   - 301
   :final: true
+  :available_in_rating: true
 - :id: 302
   :name: "ヤミラミ"
   :params:
@@ -6261,6 +6581,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 303
   :name: "クチート"
   :params:
@@ -6280,6 +6601,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 303
   :name: "メガクチート"
   :params:
@@ -6297,6 +6619,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 304
   :name: "ココドラ"
   :params:
@@ -6318,6 +6641,7 @@
   - 305
   - 306
   :final: false
+  :available_in_rating: true
 - :id: 305
   :name: "コドラ"
   :params:
@@ -6339,6 +6663,7 @@
   - 305
   - 306
   :final: false
+  :available_in_rating: true
 - :id: 306
   :name: "ボスゴドラ"
   :params:
@@ -6360,6 +6685,7 @@
   - 305
   - 306
   :final: true
+  :available_in_rating: true
 - :id: 306
   :name: "メガボスゴドラ"
   :params:
@@ -6378,6 +6704,7 @@
   - 305
   - 306
   :final: true
+  :available_in_rating: true
 - :id: 307
   :name: "アサナン"
   :params:
@@ -6397,6 +6724,7 @@
   - 307
   - 308
   :final: false
+  :available_in_rating: true
 - :id: 308
   :name: "チャーレム"
   :params:
@@ -6416,6 +6744,7 @@
   - 307
   - 308
   :final: true
+  :available_in_rating: true
 - :id: 308
   :name: "メガチャーレム"
   :params:
@@ -6434,6 +6763,7 @@
   - 307
   - 308
   :final: true
+  :available_in_rating: true
 - :id: 309
   :name: "ラクライ"
   :params:
@@ -6453,6 +6783,7 @@
   - 309
   - 310
   :final: false
+  :available_in_rating: true
 - :id: 310
   :name: "ライボルト"
   :params:
@@ -6472,6 +6803,7 @@
   - 309
   - 310
   :final: true
+  :available_in_rating: true
 - :id: 310
   :name: "メガライボルト"
   :params:
@@ -6489,6 +6821,7 @@
   - 309
   - 310
   :final: true
+  :available_in_rating: true
 - :id: 311
   :name: "プラスル"
   :params:
@@ -6506,6 +6839,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 312
   :name: "マイナン"
   :params:
@@ -6523,6 +6857,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 313
   :name: "バルビート"
   :params:
@@ -6541,6 +6876,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 314
   :name: "イルミーゼ"
   :params:
@@ -6559,6 +6895,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 315
   :name: "ロゼリア"
   :params:
@@ -6580,6 +6917,7 @@
   - 315
   - 407
   :final: false
+  :available_in_rating: true
 - :id: 316
   :name: "ゴクリン"
   :params:
@@ -6599,6 +6937,7 @@
   - 316
   - 317
   :final: false
+  :available_in_rating: true
 - :id: 317
   :name: "マルノーム"
   :params:
@@ -6618,6 +6957,7 @@
   - 316
   - 317
   :final: true
+  :available_in_rating: true
 - :id: 318
   :name: "キバニア"
   :params:
@@ -6637,6 +6977,7 @@
   - 318
   - 319
   :final: false
+  :available_in_rating: true
 - :id: 319
   :name: "サメハダー"
   :params:
@@ -6656,6 +6997,7 @@
   - 318
   - 319
   :final: true
+  :available_in_rating: true
 - :id: 320
   :name: "ホエルコ"
   :params:
@@ -6675,6 +7017,7 @@
   - 320
   - 321
   :final: false
+  :available_in_rating: true
 - :id: 321
   :name: "ホエルオー"
   :params:
@@ -6694,6 +7037,7 @@
   - 320
   - 321
   :final: true
+  :available_in_rating: true
 - :id: 322
   :name: "ドンメル"
   :params:
@@ -6714,6 +7058,7 @@
   - 322
   - 323
   :final: false
+  :available_in_rating: true
 - :id: 323
   :name: "バクーダ"
   :params:
@@ -6734,6 +7079,7 @@
   - 322
   - 323
   :final: true
+  :available_in_rating: true
 - :id: 324
   :name: "コータス"
   :params:
@@ -6751,6 +7097,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 325
   :name: "バネブー"
   :params:
@@ -6770,6 +7117,7 @@
   - 325
   - 326
   :final: false
+  :available_in_rating: true
 - :id: 326
   :name: "ブーピッグ"
   :params:
@@ -6789,6 +7137,7 @@
   - 325
   - 326
   :final: true
+  :available_in_rating: true
 - :id: 327
   :name: "パッチール"
   :params:
@@ -6807,6 +7156,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 328
   :name: "ナックラー"
   :params:
@@ -6827,6 +7177,7 @@
   - 329
   - 330
   :final: false
+  :available_in_rating: true
 - :id: 329
   :name: "ビブラーバ"
   :params:
@@ -6846,6 +7197,7 @@
   - 329
   - 330
   :final: false
+  :available_in_rating: true
 - :id: 330
   :name: "フライゴン"
   :params:
@@ -6865,6 +7217,7 @@
   - 329
   - 330
   :final: true
+  :available_in_rating: true
 - :id: 331
   :name: "サボネア"
   :params:
@@ -6883,6 +7236,7 @@
   - 331
   - 332
   :final: false
+  :available_in_rating: true
 - :id: 332
   :name: "ノクタス"
   :params:
@@ -6902,6 +7256,7 @@
   - 331
   - 332
   :final: true
+  :available_in_rating: true
 - :id: 333
   :name: "チルット"
   :params:
@@ -6921,6 +7276,7 @@
   - 333
   - 334
   :final: false
+  :available_in_rating: true
 - :id: 334
   :name: "チルタリス"
   :params:
@@ -6940,6 +7296,7 @@
   - 333
   - 334
   :final: true
+  :available_in_rating: true
 - :id: 335
   :name: "ザングース"
   :params:
@@ -6957,6 +7314,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 336
   :name: "ハブネーク"
   :params:
@@ -6974,6 +7332,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 337
   :name: "ルナトーン"
   :params:
@@ -6991,6 +7350,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 338
   :name: "ソルロック"
   :params:
@@ -7008,6 +7368,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 339
   :name: "ドジョッチ"
   :params:
@@ -7028,6 +7389,7 @@
   - 339
   - 340
   :final: false
+  :available_in_rating: true
 - :id: 340
   :name: "ナマズン"
   :params:
@@ -7048,6 +7410,7 @@
   - 339
   - 340
   :final: true
+  :available_in_rating: true
 - :id: 341
   :name: "ヘイガニ"
   :params:
@@ -7067,6 +7430,7 @@
   - 341
   - 342
   :final: false
+  :available_in_rating: true
 - :id: 342
   :name: "シザリガー"
   :params:
@@ -7087,6 +7451,7 @@
   - 341
   - 342
   :final: true
+  :available_in_rating: true
 - :id: 343
   :name: "ヤジロン"
   :params:
@@ -7105,6 +7470,7 @@
   - 343
   - 344
   :final: false
+  :available_in_rating: true
 - :id: 344
   :name: "ネンドール"
   :params:
@@ -7123,6 +7489,7 @@
   - 343
   - 344
   :final: true
+  :available_in_rating: true
 - :id: 345
   :name: "リリーラ"
   :params:
@@ -7142,6 +7509,7 @@
   - 345
   - 346
   :final: false
+  :available_in_rating: true
 - :id: 346
   :name: "ユレイドル"
   :params:
@@ -7161,6 +7529,7 @@
   - 345
   - 346
   :final: true
+  :available_in_rating: true
 - :id: 347
   :name: "アノプス"
   :params:
@@ -7180,6 +7549,7 @@
   - 347
   - 348
   :final: false
+  :available_in_rating: true
 - :id: 348
   :name: "アーマルド"
   :params:
@@ -7199,6 +7569,7 @@
   - 347
   - 348
   :final: true
+  :available_in_rating: true
 - :id: 349
   :name: "ヒンバス"
   :params:
@@ -7218,6 +7589,7 @@
   - - 350
     - 350
   :final: false
+  :available_in_rating: true
 - :id: 350
   :name: "ミロカロス"
   :params:
@@ -7238,6 +7610,7 @@
   - - 350
     - 350
   :final: true
+  :available_in_rating: true
 - :id: 351
   :name: "ポワルン"
   :params:
@@ -7254,6 +7627,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 352
   :name: "カクレオン"
   :params:
@@ -7271,6 +7645,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 353
   :name: "カゲボウズ"
   :params:
@@ -7290,6 +7665,7 @@
   - 353
   - 354
   :final: false
+  :available_in_rating: true
 - :id: 354
   :name: "ジュペッタ"
   :params:
@@ -7309,6 +7685,7 @@
   - 353
   - 354
   :final: true
+  :available_in_rating: true
 - :id: 354
   :name: "メガジュペッタ"
   :params:
@@ -7326,6 +7703,7 @@
   - 353
   - 354
   :final: true
+  :available_in_rating: true
 - :id: 355
   :name: "ヨマワル"
   :params:
@@ -7344,6 +7722,7 @@
   - 356
   - 477
   :final: false
+  :available_in_rating: true
 - :id: 356
   :name: "サマヨール"
   :params:
@@ -7363,6 +7742,7 @@
   - 356
   - 477
   :final: false
+  :available_in_rating: true
 - :id: 357
   :name: "トロピウス"
   :params:
@@ -7382,6 +7762,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 358
   :name: "チリーン"
   :params:
@@ -7399,6 +7780,7 @@
   - 433
   - 358
   :final: true
+  :available_in_rating: true
 - :id: 359
   :name: "アブソル"
   :params:
@@ -7417,6 +7799,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 359
   :name: "メガアブソル"
   :params:
@@ -7433,6 +7816,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 360
   :name: "ソーナノ"
   :params:
@@ -7451,6 +7835,7 @@
   - 360
   - 202
   :final: false
+  :available_in_rating: true
 - :id: 361
   :name: "ユキワラシ"
   :params:
@@ -7471,6 +7856,7 @@
   - - 362
     - 478
   :final: false
+  :available_in_rating: true
 - :id: 362
   :name: "オニゴーリ"
   :params:
@@ -7491,6 +7877,7 @@
   - - 362
     - 478
   :final: true
+  :available_in_rating: true
 - :id: 363
   :name: "タマザラシ"
   :params:
@@ -7512,6 +7899,7 @@
   - 364
   - 365
   :final: false
+  :available_in_rating: true
 - :id: 364
   :name: "トドグラー"
   :params:
@@ -7533,6 +7921,7 @@
   - 364
   - 365
   :final: false
+  :available_in_rating: true
 - :id: 365
   :name: "トドゼルガ"
   :params:
@@ -7554,6 +7943,7 @@
   - 364
   - 365
   :final: true
+  :available_in_rating: true
 - :id: 366
   :name: "パールル"
   :params:
@@ -7573,6 +7963,7 @@
   - - 367
     - 368
   :final: false
+  :available_in_rating: true
 - :id: 367
   :name: "ハンテール"
   :params:
@@ -7592,6 +7983,7 @@
   - - 367
     - 368
   :final: true
+  :available_in_rating: true
 - :id: 368
   :name: "サクラビス"
   :params:
@@ -7611,6 +8003,7 @@
   - - 367
     - 368
   :final: true
+  :available_in_rating: true
 - :id: 369
   :name: "ジーランス"
   :params:
@@ -7630,6 +8023,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 370
   :name: "ラブカス"
   :params:
@@ -7647,6 +8041,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 371
   :name: "タツベイ"
   :params:
@@ -7666,6 +8061,7 @@
   - 372
   - 373
   :final: false
+  :available_in_rating: true
 - :id: 372
   :name: "コモルー"
   :params:
@@ -7685,6 +8081,7 @@
   - 372
   - 373
   :final: false
+  :available_in_rating: true
 - :id: 373
   :name: "ボーマンダ"
   :params:
@@ -7705,6 +8102,7 @@
   - 372
   - 373
   :final: true
+  :available_in_rating: true
 - :id: 374
   :name: "ダンバル"
   :params:
@@ -7725,6 +8123,7 @@
   - 375
   - 376
   :final: false
+  :available_in_rating: true
 - :id: 375
   :name: "メタング"
   :params:
@@ -7745,6 +8144,7 @@
   - 375
   - 376
   :final: false
+  :available_in_rating: true
 - :id: 376
   :name: "メタグロス"
   :params:
@@ -7765,6 +8165,7 @@
   - 375
   - 376
   :final: true
+  :available_in_rating: true
 - :id: 377
   :name: "レジロック"
   :params:
@@ -7782,6 +8183,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 378
   :name: "レジアイス"
   :params:
@@ -7799,6 +8201,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 379
   :name: "レジスチル"
   :params:
@@ -7816,6 +8219,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 380
   :name: "ラティアス"
   :params:
@@ -7833,6 +8237,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 381
   :name: "ラティオス"
   :params:
@@ -7850,6 +8255,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 382
   :name: "カイオーガ"
   :params:
@@ -7866,6 +8272,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: false
 - :id: 383
   :name: "グラードン"
   :params:
@@ -7882,6 +8289,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: false
 - :id: 384
   :name: "レックウザ"
   :params:
@@ -7899,6 +8307,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: false
 - :id: 385
   :name: "ジラーチ"
   :params:
@@ -7916,6 +8325,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: false
 - :id: 386
   :name: "デオキシス(ノーマルフォルム)"
   :params:
@@ -7932,6 +8342,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: false
 - :id: 386
   :name: "デオキシス(アタックフォルム)"
   :params:
@@ -7948,6 +8359,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: false
 - :id: 386
   :name: "デオキシス(ディフェンスフォルム)"
   :params:
@@ -7964,6 +8376,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: false
 - :id: 386
   :name: "デオキシス(スピードフォルム)"
   :params:
@@ -7980,6 +8393,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: false
 - :id: 387
   :name: "ナエトル"
   :params:
@@ -7999,6 +8413,7 @@
   - 388
   - 389
   :final: false
+  :available_in_rating: true
 - :id: 388
   :name: "ハヤシガメ"
   :params:
@@ -8018,6 +8433,7 @@
   - 388
   - 389
   :final: false
+  :available_in_rating: true
 - :id: 389
   :name: "ドダイトス"
   :params:
@@ -8038,6 +8454,7 @@
   - 388
   - 389
   :final: true
+  :available_in_rating: true
 - :id: 390
   :name: "ヒコザル"
   :params:
@@ -8057,6 +8474,7 @@
   - 391
   - 392
   :final: false
+  :available_in_rating: true
 - :id: 391
   :name: "モウカザル"
   :params:
@@ -8077,6 +8495,7 @@
   - 391
   - 392
   :final: false
+  :available_in_rating: true
 - :id: 392
   :name: "ゴウカザル"
   :params:
@@ -8097,6 +8516,7 @@
   - 391
   - 392
   :final: true
+  :available_in_rating: true
 - :id: 393
   :name: "ポッチャマ"
   :params:
@@ -8116,6 +8536,7 @@
   - 394
   - 395
   :final: false
+  :available_in_rating: true
 - :id: 394
   :name: "ポッタイシ"
   :params:
@@ -8135,6 +8556,7 @@
   - 394
   - 395
   :final: false
+  :available_in_rating: true
 - :id: 395
   :name: "エンペルト"
   :params:
@@ -8155,6 +8577,7 @@
   - 394
   - 395
   :final: true
+  :available_in_rating: true
 - :id: 396
   :name: "ムックル"
   :params:
@@ -8174,6 +8597,7 @@
   - 397
   - 398
   :final: false
+  :available_in_rating: true
 - :id: 397
   :name: "ムクバード"
   :params:
@@ -8194,6 +8618,7 @@
   - 397
   - 398
   :final: false
+  :available_in_rating: true
 - :id: 398
   :name: "ムクホーク"
   :params:
@@ -8214,6 +8639,7 @@
   - 397
   - 398
   :final: true
+  :available_in_rating: true
 - :id: 399
   :name: "ビッパ"
   :params:
@@ -8233,6 +8659,7 @@
   - 399
   - 400
   :final: false
+  :available_in_rating: true
 - :id: 400
   :name: "ビーダル"
   :params:
@@ -8253,6 +8680,7 @@
   - 399
   - 400
   :final: true
+  :available_in_rating: true
 - :id: 401
   :name: "コロボーシ"
   :params:
@@ -8271,6 +8699,7 @@
   - 401
   - 402
   :final: false
+  :available_in_rating: true
 - :id: 402
   :name: "コロトック"
   :params:
@@ -8289,6 +8718,7 @@
   - 401
   - 402
   :final: true
+  :available_in_rating: true
 - :id: 403
   :name: "コリンク"
   :params:
@@ -8309,6 +8739,7 @@
   - 404
   - 405
   :final: false
+  :available_in_rating: true
 - :id: 404
   :name: "ルクシオ"
   :params:
@@ -8329,6 +8760,7 @@
   - 404
   - 405
   :final: false
+  :available_in_rating: true
 - :id: 405
   :name: "レントラー"
   :params:
@@ -8349,6 +8781,7 @@
   - 404
   - 405
   :final: true
+  :available_in_rating: true
 - :id: 406
   :name: "スボミー"
   :params:
@@ -8370,6 +8803,7 @@
   - 315
   - 407
   :final: false
+  :available_in_rating: true
 - :id: 407
   :name: "ロズレイド"
   :params:
@@ -8391,6 +8825,7 @@
   - 315
   - 407
   :final: true
+  :available_in_rating: true
 - :id: 408
   :name: "ズガイドス"
   :params:
@@ -8409,6 +8844,7 @@
   - 408
   - 409
   :final: false
+  :available_in_rating: true
 - :id: 409
   :name: "ラムパルド"
   :params:
@@ -8427,6 +8863,7 @@
   - 408
   - 409
   :final: true
+  :available_in_rating: true
 - :id: 410
   :name: "タテトプス"
   :params:
@@ -8446,6 +8883,7 @@
   - 410
   - 411
   :final: false
+  :available_in_rating: true
 - :id: 411
   :name: "トリデプス"
   :params:
@@ -8465,6 +8903,7 @@
   - 410
   - 411
   :final: true
+  :available_in_rating: true
 - :id: 412
   :name: "ミノムッチ"
   :params:
@@ -8484,6 +8923,7 @@
   - - 413
     - 414
   :final: false
+  :available_in_rating: true
 - :id: 413
   :name: "ミノマダム(くさきのミノ)"
   :params:
@@ -8504,6 +8944,7 @@
   - - 413
     - 414
   :final: true
+  :available_in_rating: true
 - :id: 413
   :name: "ミノマダム(すなちのミノ)"
   :params:
@@ -8524,6 +8965,7 @@
   - - 413
     - 414
   :final: true
+  :available_in_rating: true
 - :id: 413
   :name: "ミノマダム(ゴミのミノ)"
   :params:
@@ -8544,6 +8986,7 @@
   - - 413
     - 414
   :final: true
+  :available_in_rating: true
 - :id: 414
   :name: "ガーメイル"
   :params:
@@ -8564,6 +9007,7 @@
   - - 413
     - 414
   :final: true
+  :available_in_rating: true
 - :id: 415
   :name: "ミツハニー"
   :params:
@@ -8583,6 +9027,7 @@
   - 415
   - 416
   :final: false
+  :available_in_rating: true
 - :id: 416
   :name: "ビークイン"
   :params:
@@ -8602,6 +9047,7 @@
   - 415
   - 416
   :final: true
+  :available_in_rating: true
 - :id: 417
   :name: "パチリス"
   :params:
@@ -8620,6 +9066,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 418
   :name: "ブイゼル"
   :params:
@@ -8638,6 +9085,7 @@
   - 418
   - 419
   :final: false
+  :available_in_rating: true
 - :id: 419
   :name: "フローゼル"
   :params:
@@ -8656,6 +9104,7 @@
   - 418
   - 419
   :final: true
+  :available_in_rating: true
 - :id: 420
   :name: "チェリンボ"
   :params:
@@ -8673,6 +9122,7 @@
   - 420
   - 421
   :final: false
+  :available_in_rating: true
 - :id: 421
   :name: "チェリム"
   :params:
@@ -8690,6 +9140,7 @@
   - 420
   - 421
   :final: true
+  :available_in_rating: true
 - :id: 422
   :name: "カラナクシ"
   :params:
@@ -8709,6 +9160,7 @@
   - 422
   - 423
   :final: false
+  :available_in_rating: true
 - :id: 423
   :name: "トリトドン"
   :params:
@@ -8729,6 +9181,7 @@
   - 422
   - 423
   :final: true
+  :available_in_rating: true
 - :id: 424
   :name: "エテボース"
   :params:
@@ -8748,6 +9201,7 @@
   - 190
   - 424
   :final: true
+  :available_in_rating: true
 - :id: 425
   :name: "フワンテ"
   :params:
@@ -8768,6 +9222,7 @@
   - 425
   - 426
   :final: false
+  :available_in_rating: true
 - :id: 426
   :name: "フワライド"
   :params:
@@ -8788,6 +9243,7 @@
   - 425
   - 426
   :final: true
+  :available_in_rating: true
 - :id: 427
   :name: "ミミロル"
   :params:
@@ -8807,6 +9263,7 @@
   - 427
   - 428
   :final: false
+  :available_in_rating: true
 - :id: 428
   :name: "ミミロップ"
   :params:
@@ -8826,6 +9283,7 @@
   - 427
   - 428
   :final: true
+  :available_in_rating: true
 - :id: 429
   :name: "ムウマージ"
   :params:
@@ -8843,6 +9301,7 @@
   - 200
   - 429
   :final: true
+  :available_in_rating: true
 - :id: 430
   :name: "ドンカラス"
   :params:
@@ -8863,6 +9322,7 @@
   - 198
   - 430
   :final: true
+  :available_in_rating: true
 - :id: 431
   :name: "ニャルマー"
   :params:
@@ -8882,6 +9342,7 @@
   - 431
   - 432
   :final: false
+  :available_in_rating: true
 - :id: 432
   :name: "ブニャット"
   :params:
@@ -8901,6 +9362,7 @@
   - 431
   - 432
   :final: true
+  :available_in_rating: true
 - :id: 433
   :name: "リーシャン"
   :params:
@@ -8918,6 +9380,7 @@
   - 433
   - 358
   :final: false
+  :available_in_rating: true
 - :id: 434
   :name: "スカンプー"
   :params:
@@ -8938,6 +9401,7 @@
   - 434
   - 435
   :final: false
+  :available_in_rating: true
 - :id: 435
   :name: "スカタンク"
   :params:
@@ -8958,6 +9422,7 @@
   - 434
   - 435
   :final: true
+  :available_in_rating: true
 - :id: 436
   :name: "ドーミラー"
   :params:
@@ -8978,6 +9443,7 @@
   - 436
   - 437
   :final: false
+  :available_in_rating: true
 - :id: 437
   :name: "ドータクン"
   :params:
@@ -8998,6 +9464,7 @@
   - 436
   - 437
   :final: true
+  :available_in_rating: true
 - :id: 438
   :name: "ウソハチ"
   :params:
@@ -9017,6 +9484,7 @@
   - 438
   - 185
   :final: false
+  :available_in_rating: true
 - :id: 439
   :name: "マネネ"
   :params:
@@ -9037,6 +9505,7 @@
   - 439
   - 122
   :final: false
+  :available_in_rating: true
 - :id: 440
   :name: "ピンプク"
   :params:
@@ -9057,6 +9526,7 @@
   - 113
   - 242
   :final: false
+  :available_in_rating: true
 - :id: 441
   :name: "ペラップ"
   :params:
@@ -9076,6 +9546,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 442
   :name: "ミカルゲ"
   :params:
@@ -9094,6 +9565,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 443
   :name: "フカマル"
   :params:
@@ -9114,6 +9586,7 @@
   - 444
   - 445
   :final: false
+  :available_in_rating: true
 - :id: 444
   :name: "ガバイト"
   :params:
@@ -9134,6 +9607,7 @@
   - 444
   - 445
   :final: false
+  :available_in_rating: true
 - :id: 445
   :name: "ガブリアス"
   :params:
@@ -9154,6 +9628,7 @@
   - 444
   - 445
   :final: true
+  :available_in_rating: true
 - :id: 445
   :name: "メガガブリアス"
   :params:
@@ -9173,6 +9648,7 @@
   - 444
   - 445
   :final: true
+  :available_in_rating: true
 - :id: 446
   :name: "ゴンベ"
   :params:
@@ -9192,6 +9668,7 @@
   - 446
   - 143
   :final: false
+  :available_in_rating: true
 - :id: 447
   :name: "リオル"
   :params:
@@ -9211,6 +9688,7 @@
   - 447
   - 448
   :final: false
+  :available_in_rating: true
 - :id: 448
   :name: "ルカリオ"
   :params:
@@ -9231,6 +9709,7 @@
   - 447
   - 448
   :final: true
+  :available_in_rating: true
 - :id: 448
   :name: "メガルカリオ"
   :params:
@@ -9249,6 +9728,7 @@
   - 447
   - 448
   :final: true
+  :available_in_rating: true
 - :id: 449
   :name: "ヒポポタス"
   :params:
@@ -9267,6 +9747,7 @@
   - 449
   - 450
   :final: false
+  :available_in_rating: true
 - :id: 450
   :name: "カバルドン"
   :params:
@@ -9285,6 +9766,7 @@
   - 449
   - 450
   :final: true
+  :available_in_rating: true
 - :id: 451
   :name: "スコルピ"
   :params:
@@ -9305,6 +9787,7 @@
   - 451
   - 452
   :final: false
+  :available_in_rating: true
 - :id: 452
   :name: "ドラピオン"
   :params:
@@ -9325,6 +9808,7 @@
   - 451
   - 452
   :final: true
+  :available_in_rating: true
 - :id: 453
   :name: "グレッグル"
   :params:
@@ -9345,6 +9829,7 @@
   - 453
   - 454
   :final: false
+  :available_in_rating: true
 - :id: 454
   :name: "ドクロッグ"
   :params:
@@ -9365,6 +9850,7 @@
   - 453
   - 454
   :final: true
+  :available_in_rating: true
 - :id: 455
   :name: "マスキッパ"
   :params:
@@ -9381,6 +9867,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 456
   :name: "ケイコウオ"
   :params:
@@ -9400,6 +9887,7 @@
   - 456
   - 457
   :final: false
+  :available_in_rating: true
 - :id: 457
   :name: "ネオラント"
   :params:
@@ -9419,6 +9907,7 @@
   - 456
   - 457
   :final: true
+  :available_in_rating: true
 - :id: 458
   :name: "タマンタ"
   :params:
@@ -9439,6 +9928,7 @@
   - 458
   - 226
   :final: false
+  :available_in_rating: true
 - :id: 459
   :name: "ユキカブリ"
   :params:
@@ -9458,6 +9948,7 @@
   - 459
   - 460
   :final: false
+  :available_in_rating: true
 - :id: 460
   :name: "ユキノオー"
   :params:
@@ -9477,6 +9968,7 @@
   - 459
   - 460
   :final: true
+  :available_in_rating: true
 - :id: 460
   :name: "メガユキノオー"
   :params:
@@ -9495,6 +9987,7 @@
   - 459
   - 460
   :final: true
+  :available_in_rating: true
 - :id: 461
   :name: "マニューラ"
   :params:
@@ -9514,6 +10007,7 @@
   - 215
   - 461
   :final: true
+  :available_in_rating: true
 - :id: 462
   :name: "ジバコイル"
   :params:
@@ -9535,6 +10029,7 @@
   - 82
   - 462
   :final: true
+  :available_in_rating: true
 - :id: 463
   :name: "ベロベルト"
   :params:
@@ -9554,6 +10049,7 @@
   - 108
   - 463
   :final: true
+  :available_in_rating: true
 - :id: 464
   :name: "ドサイドン"
   :params:
@@ -9575,6 +10071,7 @@
   - 112
   - 464
   :final: true
+  :available_in_rating: true
 - :id: 465
   :name: "モジャンボ"
   :params:
@@ -9594,6 +10091,7 @@
   - 114
   - 465
   :final: true
+  :available_in_rating: true
 - :id: 466
   :name: "エレキブル"
   :params:
@@ -9613,6 +10111,7 @@
   - 125
   - 466
   :final: true
+  :available_in_rating: true
 - :id: 467
   :name: "ブーバーン"
   :params:
@@ -9632,6 +10131,7 @@
   - 126
   - 467
   :final: true
+  :available_in_rating: true
 - :id: 468
   :name: "トゲキッス"
   :params:
@@ -9653,6 +10153,7 @@
   - 176
   - 468
   :final: true
+  :available_in_rating: true
 - :id: 469
   :name: "メガヤンマ"
   :params:
@@ -9673,6 +10174,7 @@
   - 193
   - 469
   :final: true
+  :available_in_rating: true
 - :id: 470
   :name: "リーフィア"
   :params:
@@ -9698,6 +10200,7 @@
     - 471
     - 700
   :final: true
+  :available_in_rating: true
 - :id: 471
   :name: "グレイシア"
   :params:
@@ -9723,6 +10226,7 @@
     - 471
     - 700
   :final: true
+  :available_in_rating: true
 - :id: 472
   :name: "グライオン"
   :params:
@@ -9743,6 +10247,7 @@
   - 207
   - 472
   :final: true
+  :available_in_rating: true
 - :id: 473
   :name: "マンムー"
   :params:
@@ -9764,6 +10269,7 @@
   - 221
   - 473
   :final: true
+  :available_in_rating: true
 - :id: 474
   :name: "ポリゴンZ"
   :params:
@@ -9784,6 +10290,7 @@
   - 233
   - 474
   :final: true
+  :available_in_rating: true
 - :id: 475
   :name: "エルレイド"
   :params:
@@ -9805,6 +10312,7 @@
   - - 282
     - 475
   :final: true
+  :available_in_rating: true
 - :id: 476
   :name: "ダイノーズ"
   :params:
@@ -9825,6 +10333,7 @@
   - 299
   - 476
   :final: true
+  :available_in_rating: true
 - :id: 477
   :name: "ヨノワール"
   :params:
@@ -9844,6 +10353,7 @@
   - 356
   - 477
   :final: true
+  :available_in_rating: true
 - :id: 478
   :name: "ユキメノコ"
   :params:
@@ -9864,6 +10374,7 @@
   - - 362
     - 478
   :final: true
+  :available_in_rating: true
 - :id: 479
   :name: "ロトム(基本)"
   :params:
@@ -9881,6 +10392,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 479
   :name: "ロトム(ヒート)"
   :params:
@@ -9898,6 +10410,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 479
   :name: "ロトム(ウォッシュ)"
   :params:
@@ -9915,6 +10428,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 479
   :name: "ロトム(フロスト)"
   :params:
@@ -9932,6 +10446,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 479
   :name: "ロトム(スピン)"
   :params:
@@ -9949,6 +10464,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 479
   :name: "ロトム(カット)"
   :params:
@@ -9966,6 +10482,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 480
   :name: "ユクシー"
   :params:
@@ -9982,6 +10499,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 481
   :name: "エムリット"
   :params:
@@ -9998,6 +10516,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 482
   :name: "アグノム"
   :params:
@@ -10014,6 +10533,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 483
   :name: "ディアルガ"
   :params:
@@ -10032,6 +10552,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: false
 - :id: 484
   :name: "パルキア"
   :params:
@@ -10050,6 +10571,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: false
 - :id: 485
   :name: "ヒードラン"
   :params:
@@ -10068,6 +10590,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 486
   :name: "レジギガス"
   :params:
@@ -10084,6 +10607,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 487
   :name: "ギラティナ(アナザーフォルム)"
   :params:
@@ -10102,6 +10626,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: false
 - :id: 487
   :name: "ギラティナ(オリジンフォルム)"
   :params:
@@ -10119,6 +10644,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: false
 - :id: 488
   :name: "クレセリア"
   :params:
@@ -10135,6 +10661,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 489
   :name: "フィオネ"
   :params:
@@ -10151,6 +10678,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: false
 - :id: 490
   :name: "マナフィ"
   :params:
@@ -10167,6 +10695,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: false
 - :id: 491
   :name: "ダークライ"
   :params:
@@ -10183,6 +10712,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: false
 - :id: 492
   :name: "シェイミ(ランドフォルム)"
   :params:
@@ -10199,6 +10729,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: false
 - :id: 492
   :name: "シェイミ(スカイフォルム)"
   :params:
@@ -10216,6 +10747,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: false
 - :id: 493
   :name: "アルセウス"
   :params:
@@ -10232,6 +10764,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: false
 - :id: 494
   :name: "ビクティニ"
   :params:
@@ -10249,6 +10782,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: false
 - :id: 495
   :name: "ツタージャ"
   :params:
@@ -10268,6 +10802,7 @@
   - 496
   - 497
   :final: false
+  :available_in_rating: true
 - :id: 496
   :name: "ジャノビー"
   :params:
@@ -10287,6 +10822,7 @@
   - 496
   - 497
   :final: false
+  :available_in_rating: true
 - :id: 497
   :name: "ジャローダ"
   :params:
@@ -10306,6 +10842,7 @@
   - 496
   - 497
   :final: true
+  :available_in_rating: true
 - :id: 498
   :name: "ポカブ"
   :params:
@@ -10325,6 +10862,7 @@
   - 499
   - 500
   :final: false
+  :available_in_rating: true
 - :id: 499
   :name: "チャオブー"
   :params:
@@ -10345,6 +10883,7 @@
   - 499
   - 500
   :final: false
+  :available_in_rating: true
 - :id: 500
   :name: "エンブオー"
   :params:
@@ -10365,6 +10904,7 @@
   - 499
   - 500
   :final: true
+  :available_in_rating: true
 - :id: 501
   :name: "ミジュマル"
   :params:
@@ -10384,6 +10924,7 @@
   - 502
   - 503
   :final: false
+  :available_in_rating: true
 - :id: 502
   :name: "フタチマル"
   :params:
@@ -10403,6 +10944,7 @@
   - 502
   - 503
   :final: false
+  :available_in_rating: true
 - :id: 503
   :name: "ダイケンキ"
   :params:
@@ -10422,6 +10964,7 @@
   - 502
   - 503
   :final: true
+  :available_in_rating: true
 - :id: 504
   :name: "ミネズミ"
   :params:
@@ -10441,6 +10984,7 @@
   - 504
   - 505
   :final: false
+  :available_in_rating: true
 - :id: 505
   :name: "ミルホッグ"
   :params:
@@ -10460,6 +11004,7 @@
   - 504
   - 505
   :final: true
+  :available_in_rating: true
 - :id: 506
   :name: "ヨーテリー"
   :params:
@@ -10480,6 +11025,7 @@
   - 507
   - 508
   :final: false
+  :available_in_rating: true
 - :id: 507
   :name: "ハーデリア"
   :params:
@@ -10500,6 +11046,7 @@
   - 507
   - 508
   :final: false
+  :available_in_rating: true
 - :id: 508
   :name: "ムーランド"
   :params:
@@ -10520,6 +11067,7 @@
   - 507
   - 508
   :final: true
+  :available_in_rating: true
 - :id: 509
   :name: "チョロネコ"
   :params:
@@ -10539,6 +11087,7 @@
   - 509
   - 510
   :final: false
+  :available_in_rating: true
 - :id: 510
   :name: "レパルダス"
   :params:
@@ -10558,6 +11107,7 @@
   - 509
   - 510
   :final: true
+  :available_in_rating: true
 - :id: 511
   :name: "ヤナップ"
   :params:
@@ -10576,6 +11126,7 @@
   - 511
   - 512
   :final: false
+  :available_in_rating: true
 - :id: 512
   :name: "ヤナッキー"
   :params:
@@ -10594,6 +11145,7 @@
   - 511
   - 512
   :final: true
+  :available_in_rating: true
 - :id: 513
   :name: "バオップ"
   :params:
@@ -10612,6 +11164,7 @@
   - 513
   - 514
   :final: false
+  :available_in_rating: true
 - :id: 514
   :name: "バオッキー"
   :params:
@@ -10630,6 +11183,7 @@
   - 513
   - 514
   :final: true
+  :available_in_rating: true
 - :id: 515
   :name: "ヒヤップ"
   :params:
@@ -10648,6 +11202,7 @@
   - 515
   - 516
   :final: false
+  :available_in_rating: true
 - :id: 516
   :name: "ヒヤッキー"
   :params:
@@ -10666,6 +11221,7 @@
   - 515
   - 516
   :final: true
+  :available_in_rating: true
 - :id: 517
   :name: "ムンナ"
   :params:
@@ -10685,6 +11241,7 @@
   - 517
   - 518
   :final: false
+  :available_in_rating: true
 - :id: 518
   :name: "ムシャーナ"
   :params:
@@ -10704,6 +11261,7 @@
   - 517
   - 518
   :final: true
+  :available_in_rating: true
 - :id: 519
   :name: "マメパト"
   :params:
@@ -10725,6 +11283,7 @@
   - 520
   - 521
   :final: false
+  :available_in_rating: true
 - :id: 520
   :name: "ハトーボー"
   :params:
@@ -10746,6 +11305,7 @@
   - 520
   - 521
   :final: false
+  :available_in_rating: true
 - :id: 521
   :name: "ケンホロウ"
   :params:
@@ -10767,6 +11327,7 @@
   - 520
   - 521
   :final: true
+  :available_in_rating: true
 - :id: 522
   :name: "シママ"
   :params:
@@ -10786,6 +11347,7 @@
   - 522
   - 523
   :final: false
+  :available_in_rating: true
 - :id: 523
   :name: "ゼブライカ"
   :params:
@@ -10805,6 +11367,7 @@
   - 522
   - 523
   :final: true
+  :available_in_rating: true
 - :id: 524
   :name: "ダンゴロ"
   :params:
@@ -10824,6 +11387,7 @@
   - 525
   - 526
   :final: false
+  :available_in_rating: true
 - :id: 525
   :name: "ガントル"
   :params:
@@ -10843,6 +11407,7 @@
   - 525
   - 526
   :final: false
+  :available_in_rating: true
 - :id: 526
   :name: "ギガイアス"
   :params:
@@ -10862,6 +11427,7 @@
   - 525
   - 526
   :final: true
+  :available_in_rating: true
 - :id: 527
   :name: "コロモリ"
   :params:
@@ -10882,6 +11448,7 @@
   - 527
   - 528
   :final: false
+  :available_in_rating: true
 - :id: 528
   :name: "ココロモリ"
   :params:
@@ -10902,6 +11469,7 @@
   - 527
   - 528
   :final: true
+  :available_in_rating: true
 - :id: 529
   :name: "モグリュー"
   :params:
@@ -10921,6 +11489,7 @@
   - 529
   - 530
   :final: false
+  :available_in_rating: true
 - :id: 530
   :name: "ドリュウズ"
   :params:
@@ -10941,6 +11510,7 @@
   - 529
   - 530
   :final: true
+  :available_in_rating: true
 - :id: 531
   :name: "タブンネ"
   :params:
@@ -10959,6 +11529,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 532
   :name: "ドッコラー"
   :params:
@@ -10979,6 +11550,7 @@
   - 533
   - 534
   :final: false
+  :available_in_rating: true
 - :id: 533
   :name: "ドテッコツ"
   :params:
@@ -10999,6 +11571,7 @@
   - 533
   - 534
   :final: false
+  :available_in_rating: true
 - :id: 534
   :name: "ローブシン"
   :params:
@@ -11019,6 +11592,7 @@
   - 533
   - 534
   :final: true
+  :available_in_rating: true
 - :id: 535
   :name: "オタマロ"
   :params:
@@ -11039,6 +11613,7 @@
   - 536
   - 537
   :final: false
+  :available_in_rating: true
 - :id: 536
   :name: "ガマガル"
   :params:
@@ -11060,6 +11635,7 @@
   - 536
   - 537
   :final: false
+  :available_in_rating: true
 - :id: 537
   :name: "ガマゲロゲ"
   :params:
@@ -11081,6 +11657,7 @@
   - 536
   - 537
   :final: true
+  :available_in_rating: true
 - :id: 538
   :name: "ナゲキ"
   :params:
@@ -11099,6 +11676,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 539
   :name: "ダゲキ"
   :params:
@@ -11117,6 +11695,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 540
   :name: "クルミル"
   :params:
@@ -11138,6 +11717,7 @@
   - 541
   - 542
   :final: false
+  :available_in_rating: true
 - :id: 541
   :name: "クルマユ"
   :params:
@@ -11159,6 +11739,7 @@
   - 541
   - 542
   :final: false
+  :available_in_rating: true
 - :id: 542
   :name: "ハハコモリ"
   :params:
@@ -11180,6 +11761,7 @@
   - 541
   - 542
   :final: true
+  :available_in_rating: true
 - :id: 543
   :name: "フシデ"
   :params:
@@ -11201,6 +11783,7 @@
   - 544
   - 545
   :final: false
+  :available_in_rating: true
 - :id: 544
   :name: "ホイーガ"
   :params:
@@ -11222,6 +11805,7 @@
   - 544
   - 545
   :final: false
+  :available_in_rating: true
 - :id: 545
   :name: "ペンドラー"
   :params:
@@ -11243,6 +11827,7 @@
   - 544
   - 545
   :final: true
+  :available_in_rating: true
 - :id: 546
   :name: "モンメン"
   :params:
@@ -11262,6 +11847,7 @@
   - 546
   - 547
   :final: false
+  :available_in_rating: true
 - :id: 547
   :name: "エルフーン"
   :params:
@@ -11282,6 +11868,7 @@
   - 546
   - 547
   :final: true
+  :available_in_rating: true
 - :id: 548
   :name: "チュリネ"
   :params:
@@ -11301,6 +11888,7 @@
   - 548
   - 549
   :final: false
+  :available_in_rating: true
 - :id: 549
   :name: "ドレディア"
   :params:
@@ -11320,6 +11908,7 @@
   - 548
   - 549
   :final: true
+  :available_in_rating: true
 - :id: 550
   :name: "バスラオ(あかすじ)"
   :params:
@@ -11338,6 +11927,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 550
   :name: "バスラオ(あおすじ)"
   :params:
@@ -11356,6 +11946,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 551
   :name: "メグロコ"
   :params:
@@ -11377,6 +11968,7 @@
   - 552
   - 553
   :final: false
+  :available_in_rating: true
 - :id: 552
   :name: "ワルビル"
   :params:
@@ -11398,6 +11990,7 @@
   - 552
   - 553
   :final: false
+  :available_in_rating: true
 - :id: 553
   :name: "ワルビアル"
   :params:
@@ -11419,6 +12012,7 @@
   - 552
   - 553
   :final: true
+  :available_in_rating: true
 - :id: 554
   :name: "ダルマッカ"
   :params:
@@ -11437,6 +12031,7 @@
   - 554
   - 555
   :final: false
+  :available_in_rating: true
 - :id: 555
   :name: "ヒヒダルマ(ノーマルモード)"
   :params:
@@ -11455,6 +12050,7 @@
   - 554
   - 555
   :final: true
+  :available_in_rating: true
 - :id: 555
   :name: "ヒヒダルマ(ダルマモード)"
   :params:
@@ -11474,6 +12070,7 @@
   - 554
   - 555
   :final: true
+  :available_in_rating: true
 - :id: 556
   :name: "マラカッチ"
   :params:
@@ -11492,6 +12089,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 557
   :name: "イシズマイ"
   :params:
@@ -11512,6 +12110,7 @@
   - 557
   - 558
   :final: false
+  :available_in_rating: true
 - :id: 558
   :name: "イワパレス"
   :params:
@@ -11532,6 +12131,7 @@
   - 557
   - 558
   :final: true
+  :available_in_rating: true
 - :id: 559
   :name: "ズルッグ"
   :params:
@@ -11552,6 +12152,7 @@
   - 559
   - 560
   :final: false
+  :available_in_rating: true
 - :id: 560
   :name: "ズルズキン"
   :params:
@@ -11572,6 +12173,7 @@
   - 559
   - 560
   :final: true
+  :available_in_rating: true
 - :id: 561
   :name: "シンボラー"
   :params:
@@ -11591,6 +12193,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 562
   :name: "デスマス"
   :params:
@@ -11608,6 +12211,7 @@
   - 562
   - 563
   :final: false
+  :available_in_rating: true
 - :id: 563
   :name: "デスカーン"
   :params:
@@ -11625,6 +12229,7 @@
   - 562
   - 563
   :final: true
+  :available_in_rating: true
 - :id: 564
   :name: "プロトーガ"
   :params:
@@ -11645,6 +12250,7 @@
   - 564
   - 565
   :final: false
+  :available_in_rating: true
 - :id: 565
   :name: "アバゴーラ"
   :params:
@@ -11665,6 +12271,7 @@
   - 564
   - 565
   :final: true
+  :available_in_rating: true
 - :id: 566
   :name: "アーケン"
   :params:
@@ -11683,6 +12290,7 @@
   - 566
   - 567
   :final: false
+  :available_in_rating: true
 - :id: 567
   :name: "アーケオス"
   :params:
@@ -11701,6 +12309,7 @@
   - 566
   - 567
   :final: true
+  :available_in_rating: true
 - :id: 568
   :name: "ヤブクロン"
   :params:
@@ -11720,6 +12329,7 @@
   - 568
   - 569
   :final: false
+  :available_in_rating: true
 - :id: 569
   :name: "ダストダス"
   :params:
@@ -11739,6 +12349,7 @@
   - 568
   - 569
   :final: true
+  :available_in_rating: true
 - :id: 570
   :name: "ゾロア"
   :params:
@@ -11756,6 +12367,7 @@
   - 570
   - 571
   :final: false
+  :available_in_rating: true
 - :id: 571
   :name: "ゾロアーク"
   :params:
@@ -11773,6 +12385,7 @@
   - 570
   - 571
   :final: true
+  :available_in_rating: true
 - :id: 572
   :name: "チラーミィ"
   :params:
@@ -11792,6 +12405,7 @@
   - 572
   - 573
   :final: false
+  :available_in_rating: true
 - :id: 573
   :name: "チラチーノ"
   :params:
@@ -11811,6 +12425,7 @@
   - 572
   - 573
   :final: true
+  :available_in_rating: true
 - :id: 574
   :name: "ゴチム"
   :params:
@@ -11831,6 +12446,7 @@
   - 575
   - 576
   :final: false
+  :available_in_rating: true
 - :id: 575
   :name: "ゴチミル"
   :params:
@@ -11851,6 +12467,7 @@
   - 575
   - 576
   :final: false
+  :available_in_rating: true
 - :id: 576
   :name: "ゴチルゼル"
   :params:
@@ -11871,6 +12488,7 @@
   - 575
   - 576
   :final: true
+  :available_in_rating: true
 - :id: 577
   :name: "ユニラン"
   :params:
@@ -11891,6 +12509,7 @@
   - 578
   - 579
   :final: false
+  :available_in_rating: true
 - :id: 578
   :name: "ダブラン"
   :params:
@@ -11911,6 +12530,7 @@
   - 578
   - 579
   :final: false
+  :available_in_rating: true
 - :id: 579
   :name: "ランクルス"
   :params:
@@ -11931,6 +12551,7 @@
   - 578
   - 579
   :final: true
+  :available_in_rating: true
 - :id: 580
   :name: "コアルヒー"
   :params:
@@ -11951,6 +12572,7 @@
   - 580
   - 581
   :final: false
+  :available_in_rating: true
 - :id: 581
   :name: "スワンナ"
   :params:
@@ -11971,6 +12593,7 @@
   - 580
   - 581
   :final: true
+  :available_in_rating: true
 - :id: 582
   :name: "バニプッチ"
   :params:
@@ -11990,6 +12613,7 @@
   - 583
   - 584
   :final: false
+  :available_in_rating: true
 - :id: 583
   :name: "バニリッチ"
   :params:
@@ -12009,6 +12633,7 @@
   - 583
   - 584
   :final: false
+  :available_in_rating: true
 - :id: 584
   :name: "バイバニラ"
   :params:
@@ -12028,6 +12653,7 @@
   - 583
   - 584
   :final: true
+  :available_in_rating: true
 - :id: 585
   :name: "シキジカ"
   :params:
@@ -12048,6 +12674,7 @@
   - 585
   - 586
   :final: false
+  :available_in_rating: true
 - :id: 586
   :name: "メブキジカ"
   :params:
@@ -12068,6 +12695,7 @@
   - 585
   - 586
   :final: true
+  :available_in_rating: true
 - :id: 587
   :name: "エモンガ"
   :params:
@@ -12086,6 +12714,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 588
   :name: "カブルモ"
   :params:
@@ -12105,6 +12734,7 @@
   - 588
   - 589
   :final: false
+  :available_in_rating: true
 - :id: 589
   :name: "シュバルゴ"
   :params:
@@ -12125,6 +12755,7 @@
   - 588
   - 589
   :final: true
+  :available_in_rating: true
 - :id: 590
   :name: "タマゲタケ"
   :params:
@@ -12144,6 +12775,7 @@
   - 590
   - 591
   :final: false
+  :available_in_rating: true
 - :id: 591
   :name: "モロバレル"
   :params:
@@ -12163,6 +12795,7 @@
   - 590
   - 591
   :final: true
+  :available_in_rating: true
 - :id: 592
   :name: "プルリル"
   :params:
@@ -12183,6 +12816,7 @@
   - 592
   - 593
   :final: false
+  :available_in_rating: true
 - :id: 593
   :name: "ブルンゲル"
   :params:
@@ -12203,6 +12837,7 @@
   - 592
   - 593
   :final: true
+  :available_in_rating: true
 - :id: 594
   :name: "ママンボウ"
   :params:
@@ -12221,6 +12856,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 595
   :name: "バチュル"
   :params:
@@ -12241,6 +12877,7 @@
   - 595
   - 596
   :final: false
+  :available_in_rating: true
 - :id: 596
   :name: "デンチュラ"
   :params:
@@ -12261,6 +12898,7 @@
   - 595
   - 596
   :final: true
+  :available_in_rating: true
 - :id: 597
   :name: "テッシード"
   :params:
@@ -12279,6 +12917,7 @@
   - 597
   - 598
   :final: false
+  :available_in_rating: true
 - :id: 598
   :name: "ナットレイ"
   :params:
@@ -12298,6 +12937,7 @@
   - 597
   - 598
   :final: true
+  :available_in_rating: true
 - :id: 599
   :name: "ギアル"
   :params:
@@ -12318,6 +12958,7 @@
   - 600
   - 601
   :final: false
+  :available_in_rating: true
 - :id: 600
   :name: "ギギアル"
   :params:
@@ -12338,6 +12979,7 @@
   - 600
   - 601
   :final: false
+  :available_in_rating: true
 - :id: 601
   :name: "ギギギアル"
   :params:
@@ -12358,6 +13000,7 @@
   - 600
   - 601
   :final: true
+  :available_in_rating: true
 - :id: 602
   :name: "シビシラス"
   :params:
@@ -12376,6 +13019,7 @@
   - 603
   - 604
   :final: false
+  :available_in_rating: true
 - :id: 603
   :name: "シビビール"
   :params:
@@ -12394,6 +13038,7 @@
   - 603
   - 604
   :final: false
+  :available_in_rating: true
 - :id: 604
   :name: "シビルドン"
   :params:
@@ -12412,6 +13057,7 @@
   - 603
   - 604
   :final: true
+  :available_in_rating: true
 - :id: 605
   :name: "リグレー"
   :params:
@@ -12431,6 +13077,7 @@
   - 605
   - 606
   :final: false
+  :available_in_rating: true
 - :id: 606
   :name: "オーベム"
   :params:
@@ -12450,6 +13097,7 @@
   - 605
   - 606
   :final: true
+  :available_in_rating: true
 - :id: 607
   :name: "ヒトモシ"
   :params:
@@ -12471,6 +13119,7 @@
   - 608
   - 609
   :final: false
+  :available_in_rating: true
 - :id: 608
   :name: "ランプラー"
   :params:
@@ -12492,6 +13141,7 @@
   - 608
   - 609
   :final: false
+  :available_in_rating: true
 - :id: 609
   :name: "シャンデラ"
   :params:
@@ -12513,6 +13163,7 @@
   - 608
   - 609
   :final: true
+  :available_in_rating: true
 - :id: 610
   :name: "キバゴ"
   :params:
@@ -12533,6 +13184,7 @@
   - 611
   - 612
   :final: false
+  :available_in_rating: true
 - :id: 611
   :name: "オノンド"
   :params:
@@ -12553,6 +13205,7 @@
   - 611
   - 612
   :final: false
+  :available_in_rating: true
 - :id: 612
   :name: "オノノクス"
   :params:
@@ -12573,6 +13226,7 @@
   - 611
   - 612
   :final: true
+  :available_in_rating: true
 - :id: 613
   :name: "クマシュン"
   :params:
@@ -12591,6 +13245,7 @@
   - 613
   - 614
   :final: false
+  :available_in_rating: true
 - :id: 614
   :name: "ツンベアー"
   :params:
@@ -12609,6 +13264,7 @@
   - 613
   - 614
   :final: true
+  :available_in_rating: true
 - :id: 615
   :name: "フリージオ"
   :params:
@@ -12625,6 +13281,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 616
   :name: "チョボマキ"
   :params:
@@ -12644,6 +13301,7 @@
   - 616
   - 617
   :final: false
+  :available_in_rating: true
 - :id: 617
   :name: "アギルダー"
   :params:
@@ -12663,6 +13321,7 @@
   - 616
   - 617
   :final: true
+  :available_in_rating: true
 - :id: 618
   :name: "マッギョ"
   :params:
@@ -12682,6 +13341,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 619
   :name: "コジョフー"
   :params:
@@ -12701,6 +13361,7 @@
   - 619
   - 620
   :final: false
+  :available_in_rating: true
 - :id: 620
   :name: "コジョンド"
   :params:
@@ -12720,6 +13381,7 @@
   - 619
   - 620
   :final: true
+  :available_in_rating: true
 - :id: 621
   :name: "クリムガン"
   :params:
@@ -12738,6 +13400,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 622
   :name: "ゴビット"
   :params:
@@ -12758,6 +13421,7 @@
   - 622
   - 623
   :final: false
+  :available_in_rating: true
 - :id: 623
   :name: "ゴルーグ"
   :params:
@@ -12778,6 +13442,7 @@
   - 622
   - 623
   :final: true
+  :available_in_rating: true
 - :id: 624
   :name: "コマタナ"
   :params:
@@ -12798,6 +13463,7 @@
   - 624
   - 625
   :final: false
+  :available_in_rating: true
 - :id: 625
   :name: "キリキザン"
   :params:
@@ -12818,6 +13484,7 @@
   - 624
   - 625
   :final: true
+  :available_in_rating: true
 - :id: 626
   :name: "バッフロン"
   :params:
@@ -12836,6 +13503,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 627
   :name: "ワシボン"
   :params:
@@ -12856,6 +13524,7 @@
   - 627
   - 628
   :final: false
+  :available_in_rating: true
 - :id: 628
   :name: "ウォーグル"
   :params:
@@ -12876,6 +13545,7 @@
   - 627
   - 628
   :final: true
+  :available_in_rating: true
 - :id: 629
   :name: "バルチャイ"
   :params:
@@ -12896,6 +13566,7 @@
   - 629
   - 630
   :final: false
+  :available_in_rating: true
 - :id: 630
   :name: "バルジーナ"
   :params:
@@ -12916,6 +13587,7 @@
   - 629
   - 630
   :final: true
+  :available_in_rating: true
 - :id: 631
   :name: "クイタラン"
   :params:
@@ -12934,6 +13606,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 632
   :name: "アイアント"
   :params:
@@ -12953,6 +13626,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 633
   :name: "モノズ"
   :params:
@@ -12972,6 +13646,7 @@
   - 634
   - 635
   :final: false
+  :available_in_rating: true
 - :id: 634
   :name: "ジヘッド"
   :params:
@@ -12991,6 +13666,7 @@
   - 634
   - 635
   :final: false
+  :available_in_rating: true
 - :id: 635
   :name: "サザンドラ"
   :params:
@@ -13010,6 +13686,7 @@
   - 634
   - 635
   :final: true
+  :available_in_rating: true
 - :id: 636
   :name: "メラルバ"
   :params:
@@ -13029,6 +13706,7 @@
   - 636
   - 637
   :final: false
+  :available_in_rating: true
 - :id: 637
   :name: "ウルガモス"
   :params:
@@ -13048,6 +13726,7 @@
   - 636
   - 637
   :final: true
+  :available_in_rating: true
 - :id: 638
   :name: "コバルオン"
   :params:
@@ -13065,6 +13744,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 639
   :name: "テラキオン"
   :params:
@@ -13082,6 +13762,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 640
   :name: "ビリジオン"
   :params:
@@ -13099,6 +13780,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 641
   :name: "トルネロス(けしんフォルム)"
   :params:
@@ -13116,6 +13798,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 641
   :name: "トルネロス(れいじゅうフォルム)"
   :params:
@@ -13132,6 +13815,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 642
   :name: "ボルトロス(けしんフォルム)"
   :params:
@@ -13150,6 +13834,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 642
   :name: "ボルトロス(れいじゅうフォルム)"
   :params:
@@ -13167,6 +13852,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 643
   :name: "レシラム"
   :params:
@@ -13184,6 +13870,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: false
 - :id: 644
   :name: "ゼクロム"
   :params:
@@ -13201,6 +13888,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: false
 - :id: 645
   :name: "ランドロス(けしんフォルム)"
   :params:
@@ -13219,6 +13907,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 645
   :name: "ランドロス(れいじゅうフォルム)"
   :params:
@@ -13236,6 +13925,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 646
   :name: "キュレム(通常)"
   :params:
@@ -13253,6 +13943,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: false
 - :id: 646
   :name: "キュレム(ホワイトキュレム)"
   :params:
@@ -13270,6 +13961,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: false
 - :id: 646
   :name: "キュレム(ブラックキュレム)"
   :params:
@@ -13287,6 +13979,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: false
 - :id: 647
   :name: "ケルディオ(いつものすがた)"
   :params:
@@ -13304,6 +13997,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: false
 - :id: 647
   :name: "ケルディオ(かくごのすがた)"
   :params:
@@ -13321,6 +14015,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: false
 - :id: 648
   :name: "メロエッタ(ボイスフォルム)"
   :params:
@@ -13338,6 +14033,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: false
 - :id: 648
   :name: "メロエッタ(ステップフォルム)"
   :params:
@@ -13355,6 +14051,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: false
 - :id: 649
   :name: "ゲノセクト"
   :params:
@@ -13372,6 +14069,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: false
 - :id: 650
   :name: "ハリマロン"
   :params:
@@ -13391,6 +14089,7 @@
   - 651
   - 652
   :final: false
+  :available_in_rating: true
 - :id: 651
   :name: "ハリボーグ"
   :params:
@@ -13410,6 +14109,7 @@
   - 651
   - 652
   :final: false
+  :available_in_rating: true
 - :id: 652
   :name: "ブリガロン"
   :params:
@@ -13430,6 +14130,7 @@
   - 651
   - 652
   :final: true
+  :available_in_rating: true
 - :id: 653
   :name: "フォッコ"
   :params:
@@ -13449,6 +14150,7 @@
   - 654
   - 655
   :final: false
+  :available_in_rating: true
 - :id: 654
   :name: "テールナー"
   :params:
@@ -13468,6 +14170,7 @@
   - 654
   - 655
   :final: false
+  :available_in_rating: true
 - :id: 655
   :name: "マフォクシー"
   :params:
@@ -13488,6 +14191,7 @@
   - 654
   - 655
   :final: true
+  :available_in_rating: true
 - :id: 656
   :name: "ケロマツ"
   :params:
@@ -13507,6 +14211,7 @@
   - 657
   - 658
   :final: false
+  :available_in_rating: true
 - :id: 657
   :name: "ゲコガシラ"
   :params:
@@ -13526,6 +14231,7 @@
   - 657
   - 658
   :final: false
+  :available_in_rating: true
 - :id: 658
   :name: "ゲッコウガ"
   :params:
@@ -13546,6 +14252,7 @@
   - 657
   - 658
   :final: true
+  :available_in_rating: true
 - :id: 659
   :name: "ホルビー"
   :params:
@@ -13565,6 +14272,7 @@
   - 659
   - 660
   :final: false
+  :available_in_rating: true
 - :id: 660
   :name: "ホルード"
   :params:
@@ -13585,6 +14293,7 @@
   - 659
   - 660
   :final: true
+  :available_in_rating: true
 - :id: 661
   :name: "ヤヤコマ"
   :params:
@@ -13605,6 +14314,7 @@
   - 662
   - 663
   :final: false
+  :available_in_rating: true
 - :id: 662
   :name: "ヒノヤコマ"
   :params:
@@ -13625,6 +14335,7 @@
   - 662
   - 663
   :final: false
+  :available_in_rating: true
 - :id: 663
   :name: "ファイアロー"
   :params:
@@ -13645,6 +14356,7 @@
   - 662
   - 663
   :final: true
+  :available_in_rating: true
 - :id: 664
   :name: "コフキムシ"
   :params:
@@ -13665,6 +14377,7 @@
   - 665
   - 666
   :final: false
+  :available_in_rating: true
 - :id: 665
   :name: "コフーライ"
   :params:
@@ -13684,6 +14397,7 @@
   - 665
   - 666
   :final: false
+  :available_in_rating: true
 - :id: 666
   :name: "ビビヨン"
   :params:
@@ -13705,6 +14419,7 @@
   - 665
   - 666
   :final: true
+  :available_in_rating: true
 - :id: 667
   :name: "シシコ"
   :params:
@@ -13725,6 +14440,7 @@
   - 667
   - 668
   :final: false
+  :available_in_rating: true
 - :id: 668
   :name: "カエンジシ"
   :params:
@@ -13745,6 +14461,7 @@
   - 667
   - 668
   :final: true
+  :available_in_rating: true
 - :id: 669
   :name: "フラベベ"
   :params:
@@ -13764,6 +14481,7 @@
   - 670
   - 671
   :final: false
+  :available_in_rating: true
 - :id: 670
   :name: "フラエッテ"
   :params:
@@ -13783,6 +14501,7 @@
   - 670
   - 671
   :final: false
+  :available_in_rating: true
 - :id: 671
   :name: "フラージェス"
   :params:
@@ -13802,6 +14521,7 @@
   - 670
   - 671
   :final: true
+  :available_in_rating: true
 - :id: 672
   :name: "メェークル"
   :params:
@@ -13820,6 +14540,7 @@
   - 672
   - 673
   :final: false
+  :available_in_rating: true
 - :id: 673
   :name: "ゴーゴート"
   :params:
@@ -13838,6 +14559,7 @@
   - 672
   - 673
   :final: true
+  :available_in_rating: true
 - :id: 674
   :name: "ヤンチャム"
   :params:
@@ -13857,6 +14579,7 @@
   - 674
   - 675
   :final: false
+  :available_in_rating: true
 - :id: 675
   :name: "ゴロンダ"
   :params:
@@ -13877,6 +14600,7 @@
   - 674
   - 675
   :final: true
+  :available_in_rating: true
 - :id: 676
   :name: "トリミアン"
   :params:
@@ -13893,6 +14617,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 677
   :name: "ニャスパー"
   :params:
@@ -13912,6 +14637,7 @@
   - 677
   - 678
   :final: false
+  :available_in_rating: true
 - :id: 678
   :name: "ニャオニクス(オスの姿)"
   :params:
@@ -13931,6 +14657,7 @@
   - 677
   - 678
   :final: true
+  :available_in_rating: true
 - :id: 678
   :name: "ニャオニクス(メスの姿)"
   :params:
@@ -13950,6 +14677,7 @@
   - 677
   - 678
   :final: true
+  :available_in_rating: true
 - :id: 679
   :name: "ヒトツキ"
   :params:
@@ -13969,6 +14697,7 @@
   - 680
   - 681
   :final: false
+  :available_in_rating: true
 - :id: 680
   :name: "ニダンギル"
   :params:
@@ -13988,6 +14717,7 @@
   - 680
   - 681
   :final: false
+  :available_in_rating: true
 - :id: 681
   :name: "ギルガルド(シールドフォルム)"
   :params:
@@ -14007,6 +14737,7 @@
   - 680
   - 681
   :final: true
+  :available_in_rating: true
 - :id: 681
   :name: "ギルガルド(ブレードフォルム)"
   :params:
@@ -14026,6 +14757,7 @@
   - 680
   - 681
   :final: true
+  :available_in_rating: true
 - :id: 682
   :name: "シュシュプ"
   :params:
@@ -14044,6 +14776,7 @@
   - 682
   - 683
   :final: false
+  :available_in_rating: true
 - :id: 683
   :name: "フレフワン"
   :params:
@@ -14062,6 +14795,7 @@
   - 682
   - 683
   :final: true
+  :available_in_rating: true
 - :id: 684
   :name: "ペロッパフ"
   :params:
@@ -14080,6 +14814,7 @@
   - 684
   - 685
   :final: false
+  :available_in_rating: true
 - :id: 685
   :name: "ペロリーム"
   :params:
@@ -14098,6 +14833,7 @@
   - 684
   - 685
   :final: true
+  :available_in_rating: true
 - :id: 686
   :name: "マーイーカ"
   :params:
@@ -14118,6 +14854,7 @@
   - 686
   - 687
   :final: false
+  :available_in_rating: true
 - :id: 687
   :name: "カラマネロ"
   :params:
@@ -14138,6 +14875,7 @@
   - 686
   - 687
   :final: true
+  :available_in_rating: true
 - :id: 688
   :name: "カメテテ"
   :params:
@@ -14158,6 +14896,7 @@
   - 688
   - 689
   :final: false
+  :available_in_rating: true
 - :id: 689
   :name: "ガメノデス"
   :params:
@@ -14178,6 +14917,7 @@
   - 688
   - 689
   :final: true
+  :available_in_rating: true
 - :id: 690
   :name: "クズモー"
   :params:
@@ -14197,6 +14937,7 @@
   - 690
   - 691
   :final: false
+  :available_in_rating: true
 - :id: 691
   :name: "ドラミドロ"
   :params:
@@ -14216,6 +14957,7 @@
   - 690
   - 691
   :final: true
+  :available_in_rating: true
 - :id: 692
   :name: "ウデッポウ"
   :params:
@@ -14233,6 +14975,7 @@
   - 692
   - 693
   :final: false
+  :available_in_rating: true
 - :id: 693
   :name: "ブロスター"
   :params:
@@ -14250,6 +14993,7 @@
   - 692
   - 693
   :final: true
+  :available_in_rating: true
 - :id: 694
   :name: "エリキテル"
   :params:
@@ -14270,6 +15014,7 @@
   - 694
   - 695
   :final: false
+  :available_in_rating: true
 - :id: 695
   :name: "エレザード"
   :params:
@@ -14290,6 +15035,7 @@
   - 694
   - 695
   :final: true
+  :available_in_rating: true
 - :id: 696
   :name: "チゴラス"
   :params:
@@ -14308,6 +15054,7 @@
   - 696
   - 697
   :final: false
+  :available_in_rating: true
 - :id: 697
   :name: "ガチゴラス"
   :params:
@@ -14326,6 +15073,7 @@
   - 696
   - 697
   :final: true
+  :available_in_rating: true
 - :id: 698
   :name: "アマルス"
   :params:
@@ -14344,6 +15092,7 @@
   - 698
   - 699
   :final: false
+  :available_in_rating: true
 - :id: 699
   :name: "アマルルガ"
   :params:
@@ -14362,6 +15111,7 @@
   - 698
   - 699
   :final: true
+  :available_in_rating: true
 - :id: 700
   :name: "ニンフィア"
   :params:
@@ -14387,6 +15137,7 @@
     - 471
     - 700
   :final: true
+  :available_in_rating: true
 - :id: 701
   :name: "ルチャブル"
   :params:
@@ -14406,6 +15157,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 702
   :name: "デデンネ"
   :params:
@@ -14425,6 +15177,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 703
   :name: "メレシー"
   :params:
@@ -14443,6 +15196,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 704
   :name: "ヌメラ"
   :params:
@@ -14463,6 +15217,7 @@
   - 705
   - 706
   :final: false
+  :available_in_rating: true
 - :id: 705
   :name: "ヌメイル"
   :params:
@@ -14483,6 +15238,7 @@
   - 705
   - 706
   :final: false
+  :available_in_rating: true
 - :id: 706
   :name: "ヌメルゴン"
   :params:
@@ -14503,6 +15259,7 @@
   - 705
   - 706
   :final: true
+  :available_in_rating: true
 - :id: 707
   :name: "クレッフィ"
   :params:
@@ -14521,6 +15278,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: true
 - :id: 708
   :name: "ボクレー"
   :params:
@@ -14541,6 +15299,7 @@
   - 708
   - 709
   :final: false
+  :available_in_rating: true
 - :id: 709
   :name: "オーロット"
   :params:
@@ -14561,6 +15320,7 @@
   - 708
   - 709
   :final: true
+  :available_in_rating: true
 - :id: 710
   :name: "バケッチャ(ふつうのサイズ)"
   :params:
@@ -14581,6 +15341,7 @@
   - 710
   - 711
   :final: false
+  :available_in_rating: true
 - :id: 710
   :name: "バケッチャ(ちいさいサイズ)"
   :params:
@@ -14601,6 +15362,7 @@
   - 710
   - 711
   :final: false
+  :available_in_rating: true
 - :id: 710
   :name: "バケッチャ(おおきいサイズ)"
   :params:
@@ -14621,6 +15383,7 @@
   - 710
   - 711
   :final: false
+  :available_in_rating: true
 - :id: 710
   :name: "バケッチャ(とくだいサイズ)"
   :params:
@@ -14641,6 +15404,7 @@
   - 710
   - 711
   :final: false
+  :available_in_rating: true
 - :id: 711
   :name: "パンプジン(ふつうのサイズ)"
   :params:
@@ -14661,6 +15425,7 @@
   - 710
   - 711
   :final: true
+  :available_in_rating: true
 - :id: 711
   :name: "パンプジン(ちいさいサイズ)"
   :params:
@@ -14681,6 +15446,7 @@
   - 710
   - 711
   :final: true
+  :available_in_rating: true
 - :id: 711
   :name: "パンプジン(おおきいサイズ)"
   :params:
@@ -14701,6 +15467,7 @@
   - 710
   - 711
   :final: true
+  :available_in_rating: true
 - :id: 711
   :name: "パンプジン(とくだいサイズ)"
   :params:
@@ -14721,6 +15488,7 @@
   - 710
   - 711
   :final: true
+  :available_in_rating: true
 - :id: 712
   :name: "カチコール"
   :params:
@@ -14740,6 +15508,7 @@
   - 712
   - 713
   :final: false
+  :available_in_rating: true
 - :id: 713
   :name: "クレベース"
   :params:
@@ -14759,6 +15528,7 @@
   - 712
   - 713
   :final: true
+  :available_in_rating: true
 - :id: 714
   :name: "オンバット"
   :params:
@@ -14779,6 +15549,7 @@
   - 714
   - 715
   :final: false
+  :available_in_rating: true
 - :id: 715
   :name: "オンバーン"
   :params:
@@ -14799,6 +15570,7 @@
   - 714
   - 715
   :final: true
+  :available_in_rating: true
 - :id: 716
   :name: "ゼルネアス"
   :params:
@@ -14815,6 +15587,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: false
 - :id: 717
   :name: "イベルタル"
   :params:
@@ -14832,6 +15605,7 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: false
 - :id: 718
   :name: "ジガルデ"
   :params:
@@ -14849,3 +15623,4 @@
   :evo_list:
   - []
   :final: false
+  :available_in_rating: false

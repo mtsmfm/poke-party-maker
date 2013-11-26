@@ -54,7 +54,8 @@ gem 'bootstrap-sass', '~> 3.0.1.0.rc'
 group :development, :test do
   gem "erb2haml"
   gem "fuubar"
-  gem "guard-cucumber"
+  # https://github.com/guard/guard/issues/495
+  gem "guard-cucumber", git: 'https://github.com/mtsmfm/guard-cucumber', branch: 'run-on-modifications'
   gem "guard-rspec"
   gem "byebug"
   gem "pry-rails"
@@ -66,6 +67,7 @@ end
 
 group :test do
   gem "capybara"
+  # https://github.com/cucumber/cucumber-rails/issues/252
   gem 'cucumber-rails', require: false, git: 'https://github.com/cucumber/cucumber-rails.git'
   gem "faclet"
   gem "factory_girl_rails"

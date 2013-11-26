@@ -24,6 +24,17 @@ end
 end
 
 前提(/^以下の作成済みのパーティがある:$/) do |table|
+  party = create(:party)
+
+  table.hashes.each do |row|
+    datum = create(
+      :poke_datum,
+      name: row['名前'],
+      poke_type1: ja_type_to_symbol(row['タイプ1'])
+    )
+
+    party.pokemons << create(:pokemon, poke_datum: datum)
+  end
 end
 
 もし(/^"(.*?)"に"(.*?)"を入力する$/) do |field, str|
@@ -71,5 +82,7 @@ end
   page.should have_content(message)
 end
 
-ならば(/^以下のポケモンを含むパーティが表示されていること:$/) do |table|
+ならば(/^以下のパーティが表示されていること:$/) do |expected_table|
+  table = find('table').all('tr').map { |row| row.all('th, td').map { |cell| cell.text.strip } }
+  expected_table.diff! table
 end

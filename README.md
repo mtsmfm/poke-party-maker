@@ -4,11 +4,11 @@
 [![Code Climate](https://codeclimate.com/github/mtsmfm/poke-party-maker.png)](https://codeclimate.com/github/mtsmfm/poke-party-maker)
 [![Coverage Status](https://coveralls.io/repos/mtsmfm/poke-party-maker/badge.png?branch=master)](https://coveralls.io/r/mtsmfm/poke-party-maker?branch=master)
 
-# requirements
+# Requirements
 
-- Rails 4.0.1
+- Rails 4.0.2
 - Ruby 2.1.0
-- postgres
+- PostgreSQL
 
 ```
 bundle install

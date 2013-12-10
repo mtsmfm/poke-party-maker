@@ -4,5 +4,8 @@
       .col-sm-2
         = f.label "names[#{i}]", "ポケモン#{i + 1}", class: 'control-label'
       .col-sm-10
-        = f.text_field "names[#{i}]", name: "#{f.object_name}[names][]", value: name, class: 'form-control'
+        = f.text_field "names[#{i}]", name: "#{f.object_name}[names][]", value: name, class: 'form-control poke-input'
   = submit_tag '決定', class: 'btn btn-lg btn-primary'
+  .col-sm-10#autocomplete-appended
+
+= pokemon_autocomplete('.poke-input', '#autocomplete-appended')

@@ -52,6 +52,7 @@ gem "omniauth"
 gem "enumerize"
 gem 'bootstrap-sass', '~> 3.0.1.0.rc'
 gem 'jquery-ui-rails'
+gem 'chart-js-rails'
 group :development, :test do
   gem "erb2haml"
   gem "fuubar"

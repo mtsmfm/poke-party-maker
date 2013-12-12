@@ -55,13 +55,15 @@ gem 'jquery-ui-rails'
 gem 'chart-js-rails'
 group :development, :test do
   gem "erb2haml"
-  gem "fuubar"
+  # https://github.com/jeffkreeftmeijer/fuubar/pull/47
+  gem "fuubar", github: 'andreacfm/fuubar'
   # https://github.com/guard/guard/issues/495
-  gem "guard-cucumber", git: 'https://github.com/mtsmfm/guard-cucumber', branch: 'run-on-modifications'
+  gem "guard-cucumber", github: 'mtsmfm/guard-cucumber', branch: 'run-on-modifications'
   gem "guard-rspec"
   gem "byebug"
   gem "pry-rails"
-  gem "rspec-rails"
+  gem "rspec-rails", '>= 3.0.0.beta1'
+  gem "rspec-core", github: 'rspec/rspec-core'
   gem "tapp"
   gem "spring-commands-rspec", require: false
   gem "spring-commands-cucumber", require: false
@@ -70,7 +72,7 @@ end
 group :test do
   gem "capybara"
   # https://github.com/cucumber/cucumber-rails/issues/252
-  gem 'cucumber-rails', require: false, git: 'https://github.com/cucumber/cucumber-rails.git'
+  gem 'cucumber-rails', require: false, github: 'cucumber/cucumber-rails'
   gem "faclet"
   gem "factory_girl_rails"
   gem "database_cleaner"

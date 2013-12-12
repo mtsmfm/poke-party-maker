@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20131124122956) do
+ActiveRecord::Schema.define(version: 20131212154626) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -21,25 +21,23 @@ ActiveRecord::Schema.define(version: 20131124122956) do
     t.datetime "updated_at"
   end
 
-  create_table "poke_data", force: true do |t|
-    t.string   "name",                null: false
-    t.string   "poke_type1",          null: false
-    t.string   "poke_type2"
-    t.datetime "created_at"
-    t.datetime "updated_at"
-    t.boolean  "available_in_rating", null: false
-    t.integer  "poke_id",             null: false
-    t.boolean  "final",               null: false
+  create_table "parties_pokemons", force: true do |t|
+    t.integer "party_id"
+    t.integer "pokemon_id"
   end
+
+  add_index "parties_pokemons", ["party_id"], name: "index_parties_pokemons_on_party_id", using: :btree
+  add_index "parties_pokemons", ["pokemon_id"], name: "index_parties_pokemons_on_pokemon_id", using: :btree
 
   create_table "pokemons", force: true do |t|
-    t.integer  "poke_datum_id"
-    t.integer  "party_id"
+    t.integer  "pokedex_id",          null: false
+    t.string   "name",                null: false
+    t.string   "type1",               null: false
+    t.string   "type2"
+    t.boolean  "final",               null: false
+    t.boolean  "available_in_rating", null: false
     t.datetime "created_at"
     t.datetime "updated_at"
   end
-
-  add_index "pokemons", ["party_id"], name: "index_pokemons_on_party_id", using: :btree
-  add_index "pokemons", ["poke_datum_id"], name: "index_pokemons_on_poke_datum_id", using: :btree
 
 end

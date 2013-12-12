@@ -1,9 +1,9 @@
 require 'spec_helper'
 
-describe PokeDatum do
+describe Pokemon do
   describe '.available_in_rating' do
-    faclet!(:available,   :poke_datum, available_in_rating: true)
-    faclet!(:unavailable, :poke_datum, available_in_rating: false)
+    faclet!(:available,   :pokemon, available_in_rating: true)
+    faclet!(:unavailable, :pokemon, available_in_rating: false)
 
     subject { described_class.available_in_rating }
 
@@ -11,8 +11,8 @@ describe PokeDatum do
   end
 
   describe '.final' do
-    faclet!(:final,     :poke_datum, final: true)
-    faclet!(:not_final, :poke_datum, final: false)
+    faclet!(:final,     :pokemon, final: true)
+    faclet!(:not_final, :pokemon, final: false)
 
     subject { described_class.final }
 

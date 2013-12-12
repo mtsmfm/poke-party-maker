@@ -1,5 +1,4 @@
 class Pokemon < ActiveRecord::Base
-  belongs_to :poke_datum
-
-  delegate :name, :to => :poke_datum, allow_nil: true
+  scope :available_in_rating, -> { where available_in_rating: true }
+  scope :final, -> { where final: true }
 end

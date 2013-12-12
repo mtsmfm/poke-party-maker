@@ -25,16 +25,16 @@ module PokeComplementer
     end
 
     def contributing_hash(candidate)
-      TypeChart.list.each_with_object(Hash.new(0)) do |poke_type, hash|
+      TypeChart.list.each_with_object(Hash.new(0)) do |type, hash|
         candidate.each do |pokemon|
-          hash[poke_type] += contributing_value(pokemon, poke_type)
+          hash[type] += contributing_value(pokemon, type)
         end
       end
     end
 
     def contributing_value(pokemon, damaged_type)
-      rate = TypeChart.rate(damaged_type, pokemon.poke_datum.poke_type1)
-      rate *= TypeChart.rate(damaged_type, pokemon.poke_datum.poke_type2) if pokemon.poke_datum.poke_type2.present?
+      rate = TypeChart.rate(damaged_type, pokemon.type1)
+      rate *= TypeChart.rate(damaged_type, pokemon.type2) if pokemon.type2.present?
 
       case rate
       when 0..0.25 then 5

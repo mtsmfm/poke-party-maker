@@ -1,4 +1,3 @@
 class Party < ActiveRecord::Base
-  has_many :pokemons
-  accepts_nested_attributes_for :pokemons
+  has_and_belongs_to_many :pokemons
 end

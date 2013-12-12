@@ -1,15 +1,15 @@
 def ja_type_to_symbol(ja_type)
   I18n.with_locale(:ja) do
-    I18n.t(:poke_type).key(ja_type)
+    I18n.t(:type).key(ja_type)
   end
 end
 
 前提(/^使用可能なポケモンは以下のポケモンだけである:$/) do |table|
   table.hashes.each do |row|
-    create :poke_datum,
+    create :pokemon,
       name: row['名前'],
-      poke_type1: ja_type_to_symbol(row['タイプ1']),
-      poke_type2: ja_type_to_symbol(row['タイプ2']),
+      type1: ja_type_to_symbol(row['タイプ1']),
+      type2: ja_type_to_symbol(row['タイプ2']),
       available_in_rating: row['種別'] != '禁止',
       final: row['最終進化'] == 'o'
   end
@@ -27,13 +27,13 @@ end
   party = create(:party)
 
   table.hashes.each do |row|
-    datum = create(
-      :poke_datum,
+    pokemon = create(
+      :pokemon,
       name: row['名前'],
-      poke_type1: ja_type_to_symbol(row['タイプ1'])
+      type1: ja_type_to_symbol(row['タイプ1'])
     )
 
-    party.pokemons << create(:pokemon, poke_datum: datum)
+    party.pokemons << pokemon
   end
 end
 

@@ -27,13 +27,9 @@ class TrialParty
   def persist!
     @party = Party.new
 
-    PokeDatum.where(name: names).each do |poke_datum|
-      @party.pokemons << Pokemon.new(poke_datum: poke_datum)
-    end
+    @party.pokemons << Pokemon.where(name: names)
 
-    available = PokeDatum.where.not(name: names).available_in_rating.final.map {|poke_datum|
-      Pokemon.new(poke_datum: poke_datum)
-    }
+    available = Pokemon.where.not(name: names).available_in_rating.final
 
     @party.pokemons += PokeComplementer.complement(available: available, chosen: @party.pokemons)
 

@@ -6,9 +6,9 @@ describe PokeComplementer do
     let(:ghost)     { create(:pokemon, :ghost) }
     let(:available) { build_list(:pokemon, 3, :normal) + [ghost] }
 
-    subject { described_class.complement(available: available, chosen: chosen) }
+    subject(:pokemons) { described_class.complement(available: available, chosen: chosen) }
 
-    its(:size) { should eq 3 }
-    it { should include ghost }
+    it { expect(pokemons.size).to eq 3 }
+    it { is_expected.to include ghost }
   end
 end

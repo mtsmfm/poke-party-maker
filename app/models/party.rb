@@ -28,8 +28,8 @@ class Party < ActiveRecord::Base
   end
 
   def compatibilities
-    pokemons.each_with_object({}) do |pokemon, hash|
+    pokemons.each_with_object(HashWithIndifferentAccess.new) {|pokemon, hash|
       hash.merge!(pokemon.compatibilities) {|_, v1, v2| v1 + v2 }
-    end
+    }.map {|k, v| [k, v / pokemons.size] }.to_h.with_indifferent_access
   end
 end

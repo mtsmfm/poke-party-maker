@@ -1,3 +1,11 @@
 %ol
   - @party.pokemons.each do |pokemon|
     %li= pokemon.name
+
+%table#party_compatibilities
+  - @party.compatibilities.each do |type, value|
+    %tr
+      %td= type.text
+      %td= value
+
+= party_radar(id: :party_radar_chart, table: '#party_compatibilities', width: 400, height: 400)

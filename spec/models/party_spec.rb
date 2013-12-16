@@ -73,15 +73,17 @@ describe Party do
   end
 
   describe '#compatibilities' do
-    let(:pokemons) { create_list(:pokemon, 2, :normal) }
-    let(:party) { build(:party, pokemons: pokemons) }
+    let(:normal) { create(:pokemon, :normal) }
+    let(:ghost) { create(:pokemon, :ghost) }
+    let(:party) { build(:party, pokemons: [normal, ghost]) }
 
     subject { party.compatibilities }
 
     before do
-      pokemons.each {|pkmn| allow(pkmn).to receive(:compatibilities).and_return(normal: 1) }
+      allow(normal).to receive(:compatibilities).and_return(fighting: -0.5)
+      allow(ghost).to receive(:compatibilities).and_return(fighting: 1.0)
     end
 
-    it { is_expected.to eq(normal: 2) }
+    it { is_expected.to eq(fighting: 0.25) }
   end
 end

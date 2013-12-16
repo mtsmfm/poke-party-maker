@@ -1,7 +1,5 @@
 def ja_type_to_symbol(ja_type)
-  I18n.with_locale(:ja) do
-    I18n.t(:type).key(ja_type)
-  end
+  Pokemon.type1.values.find {|v| v.text == ja_type }
 end
 
 前提(/^使用可能なポケモンは以下のポケモンだけである:$/) do |table|
@@ -24,7 +22,7 @@ end
 end
 
 前提(/^以下の作成済みのパーティがある:$/) do |table|
-  party = create(:party)
+  @party = create(:party)
 
   table.hashes.each do |row|
     pokemon = create(
@@ -33,7 +31,7 @@ end
       type1: ja_type_to_symbol(row['タイプ1'])
     )
 
-    party.pokemons << pokemon
+    @party.pokemons << pokemon
   end
 end
 
@@ -84,5 +82,20 @@ end
 
 ならば(/^以下のパーティが表示されていること:$/) do |expected_table|
   table = find('table').all('tr').map { |row| row.all('th, td').map { |cell| cell.text.strip } }
+  expected_table.diff! table
+end
+
+前提(/^そのパーティの詳細画面を表示している$/) do
+  visit url_for(@party)
+end
+
+ならば(/^以下の相性表が表示されていること:$/) do |expected_table|
+  table_elem = find('table')
+
+  types  = table_elem.all('td:first').map(&:text)
+  values = table_elem.all('td:last').map(&:text)
+
+  table = [types, values].transpose
+
   expected_table.diff! table
 end

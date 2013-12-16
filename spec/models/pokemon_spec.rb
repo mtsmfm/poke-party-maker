@@ -20,60 +20,25 @@ describe Pokemon do
   end
 
   describe '#compatibilities' do
-    let(:type1) { :normal }
-    let(:type2) { :nil }
+    let(:pokemon) { create(:pokemon) }
 
-    describe 'ノーマル' do
-      let(:focus) { :normal }
-      let(:pokemon) { create(:pokemon, type1: type1, type2: type2) }
+    let(:type) { :ghost }
+    let(:defending_ratios) { {type => 0} }
+    let(:contribution) { 1.0 }
 
-      before do
-        allow(pokemon).to receive(:defending_ratios).and_return(normal: defending_ratio)
-      end
-
-      subject { pokemon.compatibilities[focus] }
-
-      context '無効' do
-        let(:defending_ratio) { 0 }
-
-        it { is_expected.to eq 5 }
-      end
-
-      context '1/4' do
-        let(:defending_ratio) { 0.25 }
-
-        it { is_expected.to eq 5 }
-      end
-
-      context '半減' do
-        let(:defending_ratio) { 0.5 }
-
-        it { is_expected.to eq 4 }
-      end
-
-      context '等倍' do
-        let(:defending_ratio) { 1 }
-
-        it { is_expected.to eq 3 }
-      end
-
-      context '2 倍' do
-        let(:defending_ratio) { 2 }
-
-        it { is_expected.to eq 2 }
-      end
-
-      context '4 倍' do
-        let(:defending_ratio) { 4 }
-
-        it { is_expected.to eq 1 }
-      end
+    before do
+      allow(pokemon).to receive(:defending_ratios).and_return(defending_ratios)
+      allow(pokemon).to receive(:contribution).and_return(contribution)
     end
+
+    subject { pokemon.compatibilities }
+
+    it { is_expected.to eq(type => contribution) }
   end
 
   describe '#defending_ratios' do
     let(:type1) { :normal }
-    let(:type2) { :nil }
+    let(:type2) { nil }
     let(:expected_ratio) { Pokemon::TYPES.map {|v| [v, 1.0] }.to_h }
 
     subject { create(:pokemon, type1: type1, type2: type2).defending_ratios }

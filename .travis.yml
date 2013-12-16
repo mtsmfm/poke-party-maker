@@ -8,7 +8,7 @@ script:
   - bundle exec rake cucumber
 bundler_args: --without development
 rvm:
-  - 2.1.0-preview1
+  - 2.1.0-preview2
 notifications:
   webhooks:
     secure: W1BE6pWshGY0r2/pEpoBmAqgBvFqr5DmDBqsjjFetVzdrPpooJa9OLLd3hlC/ikgwxZVASIU4/wAw1IXSFeGNyP9Wrs/wizftb0XEIq2Xp5Lro9zntMe1cI6LMxPMGzeJw4DfD1yYZO6P6JLD/jo4qE+DdghESyzhi6iY4EtonM=

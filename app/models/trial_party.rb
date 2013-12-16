@@ -25,13 +25,10 @@ class TrialParty
   private
 
   def persist!
-    @party = Party.new
-
-    @party.pokemons << Pokemon.where(name: names)
-
+    chosen = Pokemon.where(name: names)
     available = Pokemon.where.not(name: names).available_in_rating.final
 
-    @party.pokemons += PokeComplementer.complement(available: available, chosen: @party.pokemons)
+    @party = Party.build_nicely(available: available, chosen: chosen)
 
     @party.save
   end

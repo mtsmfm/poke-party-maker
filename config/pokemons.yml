@@ -786,7 +786,7 @@
   - 65
   - 35
   :types:
-  - :faily
+  - :fairy
   :abilities:
   - "メロメロボディ"
   - "マジックガード"
@@ -807,7 +807,7 @@
   - 90
   - 60
   :types:
-  - :faily
+  - :fairy
   :abilities:
   - "メロメロボディ"
   - "マジックガード"
@@ -867,7 +867,7 @@
   - 20
   :types:
   - :normal
-  - :faily
+  - :fairy
   :abilities:
   - "メロメロボディ"
   - "かちき"
@@ -889,7 +889,7 @@
   - 45
   :types:
   - :normal
-  - :faily
+  - :fairy
   :abilities:
   - "メロメロボディ"
   - "かちき"
@@ -1770,7 +1770,7 @@
   - 45
   :types:
   - :electric
-  - :steal
+  - :steel
   :abilities:
   - "じりょく"
   - "がんじょう"
@@ -1792,7 +1792,7 @@
   - 70
   :types:
   - :electric
-  - :steal
+  - :steel
   :abilities:
   - "じりょく"
   - "がんじょう"
@@ -2643,7 +2643,7 @@
   - 90
   :types:
   - :psychic
-  - :faily
+  - :fairy
   :abilities:
   - "ぼうおん"
   - "フィルター"
@@ -3823,7 +3823,7 @@
   - 65
   - 20
   :types:
-  - :faily
+  - :fairy
   :abilities:
   - "はりきり"
   - "てんのめぐみ"
@@ -3844,7 +3844,7 @@
   - 105
   - 40
   :types:
-  - :faily
+  - :fairy
   - :flying
   :abilities:
   - "はりきり"
@@ -4010,7 +4010,7 @@
   - 40
   :types:
   - :water
-  - :faily
+  - :fairy
   :abilities:
   - "あついしぼう"
   - "ちからもち"
@@ -4032,7 +4032,7 @@
   - 50
   :types:
   - :water
-  - :faily
+  - :fairy
   :abilities:
   - "あついしぼう"
   - "ちからもち"
@@ -4473,7 +4473,7 @@
   - 40
   :types:
   - :bug
-  - :steal
+  - :steel
   :abilities:
   - "がんじょう"
   - "ぼうじん"
@@ -4532,7 +4532,7 @@
   - 65
   - 30
   :types:
-  - :steal
+  - :steel
   - :ground
   :abilities:
   - "いしあたま"
@@ -4553,7 +4553,7 @@
   - 40
   - 30
   :types:
-  - :faily
+  - :fairy
   :abilities:
   - "いかく"
   - "にげあし"
@@ -4573,7 +4573,7 @@
   - 60
   - 45
   :types:
-  - :faily
+  - :fairy
   :abilities:
   - "いかく"
   - "はやあし"
@@ -4614,7 +4614,7 @@
   - 65
   :types:
   - :bug
-  - :steal
+  - :steel
   :abilities:
   - "むしのしらせ"
   - "テクニシャン"
@@ -4635,7 +4635,7 @@
   - 75
   :types:
   - :bug
-  - :steal
+  - :steel
   :abilities:
   - "テクニシャン"
   :evo_list:
@@ -4958,7 +4958,7 @@
   - 70
   - 70
   :types:
-  - :steal
+  - :steel
   - :flying
   :abilities:
   - "するどいめ"
@@ -6101,7 +6101,7 @@
   - 40
   :types:
   - :psychic
-  - :faily
+  - :fairy
   :abilities:
   - "シンクロ"
   - "トレース"
@@ -6124,7 +6124,7 @@
   - 50
   :types:
   - :psychic
-  - :faily
+  - :fairy
   :abilities:
   - "シンクロ"
   - "トレース"
@@ -6147,7 +6147,7 @@
   - 80
   :types:
   - :psychic
-  - :faily
+  - :fairy
   :abilities:
   - "シンクロ"
   - "トレース"
@@ -6170,7 +6170,7 @@
   - 100
   :types:
   - :psychic
-  - :faily
+  - :fairy
   :abilities:
   - "フェアリースキン"
   :evo_list:
@@ -6491,7 +6491,7 @@
   - 20
   :types:
   - :normal
-  - :faily
+  - :fairy
   :abilities:
   - "あついしぼう"
   - "ちからもち"
@@ -6592,8 +6592,8 @@
   - 55
   - 50
   :types:
-  - :steal
-  - :faily
+  - :steel
+  - :fairy
   :abilities:
   - "かいりきバサミ"
   - "いかく"
@@ -6612,8 +6612,8 @@
   - 95
   - 50
   :types:
-  - :steal
-  - :faily
+  - :steel
+  - :fairy
   :abilities:
   - "ちからもち"
   :evo_list:
@@ -6630,7 +6630,7 @@
   - 40
   - 30
   :types:
-  - :steal
+  - :steel
   - :rock
   :abilities:
   - "がんじょう"
@@ -6652,7 +6652,7 @@
   - 50
   - 40
   :types:
-  - :steal
+  - :steel
   - :rock
   :abilities:
   - "がんじょう"
@@ -6674,7 +6674,7 @@
   - 60
   - 50
   :types:
-  - :steal
+  - :steel
   - :rock
   :abilities:
   - "がんじょう"
@@ -6696,7 +6696,7 @@
   - 80
   - 50
   :types:
-  - :steal
+  - :steel
   :abilities:
   - "フィルター"
   :evo_list:
@@ -8113,7 +8113,7 @@
   - 60
   - 30
   :types:
-  - :steal
+  - :steel
   - :psychic
   :abilities:
   - "クリアボディ"
@@ -8134,7 +8134,7 @@
   - 80
   - 50
   :types:
-  - :steal
+  - :steel
   - :psychic
   :abilities:
   - "クリアボディ"
@@ -8155,7 +8155,7 @@
   - 90
   - 70
   :types:
-  - :steal
+  - :steel
   - :psychic
   :abilities:
   - "クリアボディ"
@@ -8212,7 +8212,7 @@
   - 150
   - 50
   :types:
-  - :steal
+  - :steel
   :abilities:
   - "クリアボディ"
   - "ライトメタル"
@@ -8318,7 +8318,7 @@
   - 100
   - 100
   :types:
-  - :steal
+  - :steel
   - :psychic
   :abilities:
   - "てんのめぐみ"
@@ -8568,7 +8568,7 @@
   - 60
   :types:
   - :water
-  - :steal
+  - :steel
   :abilities:
   - "げきりゅう"
   - "まけんき"
@@ -8875,7 +8875,7 @@
   - 30
   :types:
   - :rock
-  - :steal
+  - :steel
   :abilities:
   - "がんじょう"
   - "ぼうおん"
@@ -8895,7 +8895,7 @@
   - 30
   :types:
   - :rock
-  - :steal
+  - :steel
   :abilities:
   - "がんじょう"
   - "ぼうおん"
@@ -8977,7 +8977,7 @@
   - 36
   :types:
   - :bug
-  - :steal
+  - :steel
   :abilities:
   - "きけんよち"
   - "ぼうじん"
@@ -9433,7 +9433,7 @@
   - 86
   - 23
   :types:
-  - :steal
+  - :steel
   - :psychic
   :abilities:
   - "ふゆう"
@@ -9454,7 +9454,7 @@
   - 116
   - 33
   :types:
-  - :steal
+  - :steel
   - :psychic
   :abilities:
   - "ふゆう"
@@ -9496,7 +9496,7 @@
   - 60
   :types:
   - :psychic
-  - :faily
+  - :fairy
   :abilities:
   - "ぼうおん"
   - "フィルター"
@@ -9700,7 +9700,7 @@
   - 90
   :types:
   - :fighting
-  - :steal
+  - :steel
   :abilities:
   - "ふくつのこころ"
   - "せいしんりょく"
@@ -9721,7 +9721,7 @@
   - 112
   :types:
   - :fighting
-  - :steal
+  - :steel
   :abilities:
   - "てきおうりょく"
   :evo_list:
@@ -10019,7 +10019,7 @@
   - 60
   :types:
   - :electric
-  - :steal
+  - :steel
   :abilities:
   - "じりょく"
   - "がんじょう"
@@ -10142,7 +10142,7 @@
   - 115
   - 80
   :types:
-  - :faily
+  - :fairy
   - :flying
   :abilities:
   - "はりきり"
@@ -10324,7 +10324,7 @@
   - 40
   :types:
   - :rock
-  - :steal
+  - :steel
   :abilities:
   - "がんじょう"
   - "じりょく"
@@ -10544,7 +10544,7 @@
   - 100
   - 90
   :types:
-  - :steal
+  - :steel
   - :dragon
   :abilities:
   - "プレッシャー"
@@ -10583,7 +10583,7 @@
   - 77
   :types:
   - :fire
-  - :steal
+  - :steel
   :abilities:
   - "もらいび"
   - "ほのおのからだ"
@@ -11501,7 +11501,7 @@
   - 88
   :types:
   - :ground
-  - :steal
+  - :steel
   :abilities:
   - "すなかき"
   - "すなのちから"
@@ -11859,7 +11859,7 @@
   - 116
   :types:
   - :grass
-  - :faily
+  - :fairy
   :abilities:
   - "いたずらごころ"
   - "すりぬけ"
@@ -12746,7 +12746,7 @@
   - 20
   :types:
   - :bug
-  - :steal
+  - :steel
   :abilities:
   - "むしのしらせ"
   - "シェルアーマー"
@@ -12910,7 +12910,7 @@
   - 10
   :types:
   - :grass
-  - :steal
+  - :steel
   :abilities:
   - "てつのトゲ"
   :evo_list:
@@ -12929,7 +12929,7 @@
   - 20
   :types:
   - :grass
-  - :steal
+  - :steel
   :abilities:
   - "てつのトゲ"
   - "きけんよち"
@@ -12948,7 +12948,7 @@
   - 60
   - 30
   :types:
-  - :steal
+  - :steel
   :abilities:
   - "プラス"
   - "マイナス"
@@ -12969,7 +12969,7 @@
   - 85
   - 50
   :types:
-  - :steal
+  - :steel
   :abilities:
   - "プラス"
   - "マイナス"
@@ -12990,7 +12990,7 @@
   - 85
   - 90
   :types:
-  - :steal
+  - :steel
   :abilities:
   - "プラス"
   - "マイナス"
@@ -13454,7 +13454,7 @@
   - 60
   :types:
   - :dark
-  - :steal
+  - :steel
   :abilities:
   - "まけんき"
   - "せいしんりょく"
@@ -13475,7 +13475,7 @@
   - 70
   :types:
   - :dark
-  - :steal
+  - :steel
   :abilities:
   - "まけんき"
   - "せいしんりょく"
@@ -13618,7 +13618,7 @@
   - 109
   :types:
   - :bug
-  - :steal
+  - :steel
   :abilities:
   - "むしのしらせ"
   - "はりきり"
@@ -13737,7 +13737,7 @@
   - 72
   - 108
   :types:
-  - :steal
+  - :steel
   - :fighting
   :abilities:
   - "せいぎのこころ"
@@ -14063,7 +14063,7 @@
   - 99
   :types:
   - :bug
-  - :steal
+  - :steel
   :abilities:
   - "ダウンロード"
   :evo_list:
@@ -14472,7 +14472,7 @@
   - 79
   - 42
   :types:
-  - :faily
+  - :fairy
   :abilities:
   - "フラワーベール"
   - "きょうせい"
@@ -14492,7 +14492,7 @@
   - 98
   - 52
   :types:
-  - :faily
+  - :fairy
   :abilities:
   - "フラワーベール"
   - "きょうせい"
@@ -14512,7 +14512,7 @@
   - 154
   - 75
   :types:
-  - :faily
+  - :fairy
   :abilities:
   - "フラワーベール"
   - "きょうせい"
@@ -14688,7 +14688,7 @@
   - 37
   - 28
   :types:
-  - :steal
+  - :steel
   - :ghost
   :abilities:
   - "ノーガード"
@@ -14708,7 +14708,7 @@
   - 49
   - 35
   :types:
-  - :steal
+  - :steel
   - :ghost
   :abilities:
   - "ノーガード"
@@ -14728,7 +14728,7 @@
   - 150
   - 60
   :types:
-  - :steal
+  - :steel
   - :ghost
   :abilities:
   - "バトルスイッチ"
@@ -14748,7 +14748,7 @@
   - 50
   - 60
   :types:
-  - :steal
+  - :steel
   - :ghost
   :abilities:
   - "バトルスイッチ"
@@ -14768,7 +14768,7 @@
   - 65
   - 23
   :types:
-  - :faily
+  - :fairy
   :abilities:
   - "いやしのこころ"
   - "アロマベール"
@@ -14787,7 +14787,7 @@
   - 89
   - 29
   :types:
-  - :faily
+  - :fairy
   :abilities:
   - "いやしのこころ"
   - "アロマベール"
@@ -14806,7 +14806,7 @@
   - 57
   - 49
   :types:
-  - :faily
+  - :fairy
   :abilities:
   - "スイートベール"
   - "かるわざ"
@@ -14825,7 +14825,7 @@
   - 75
   - 72
   :types:
-  - :faily
+  - :fairy
   :abilities:
   - "スイートベール"
   - "かるわざ"
@@ -15122,7 +15122,7 @@
   - 130
   - 60
   :types:
-  - :faily
+  - :fairy
   :abilities:
   - "メロメロボディ"
   - "フェアリースキン"
@@ -15169,7 +15169,7 @@
   - 101
   :types:
   - :electric
-  - :faily
+  - :fairy
   :abilities:
   - "ほおぶくろ"
   - "ものひろい"
@@ -15189,7 +15189,7 @@
   - 50
   :types:
   - :rock
-  - :faily
+  - :fairy
   :abilities:
   - "クリアボディ"
   - "がんじょう"
@@ -15270,8 +15270,8 @@
   - 87
   - 75
   :types:
-  - :faily
-  - :steal
+  - :fairy
+  - :steel
   :abilities:
   - "いたずらごころ"
   - "マジシャン"
@@ -15581,7 +15581,7 @@
   - 98
   - 99
   :types:
-  - :faily
+  - :fairy
   :abilities:
   - "フェアリーオーラ"
   :evo_list:
